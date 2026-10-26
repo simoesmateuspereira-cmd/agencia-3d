@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T08:08:23+00:00",
+ "gerado_em": "2026-10-26T12:08:35+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 1,
  "cemiterio": [],
@@ -11,9 +11,9 @@
    "apelido": "Reversão 4h",
    "time": "veloz",
    "cor": "#a78bfa",
-   "equity": 348.19,
+   "equity": 348.3,
    "cota_inicial": 331.5,
-   "retorno_pct": 5.04,
+   "retorno_pct": 5.07,
    "sharpe": 5.86,
    "max_dd": 0.88,
    "status": "confiante",
@@ -21,9 +21,9 @@
    "morta": false,
    "geracao": 1,
    "aberturas": 20,
-   "vitorias": 10,
+   "vitorias": 11,
    "derrotas": 3,
-   "pnl": 14.8,
+   "pnl": 15.32,
    "historico": [
     331.5,
     331.5,
@@ -69,16 +69,6 @@
      "aberta_em": "2026-10-24T16:08:28+00:00"
     },
     {
-     "simbolo": "AVAXUSDT",
-     "lado": "long",
-     "entrada": 8.803,
-     "stop": 8.46214286,
-     "alvo": null,
-     "quantidade": 3.27,
-     "gasto_usdt": 28.7858,
-     "aberta_em": "2026-10-24T16:08:29+00:00"
-    },
-    {
      "simbolo": "NEARUSDT",
      "lado": "long",
      "entrada": 4.494,
@@ -110,41 +100,6 @@
     }
    ],
    "eventos": [
-    {
-     "quando": "2026-10-26T01:08:36",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] DOGEUSDT LONG desde 0.07575 | agora 0.0763 | +0.7%"
-    },
-    {
-     "quando": "2026-10-26T01:08:36",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] AVAXUSDT LONG desde 8.803 | agora 8.804 | +0.0%"
-    },
-    {
-     "quando": "2026-10-26T01:08:37",
-     "acao": "ORDEM LONG",
-     "detalhe": "[veloz_1] DOTUSDT 40.67 DOT (~41.36 USDT) @ ~1.017 | stop 0.96685714 | saÃ­da por regra | risco ~2.17 USDT Ã—1.25 | orderId 319958"
-    },
-    {
-     "quando": "2026-10-26T01:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] LTCUSDT LONG desde 56.57 | agora 56.2 | -0.7%"
-    },
-    {
-     "quando": "2026-10-26T01:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] NEARUSDT LONG desde 4.494 | agora 4.459 | -0.8%"
-    },
-    {
-     "quando": "2026-10-26T01:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] UNIUSDT LONG desde 6.842 | agora 6.828 | -0.2%"
-    },
-    {
-     "quando": "2026-10-26T01:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] WIFUSDT LONG desde 0.1834 | agora 0.1773 | -3.3%"
-    },
     {
      "quando": "2026-10-26T05:08:22",
      "acao": "MANTER",
@@ -184,6 +139,41 @@
      "quando": "2026-10-26T05:08:23",
      "acao": "MANTER",
      "detalhe": "[veloz_1] WIFUSDT LONG desde 0.1834 | agora 0.1788 | -2.5%"
+    },
+    {
+     "quando": "2026-10-26T09:08:34",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] ADAUSDT LONG desde 0.2034 | agora 0.2051 | +0.8%"
+    },
+    {
+     "quando": "2026-10-26T09:08:34",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] DOGEUSDT LONG desde 0.07575 | agora 0.07726 | +2.0%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "FECHOU",
+     "detalhe": "[veloz_1] AVAXUSDT 3.27 AVAX @ ~8.98 â€” regra de saÃ­da | P&L +0.52 USDT | orderId 1148755"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] DOTUSDT LONG desde 1.017 | agora 1.025 | +0.8%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] LTCUSDT LONG desde 56.57 | agora 56.72 | +0.3%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] NEARUSDT LONG desde 4.494 | agora 4.584 | +2.0%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] WIFUSDT LONG desde 0.1834 | agora 0.1794 | -2.2%"
     }
    ],
    "ranking": 1
@@ -922,31 +912,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-25T21:08:24",
-     "acao": "MANTER",
-     "detalhe": "[reversao_1] ADAUSDT LONG desde 0.2082 | agora 0.2042 | -1.9%"
-    },
-    {
-     "quando": "2026-10-25T21:08:25",
-     "acao": "ORDEM LONG",
-     "detalhe": "[reversao_1] AVAXUSDT 1.74 AVAX (~15.57 USDT) @ ~8.946 | stop 7.7588571 | saÃ­da por regra | risco ~2.05 USDT Ã—1.25 | orderId 1120643"
-    },
-    {
-     "quando": "2026-10-25T21:08:26",
-     "acao": "ORDEM LONG",
-     "detalhe": "[reversao_1] DOTUSDT 12.06 DOT (~12.42 USDT) @ ~1.03 | stop 0.85928571 | saÃ­da por regra | risco ~2.05 USDT Ã—1.25 | orderId 316747"
-    },
-    {
-     "quando": "2026-10-25T21:08:26",
-     "acao": "MANTER",
-     "detalhe": "[reversao_1] WIFUSDT LONG desde 0.1998 | agora 0.1787 | -10.6%"
-    },
-    {
-     "quando": "2026-10-25T21:08:26",
-     "acao": "MANTER",
-     "detalhe": "[reversao_1] FLOKIUSDT LONG desde 0.00002337 | agora 0.00002274 | -2.7%"
-    },
-    {
      "quando": "2026-10-26T01:08:34",
      "acao": "MANTER",
      "detalhe": "[reversao_1] ADAUSDT LONG desde 0.2082 | agora 0.2042 | -1.9%"
@@ -993,6 +958,31 @@
     },
     {
      "quando": "2026-10-26T05:08:19",
+     "acao": "MANTER",
+     "detalhe": "[reversao_1] FLOKIUSDT LONG desde 0.00002337 | agora 0.00002274 | -2.7%"
+    },
+    {
+     "quando": "2026-10-26T09:08:32",
+     "acao": "MANTER",
+     "detalhe": "[reversao_1] ADAUSDT LONG desde 0.2082 | agora 0.2042 | -1.9%"
+    },
+    {
+     "quando": "2026-10-26T09:08:32",
+     "acao": "MANTER",
+     "detalhe": "[reversao_1] AVAXUSDT LONG desde 8.946 | agora 8.929 | -0.2%"
+    },
+    {
+     "quando": "2026-10-26T09:08:32",
+     "acao": "MANTER",
+     "detalhe": "[reversao_1] DOTUSDT LONG desde 1.03 | agora 1.029 | -0.1%"
+    },
+    {
+     "quando": "2026-10-26T09:08:32",
+     "acao": "MANTER",
+     "detalhe": "[reversao_1] WIFUSDT LONG desde 0.1998 | agora 0.1787 | -10.6%"
+    },
+    {
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_1] FLOKIUSDT LONG desde 0.00002337 | agora 0.00002274 | -2.7%"
     }
@@ -1207,77 +1197,77 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-26T01:08:34",
+     "quando": "2026-10-26T05:08:19",
      "acao": "MANTER",
      "detalhe": "[reversao_6] LINKUSDT LONG desde 12.164 | agora 11.456 | -5.8%"
     },
     {
-     "quando": "2026-10-26T01:08:34",
+     "quando": "2026-10-26T05:08:19",
      "acao": "MANTER",
      "detalhe": "[reversao_6] DOTUSDT LONG desde 1.048 | agora 1.029 | -1.8%"
     },
     {
-     "quando": "2026-10-26T01:08:34",
+     "quando": "2026-10-26T05:08:19",
      "acao": "MANTER",
      "detalhe": "[reversao_6] LTCUSDT LONG desde 59.68 | agora 56.75 | -4.9%"
     },
     {
-     "quando": "2026-10-26T01:08:34",
+     "quando": "2026-10-26T05:08:19",
      "acao": "MANTER",
      "detalhe": "[reversao_6] WIFUSDT LONG desde 0.1998 | agora 0.1787 | -10.6%"
     },
     {
-     "quando": "2026-10-26T01:08:34",
+     "quando": "2026-10-26T05:08:19",
      "acao": "MANTER",
      "detalhe": "[reversao_6] FLOKIUSDT LONG desde 0.00002336 | agora 0.00002274 | -2.7%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_6] SOLUSDT LONG desde 105.85 | agora 101.4 | -4.2%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_6] XRPUSDT LONG desde 1.2927 | agora 1.2962 | +0.3%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_6] ADAUSDT LONG desde 0.2171 | agora 0.2042 | -5.9%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_6] DOGEUSDT LONG desde 0.07967 | agora 0.07693 | -3.4%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_6] AVAXUSDT LONG desde 8.951 | agora 8.929 | -0.2%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_6] LINKUSDT LONG desde 12.164 | agora 11.456 | -5.8%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_6] DOTUSDT LONG desde 1.048 | agora 1.029 | -1.8%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_6] LTCUSDT LONG desde 59.68 | agora 56.75 | -4.9%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_6] WIFUSDT LONG desde 0.1998 | agora 0.1787 | -10.6%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_6] FLOKIUSDT LONG desde 0.00002336 | agora 0.00002274 | -2.7%"
     }
@@ -1400,46 +1390,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-26T01:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] SOLUSDT LONG desde 101.53 | agora 100.21 | -1.3%"
-    },
-    {
-     "quando": "2026-10-26T01:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] DOGEUSDT LONG desde 0.07735 | agora 0.0763 | -1.4%"
-    },
-    {
-     "quando": "2026-10-26T01:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] LINKUSDT LONG desde 11.372 | agora 11.33 | -0.4%"
-    },
-    {
-     "quando": "2026-10-26T01:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ATOMUSDT LONG desde 1.658 | agora 1.624 | -2.1%"
-    },
-    {
-     "quando": "2026-10-26T01:08:38",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] SHIBUSDT LONG desde 0.00000498 | agora 0.00000482 | -3.2%"
-    },
-    {
-     "quando": "2026-10-26T01:08:40",
-     "acao": "ORDEM LONG",
-     "detalhe": "[veloz_4] DOGSUSDT 33793.0 DOGS (~1.20 USDT) @ ~0.00003551 | stop 0.0000341856 | saÃ­da por regra | risco ~2.41 USDT Ã—1.5 | orderId 455420"
-    },
-    {
-     "quando": "2026-10-26T01:08:40",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] FLOKIUSDT LONG desde 0.00002303 | agora 0.00002264 | -1.7%"
-    },
-    {
-     "quando": "2026-10-26T05:08:23",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ETHUSDT LONG desde 2345.74 | agora 2318.71 | -1.2%"
-    },
-    {
      "quando": "2026-10-26T05:08:23",
      "acao": "MANTER",
      "detalhe": "[veloz_4] SOLUSDT LONG desde 101.53 | agora 100.72 | -0.8%"
@@ -1473,6 +1423,46 @@
      "quando": "2026-10-26T05:08:23",
      "acao": "MANTER",
      "detalhe": "[veloz_4] FLOKIUSDT LONG desde 0.00002303 | agora 0.00002277 | -1.1%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ETHUSDT LONG desde 2345.74 | agora 2334.05 | -0.5%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] SOLUSDT LONG desde 101.53 | agora 101.71 | +0.2%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] DOGEUSDT LONG desde 0.07735 | agora 0.07726 | -0.1%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] LINKUSDT LONG desde 11.372 | agora 11.478 | +0.9%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ATOMUSDT LONG desde 1.658 | agora 1.65 | -0.5%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] SHIBUSDT LONG desde 0.00000498 | agora 0.00000486 | -2.4%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] DOGSUSDT LONG desde 0.00003551 | agora 0.00003586 | +1.0%"
+    },
+    {
+     "quando": "2026-10-26T09:08:35",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] FLOKIUSDT LONG desde 0.00002303 | agora 0.00002287 | -0.7%"
     }
    ],
    "ranking": 24
@@ -1533,21 +1523,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-25T09:08:21",
-     "acao": "MANTER",
-     "detalhe": "[grid_1] BTCUSDT LONG desde 81737.39 | agora 80888.16 | -1.0%"
-    },
-    {
-     "quando": "2026-10-25T09:08:21",
-     "acao": "MANTER",
-     "detalhe": "[grid_1] ATOMUSDT LONG desde 1.628 | agora 1.641 | +0.8%"
-    },
-    {
-     "quando": "2026-10-25T09:08:22",
-     "acao": "ORDEM LONG",
-     "detalhe": "[grid_1] NEARUSDT 13.4 NEAR (~60.10 USDT) @ ~4.485 | stop 4.32 | saÃ­da por regra | risco ~2.40 USDT Ã—1.5 | orderId 993664"
-    },
-    {
      "quando": "2026-10-25T13:08:28",
      "acao": "MANTER",
      "detalhe": "[grid_1] BTCUSDT LONG desde 81737.39 | agora 80888.16 | -1.0%"
@@ -1589,6 +1564,16 @@
     },
     {
      "quando": "2026-10-26T05:08:20",
+     "acao": "MANTER",
+     "detalhe": "[grid_1] ATOMUSDT LONG desde 1.628 | agora 1.645 | +1.0%"
+    },
+    {
+     "quando": "2026-10-26T09:08:32",
+     "acao": "MANTER",
+     "detalhe": "[grid_1] BTCUSDT LONG desde 81737.39 | agora 80154.09 | -1.9%"
+    },
+    {
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[grid_1] ATOMUSDT LONG desde 1.628 | agora 1.645 | +1.0%"
     }
@@ -1751,77 +1736,77 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-26T01:08:34",
+     "quando": "2026-10-26T05:08:19",
      "acao": "MANTER",
      "detalhe": "[reversao_4] WIFUSDT LONG desde 0.2023 | agora 0.1787 | -11.7%"
     },
     {
-     "quando": "2026-10-26T01:08:34",
+     "quando": "2026-10-26T05:08:19",
      "acao": "MANTER",
      "detalhe": "[reversao_4] DOGSUSDT LONG desde 0.00003659 | agora 0.00003583 | -2.1%"
     },
     {
-     "quando": "2026-10-26T01:08:34",
+     "quando": "2026-10-26T05:08:19",
      "acao": "MANTER",
      "detalhe": "[reversao_4] FLOKIUSDT LONG desde 0.00002336 | agora 0.00002274 | -2.7%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] SOLUSDT LONG desde 105.84 | agora 101.4 | -4.2%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] XRPUSDT LONG desde 1.3401 | agora 1.2962 | -3.3%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] ADAUSDT LONG desde 0.2171 | agora 0.2042 | -5.9%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] DOGEUSDT LONG desde 0.08148 | agora 0.07693 | -5.6%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] AVAXUSDT LONG desde 9.069 | agora 8.929 | -1.5%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] LINKUSDT LONG desde 11.961 | agora 11.456 | -4.2%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] DOTUSDT LONG desde 1.048 | agora 1.029 | -1.8%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] LTCUSDT LONG desde 60.78 | agora 56.75 | -6.6%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] SHIBUSDT LONG desde 0.0000052 | agora 0.00000485 | -6.7%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] WIFUSDT LONG desde 0.2023 | agora 0.1787 | -11.7%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] DOGSUSDT LONG desde 0.00003659 | agora 0.00003583 | -2.1%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_4] FLOKIUSDT LONG desde 0.00002336 | agora 0.00002274 | -2.7%"
     }
@@ -1984,77 +1969,77 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-26T01:08:34",
+     "quando": "2026-10-26T05:08:19",
      "acao": "MANTER",
      "detalhe": "[reversao_2] WIFUSDT LONG desde 0.2023 | agora 0.1787 | -11.7%"
     },
     {
-     "quando": "2026-10-26T01:08:34",
+     "quando": "2026-10-26T05:08:19",
      "acao": "MANTER",
      "detalhe": "[reversao_2] DOGSUSDT LONG desde 0.00003659 | agora 0.00003583 | -2.1%"
     },
     {
-     "quando": "2026-10-26T01:08:34",
+     "quando": "2026-10-26T05:08:19",
      "acao": "MANTER",
      "detalhe": "[reversao_2] FLOKIUSDT LONG desde 0.00002336 | agora 0.00002274 | -2.7%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] SOLUSDT LONG desde 105.88 | agora 101.4 | -4.2%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] XRPUSDT LONG desde 1.3406 | agora 1.2962 | -3.3%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] ADAUSDT LONG desde 0.2171 | agora 0.2042 | -5.9%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] DOGEUSDT LONG desde 0.0815 | agora 0.07693 | -5.6%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] AVAXUSDT LONG desde 9.073 | agora 8.929 | -1.6%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] LINKUSDT LONG desde 11.961 | agora 11.456 | -4.2%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] DOTUSDT LONG desde 1.048 | agora 1.029 | -1.8%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] LTCUSDT LONG desde 60.79 | agora 56.75 | -6.6%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] SHIBUSDT LONG desde 0.0000052 | agora 0.00000485 | -6.7%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] WIFUSDT LONG desde 0.2023 | agora 0.1787 | -11.7%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] DOGSUSDT LONG desde 0.00003659 | agora 0.00003583 | -2.1%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_2] FLOKIUSDT LONG desde 0.00002336 | agora 0.00002274 | -2.7%"
     }
@@ -2127,21 +2112,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-25T09:08:23",
-     "acao": "MANTER",
-     "detalhe": "[grid_3] LTCUSDT LONG desde 60.78 | agora 57.05 | -6.1%"
-    },
-    {
-     "quando": "2026-10-25T09:08:23",
-     "acao": "MANTER",
-     "detalhe": "[grid_3] ATOMUSDT LONG desde 1.705 | agora 1.641 | -3.8%"
-    },
-    {
-     "quando": "2026-10-25T09:08:23",
-     "acao": "MANTER",
-     "detalhe": "[grid_3] NEARUSDT LONG desde 4.495 | agora 4.5 | +0.1%"
-    },
-    {
      "quando": "2026-10-25T13:08:31",
      "acao": "MANTER",
      "detalhe": "[grid_3] LTCUSDT LONG desde 60.78 | agora 57.05 | -6.1%"
@@ -2198,6 +2168,21 @@
     },
     {
      "quando": "2026-10-26T05:08:22",
+     "acao": "MANTER",
+     "detalhe": "[grid_3] NEARUSDT LONG desde 4.495 | agora 4.596 | +2.2%"
+    },
+    {
+     "quando": "2026-10-26T09:08:34",
+     "acao": "MANTER",
+     "detalhe": "[grid_3] LTCUSDT LONG desde 60.78 | agora 56.75 | -6.6%"
+    },
+    {
+     "quando": "2026-10-26T09:08:34",
+     "acao": "MANTER",
+     "detalhe": "[grid_3] ATOMUSDT LONG desde 1.705 | agora 1.645 | -3.5%"
+    },
+    {
+     "quando": "2026-10-26T09:08:34",
      "acao": "MANTER",
      "detalhe": "[grid_3] NEARUSDT LONG desde 4.495 | agora 4.596 | +2.2%"
     }
@@ -2210,9 +2195,9 @@
    "apelido": "Defensivo",
    "time": "grid",
    "cor": "#94a3b8",
-   "equity": 318.53,
+   "equity": 318.17,
    "cota_inicial": 331.5,
-   "retorno_pct": -3.91,
+   "retorno_pct": -4.02,
    "sharpe": -6.27,
    "max_dd": 3.64,
    "status": "confiante",
@@ -2220,9 +2205,9 @@
    "morta": false,
    "geracao": 1,
    "aberturas": 24,
-   "vitorias": 7,
+   "vitorias": 8,
    "derrotas": 14,
-   "pnl": -13.59,
+   "pnl": -12.21,
    "historico": [
     328.34,
     330.52,
@@ -2256,34 +2241,9 @@
      "quantidade": 36.71,
      "gasto_usdt": 59.7639,
      "aberta_em": "2026-10-25T04:08:29+00:00"
-    },
-    {
-     "simbolo": "NEARUSDT",
-     "lado": "long",
-     "entrada": 4.465,
-     "stop": 4.41216,
-     "alvo": null,
-     "quantidade": 13.3,
-     "gasto_usdt": 59.3845,
-     "aberta_em": "2026-10-26T08:08:22+00:00"
     }
    ],
    "eventos": [
-    {
-     "quando": "2026-10-25T09:08:22",
-     "acao": "MANTER",
-     "detalhe": "[grid_2] BTCUSDT LONG desde 82484.24 | agora 80888.16 | -1.9%"
-    },
-    {
-     "quando": "2026-10-25T09:08:22",
-     "acao": "MANTER",
-     "detalhe": "[grid_2] ATOMUSDT LONG desde 1.628 | agora 1.641 | +0.8%"
-    },
-    {
-     "quando": "2026-10-25T09:08:23",
-     "acao": "ORDEM LONG",
-     "detalhe": "[grid_2] NEARUSDT 13.3 NEAR (~59.61 USDT) @ ~4.482 | stop 4.32 | saÃ­da por regra | risco ~2.39 USDT Ã—1.5 | orderId 993678"
-    },
     {
      "quando": "2026-10-25T13:08:29",
      "acao": "MANTER",
@@ -2343,6 +2303,21 @@
      "quando": "2026-10-26T05:08:22",
      "acao": "ORDEM LONG",
      "detalhe": "[grid_2] NEARUSDT 13.3 NEAR (~59.38 USDT) @ ~4.465 | stop 4.41216 | saÃ­da por regra | risco ~2.38 USDT Ã—1.5 | orderId 1030928"
+    },
+    {
+     "quando": "2026-10-26T09:08:32",
+     "acao": "MANTER",
+     "detalhe": "[grid_2] BTCUSDT LONG desde 82484.24 | agora 80154.09 | -2.8%"
+    },
+    {
+     "quando": "2026-10-26T09:08:32",
+     "acao": "MANTER",
+     "detalhe": "[grid_2] ATOMUSDT LONG desde 1.628 | agora 1.645 | +1.0%"
+    },
+    {
+     "quando": "2026-10-26T09:08:34",
+     "acao": "FECHOU",
+     "detalhe": "[grid_2] NEARUSDT 13.3 NEAR @ ~4.596 â€” stop atingido (4.41) | P&L +1.38 USDT | orderId 1038264"
     }
    ],
    "ranking": 29
@@ -2543,82 +2518,1125 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] SOLUSDT LONG desde 105.84 | agora 101.4 | -4.2%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] XRPUSDT LONG desde 1.3401 | agora 1.2962 | -3.3%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] ADAUSDT LONG desde 0.2211 | agora 0.2042 | -7.6%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] DOGEUSDT LONG desde 0.08148 | agora 0.07693 | -5.6%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] AVAXUSDT LONG desde 9.755 | agora 8.929 | -8.5%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] LINKUSDT LONG desde 12.519 | agora 11.456 | -8.5%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] DOTUSDT LONG desde 1.087 | agora 1.029 | -5.3%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] LTCUSDT LONG desde 60.78 | agora 56.75 | -6.6%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] ATOMUSDT LONG desde 1.64 | agora 1.645 | +0.3%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] NEARUSDT LONG desde 4.604 | agora 4.596 | -0.2%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] UNIUSDT LONG desde 7.471 | agora 6.923 | -7.3%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] SHIBUSDT LONG desde 0.0000052 | agora 0.00000485 | -6.7%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] WIFUSDT LONG desde 0.2023 | agora 0.1787 | -11.7%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] DOGSUSDT LONG desde 0.00003659 | agora 0.00003583 | -2.1%"
     },
     {
-     "quando": "2026-10-26T05:08:19",
+     "quando": "2026-10-26T09:08:32",
      "acao": "MANTER",
      "detalhe": "[reversao_3] FLOKIUSDT LONG desde 0.00002361 | agora 0.00002274 | -3.7%"
     }
    ],
    "ranking": 30
   }
- ]
+ ],
+ "aprendizado": {
+  "gerado_em": "2026-10-26T12:08:35+00:00",
+  "politica": {
+   "modo": "observar_e_diagnosticar",
+   "mudancas_de_regras_aplicadas": 0,
+   "aplicacao_automatica_permitida": false,
+   "amostra_minima_para_hipotese": 5
+  },
+  "resumo": {
+   "aberturas_registradas": 8,
+   "fechadas": 4,
+   "completas": 2,
+   "legadas": 2,
+   "fechamentos_duplicados": 0,
+   "linhas_invalidas": 0,
+   "posicoes_abertas": 76,
+   "abertas_com_memoria": 76,
+   "abertas_legadas_sem_memoria": 0,
+   "metricas": {
+    "trades": 4,
+    "vitorias": 3,
+    "derrotas": 1,
+    "taxa_acerto_pct": 75.0,
+    "pnl_total_usdt": 0.5561,
+    "expectativa_media_usdt": 0.139,
+    "profit_factor": 1.3079,
+    "mfe_medio_pct": 3.6521,
+    "mae_medio_pct": -4.0242,
+    "duracao_mediana_horas": 24.003
+   }
+  },
+  "pos_saida": {
+   "trades_rastreados": 1,
+   "avaliacoes": 1,
+   "por_horizonte": [
+    {
+     "horizonte_barras": 1,
+     "avaliacoes": 1,
+     "mediana_retorno_desde_saida_pct": 1.588,
+     "pct_acima_saida": 100.0,
+     "pct_recuperou_entrada": 100.0
+    },
+    {
+     "horizonte_barras": 3,
+     "avaliacoes": 0,
+     "mediana_retorno_desde_saida_pct": null,
+     "pct_acima_saida": null,
+     "pct_recuperou_entrada": null
+    },
+    {
+     "horizonte_barras": 7,
+     "avaliacoes": 0,
+     "mediana_retorno_desde_saida_pct": null,
+     "pct_acima_saida": null,
+     "pct_recuperou_entrada": null
+    }
+   ],
+   "linhas_invalidas": 0
+  },
+  "hipoteses": [],
+  "agentes": {
+   "veloz_1": {
+    "agente": "veloz_1",
+    "agente_nome": "Veloz (4h) Reversão 4h",
+    "trades": 2,
+    "vitorias": 2,
+    "derrotas": 0,
+    "taxa_acerto_pct": 100.0,
+    "pnl_total_usdt": 0.9789,
+    "expectativa_media_usdt": 0.4895,
+    "profit_factor": null,
+    "mfe_medio_pct": null,
+    "mae_medio_pct": null,
+    "duracao_mediana_horas": 45.999,
+    "pos_saida": {
+     "trades_rastreados": 1,
+     "avaliacoes": 1,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 1,
+       "mediana_retorno_desde_saida_pct": 1.588,
+       "pct_acima_saida": 100.0,
+       "pct_recuperou_entrada": 100.0
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "tendencia_1": {
+    "agente": "tendencia_1",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "tendencia_2": {
+    "agente": "tendencia_2",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "tendencia_3": {
+    "agente": "tendencia_3",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "tendencia_4": {
+    "agente": "tendencia_4",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "tendencia_5": {
+    "agente": "tendencia_5",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "rompimento_1": {
+    "agente": "rompimento_1",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "rompimento_2": {
+    "agente": "rompimento_2",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "rompimento_3": {
+    "agente": "rompimento_3",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "rompimento_4": {
+    "agente": "rompimento_4",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "rompimento_5": {
+    "agente": "rompimento_5",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "momentum_2": {
+    "agente": "momentum_2",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "momentum_3": {
+    "agente": "momentum_3",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "momentum_4": {
+    "agente": "momentum_4",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "momentum_5": {
+    "agente": "momentum_5",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "momentum_6": {
+    "agente": "momentum_6",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "veloz_4": {
+    "agente": "veloz_4",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "reversao_5": {
+    "agente": "reversao_5",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "momentum_1": {
+    "agente": "momentum_1",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "veloz_3": {
+    "agente": "veloz_3",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "reversao_6": {
+    "agente": "reversao_6",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "veloz_2": {
+    "agente": "veloz_2",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "reversao_4": {
+    "agente": "reversao_4",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "reversao_2": {
+    "agente": "reversao_2",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "grid_2": {
+    "agente": "grid_2",
+    "agente_nome": "Grid (lateral) Defensivo",
+    "trades": 2,
+    "vitorias": 1,
+    "derrotas": 1,
+    "taxa_acerto_pct": 50.0,
+    "pnl_total_usdt": -0.4228,
+    "expectativa_media_usdt": -0.2114,
+    "profit_factor": 0.7659,
+    "mfe_medio_pct": 3.6521,
+    "mae_medio_pct": -4.0242,
+    "duracao_mediana_horas": 4.002,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "reversao_1": {
+    "agente": "reversao_1",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "reversao_3": {
+    "agente": "reversao_3",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "grid_3": {
+    "agente": "grid_3",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "veloz_5": {
+    "agente": "veloz_5",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "grid_1": {
+    "agente": "grid_1",
+    "trades": 0,
+    "pos_saida": {
+     "trades_rastreados": 0,
+     "avaliacoes": 0,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   }
+  }
+ }
 }
