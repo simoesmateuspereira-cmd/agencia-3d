@@ -3635,5 +3635,57 @@
     "hipoteses": []
    }
   }
+ },
+ "quarentena": {
+  "grid": {
+   "time": "grid",
+   "ativa": true,
+   "desde": "2026-10-26T20:06:36+00:00",
+   "desativada_em": null,
+   "motivo": "Proteção temporária e validação com dados limpos",
+   "observacao": "O antes/depois inclui marcação e saídas das posições que já estavam abertas; não isola sozinho o efeito da quarentena.",
+   "antes": {
+    "inicial_usdt": 994.5,
+    "equity_usdt": 957.54,
+    "retorno_pct": -3.7164,
+    "capturado_em": "2026-10-26T19:37:31+00:00",
+    "agentes": 3,
+    "pnl_realizado_usdt": -32.81,
+    "aberturas": 47,
+    "vitorias": 12,
+    "derrotas": 28,
+    "posicoes_abertas": 7,
+    "fundo": {
+     "inicial_usdt": 9945.0,
+     "equity_usdt": 9851.72,
+     "retorno_pct": -0.938
+    }
+   },
+   "agora": {
+    "inicial_usdt": 994.5,
+    "equity_usdt": 957.54,
+    "retorno_pct": -3.7164,
+    "capturado_em": "2026-10-26T19:37:31+00:00",
+    "agentes": 3,
+    "pnl_realizado_usdt": -32.81,
+    "aberturas": 47,
+    "vitorias": 12,
+    "derrotas": 28,
+    "posicoes_abertas": 7,
+    "fundo": {
+     "inicial_usdt": 9945.0,
+     "equity_usdt": 9851.72,
+     "retorno_pct": -0.938
+    }
+   },
+   "delta": {
+    "equity_usdt": 0.0,
+    "retorno_pp": 0.0,
+    "pnl_realizado_usdt": 0.0,
+    "aberturas": 0,
+    "posicoes_abertas": 0,
+    "fundo_retorno_pp": 0.0
+   }
+  }
  }
 }
