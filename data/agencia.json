@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-30T12:10:09+00:00",
+ "gerado_em": "2026-10-30T16:08:33+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 1,
  "cemiterio": [],
@@ -43,16 +43,6 @@
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-27T13:08:35",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] WIFUSDT LONG desde 0.1834 | agora 0.1798 | -2.0%"
-    },
-    {
-     "quando": "2026-10-27T17:08:21",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] DOTUSDT LONG desde 1.017 | agora 0.997 | -2.0%"
-    },
     {
      "quando": "2026-10-27T17:08:23",
      "acao": "FECHOU",
@@ -181,36 +171,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-29T09:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ATOMUSDT LONG desde 1.592 | agora 1.625 | +2.1%"
-    },
-    {
-     "quando": "2026-10-29T09:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] NEARUSDT LONG desde 4.411 | agora 4.42 | +0.2%"
-    },
-    {
-     "quando": "2026-10-29T09:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] DOGSUSDT LONG desde 0.00003443 | agora 0.00003475 | +0.9%"
-    },
-    {
-     "quando": "2026-10-29T13:08:58",
-     "acao": "FECHOU",
-     "detalhe": "[veloz_4] ADAUSDT 307.4 ADA @ ~0.2064 â€” regra de saÃ­da | P&L +3.39 USDT | orderId 446552"
-    },
-    {
-     "quando": "2026-10-29T13:08:59",
-     "acao": "FECHOU",
-     "detalhe": "[veloz_4] AVAXUSDT 7.12 AVAX @ ~9.01 â€” regra de saÃ­da | P&L +3.47 USDT | orderId 1305466"
-    },
-    {
-     "quando": "2026-10-29T13:09:01",
-     "acao": "FECHOU",
-     "detalhe": "[veloz_4] DOTUSDT 63.56 DOT @ ~1.018 â€” regra de saÃ­da | P&L +3.31 USDT | orderId 372199"
-    },
-    {
      "quando": "2026-10-29T13:09:03",
      "acao": "FECHOU",
      "detalhe": "[veloz_4] ATOMUSDT 39.04 ATOM @ ~1.634 â€” regra de saÃ­da | P&L +1.87 USDT | orderId 249965"
@@ -254,6 +214,36 @@
      "quando": "2026-10-30T09:10:07",
      "acao": "ORDEM LONG",
      "detalhe": "[veloz_4] ADAUSDT 111.1 ADA (~21.52 USDT) @ ~0.1937 | stop 0.18528 | saÃ­da por regra | risco ~2.54 USDT Ã—1.5 | orderId 469841"
+    },
+    {
+     "quando": "2026-10-30T13:08:33",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BTCUSDT LONG desde 77543.29 | agora 77622 | +0.1%"
+    },
+    {
+     "quando": "2026-10-30T13:08:33",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ETHUSDT LONG desde 2238.72 | agora 2227.44 | -0.5%"
+    },
+    {
+     "quando": "2026-10-30T13:08:33",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BNBUSDT LONG desde 701.72 | agora 700.23 | -0.2%"
+    },
+    {
+     "quando": "2026-10-30T13:08:33",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] SOLUSDT LONG desde 96.82 | agora 94.89 | -2.0%"
+    },
+    {
+     "quando": "2026-10-30T13:08:33",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] XRPUSDT LONG desde 1.2463 | agora 1.255 | +0.7%"
+    },
+    {
+     "quando": "2026-10-30T13:08:33",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1937 | agora 0.1927 | -0.5%"
     }
    ],
    "ranking": 2
@@ -2891,7 +2881,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-10-30T12:10:09+00:00",
+  "gerado_em": "2026-10-30T16:08:33+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -2922,15 +2912,15 @@
    }
   },
   "pos_saida": {
-   "trades_rastreados": 40,
-   "avaliacoes": 108,
+   "trades_rastreados": 47,
+   "avaliacoes": 115,
    "por_horizonte": [
     {
      "horizonte_barras": 1,
-     "avaliacoes": 40,
-     "mediana_retorno_desde_saida_pct": 0.0855,
-     "pct_acima_saida": 55.0,
-     "pct_recuperou_entrada": 70.0
+     "avaliacoes": 47,
+     "mediana_retorno_desde_saida_pct": 0.136,
+     "pct_acima_saida": 57.45,
+     "pct_recuperou_entrada": 63.83
     },
     {
      "horizonte_barras": 3,
@@ -4043,15 +4033,15 @@
     "mae_medio_pct": -5.1094,
     "duracao_mediana_horas": 18.009,
     "pos_saida": {
-     "trades_rastreados": 3,
-     "avaliacoes": 9,
+     "trades_rastreados": 4,
+     "avaliacoes": 10,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 3,
-       "mediana_retorno_desde_saida_pct": 0.1931,
+       "avaliacoes": 4,
+       "mediana_retorno_desde_saida_pct": 0.2964,
        "pct_acima_saida": 100.0,
-       "pct_recuperou_entrada": 33.33
+       "pct_recuperou_entrada": 25.0
       },
       {
        "horizonte_barras": 3,
@@ -4182,15 +4172,15 @@
     "mae_medio_pct": -2.8905,
     "duracao_mediana_horas": 20.016,
     "pos_saida": {
-     "trades_rastreados": 7,
-     "avaliacoes": 21,
+     "trades_rastreados": 12,
+     "avaliacoes": 26,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 7,
-       "mediana_retorno_desde_saida_pct": 0.1629,
-       "pct_acima_saida": 100.0,
-       "pct_recuperou_entrada": 28.57
+       "avaliacoes": 12,
+       "mediana_retorno_desde_saida_pct": 0.1577,
+       "pct_acima_saida": 83.33,
+       "pct_recuperou_entrada": 33.33
       },
       {
        "horizonte_barras": 3,
@@ -4224,15 +4214,15 @@
     "mae_medio_pct": -3.1991,
     "duracao_mediana_horas": 16.008,
     "pos_saida": {
-     "trades_rastreados": 4,
-     "avaliacoes": 11,
+     "trades_rastreados": 5,
+     "avaliacoes": 12,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 4,
-       "mediana_retorno_desde_saida_pct": 0.1279,
-       "pct_acima_saida": 75.0,
-       "pct_recuperou_entrada": 50.0
+       "avaliacoes": 5,
+       "mediana_retorno_desde_saida_pct": 0.1547,
+       "pct_acima_saida": 80.0,
+       "pct_recuperou_entrada": 40.0
       },
       {
        "horizonte_barras": 3,
@@ -4338,7 +4328,7 @@
     "inicial_usdt": 994.5,
     "equity_usdt": 939.65,
     "retorno_pct": -5.5153,
-    "capturado_em": "2026-10-30T12:10:09+00:00",
+    "capturado_em": "2026-10-30T16:08:33+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": -54.85,
     "aberturas": 47,
