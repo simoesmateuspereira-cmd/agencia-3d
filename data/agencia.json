@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-31T04:08:29+00:00",
+ "gerado_em": "2026-10-31T08:08:39+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 1,
  "cemiterio": [],
@@ -43,13 +43,7 @@
     349.13
    ],
    "posicoes": [],
-   "eventos": [
-    {
-     "quando": "2026-10-28T09:08:32",
-     "acao": "FECHOU",
-     "detalhe": "[veloz_1] DOTUSDT 40.67 DOT @ ~1.02 â€” regra de saÃ­da | P&L -0.16 USDT | orderId 352405"
-    }
-   ],
+   "eventos": [],
    "ranking": 1
   },
   {
@@ -153,36 +147,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-30T17:08:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] SOLUSDT LONG desde 96.82 | agora 94.79 | -2.1%"
-    },
-    {
-     "quando": "2026-10-30T17:08:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] XRPUSDT LONG desde 1.2463 | agora 1.2509 | +0.4%"
-    },
-    {
-     "quando": "2026-10-30T17:08:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1937 | agora 0.1932 | -0.3%"
-    },
-    {
-     "quando": "2026-10-30T21:09:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] BTCUSDT LONG desde 77543.29 | agora 77368.77 | -0.2%"
-    },
-    {
-     "quando": "2026-10-30T21:09:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ETHUSDT LONG desde 2238.72 | agora 2245.54 | +0.3%"
-    },
-    {
-     "quando": "2026-10-30T21:09:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] BNBUSDT LONG desde 701.72 | agora 704.42 | +0.4%"
-    },
-    {
      "quando": "2026-10-30T21:09:43",
      "acao": "MANTER",
      "detalhe": "[veloz_4] SOLUSDT LONG desde 96.82 | agora 96.38 | -0.5%"
@@ -226,6 +190,36 @@
      "quando": "2026-10-31T01:08:29",
      "acao": "MANTER",
      "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1937 | agora 0.194 | +0.2%"
+    },
+    {
+     "quando": "2026-10-31T05:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BTCUSDT LONG desde 77543.29 | agora 77356 | -0.2%"
+    },
+    {
+     "quando": "2026-10-31T05:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ETHUSDT LONG desde 2238.72 | agora 2244.04 | +0.2%"
+    },
+    {
+     "quando": "2026-10-31T05:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BNBUSDT LONG desde 701.72 | agora 700.16 | -0.2%"
+    },
+    {
+     "quando": "2026-10-31T05:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] SOLUSDT LONG desde 96.82 | agora 95.64 | -1.2%"
+    },
+    {
+     "quando": "2026-10-31T05:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] XRPUSDT LONG desde 1.2463 | agora 1.2467 | +0.0%"
+    },
+    {
+     "quando": "2026-10-31T05:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1937 | agora 0.1933 | -0.2%"
     }
    ],
    "ranking": 2
@@ -2550,7 +2544,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-10-31T04:08:29+00:00",
+  "gerado_em": "2026-10-31T08:08:39+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -4142,7 +4136,7 @@
     "inicial_usdt": 994.5,
     "equity_usdt": 939.65,
     "retorno_pct": -5.5153,
-    "capturado_em": "2026-10-31T04:08:29+00:00",
+    "capturado_em": "2026-10-31T08:08:39+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": -54.85,
     "aberturas": 47,
