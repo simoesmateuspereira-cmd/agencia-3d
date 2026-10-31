@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-31T08:08:39+00:00",
+ "gerado_em": "2026-10-31T12:08:18+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 1,
  "cemiterio": [],
@@ -147,36 +147,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-30T21:09:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] SOLUSDT LONG desde 96.82 | agora 96.38 | -0.5%"
-    },
-    {
-     "quando": "2026-10-30T21:09:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] XRPUSDT LONG desde 1.2463 | agora 1.2567 | +0.8%"
-    },
-    {
-     "quando": "2026-10-30T21:09:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1937 | agora 0.1952 | +0.8%"
-    },
-    {
-     "quando": "2026-10-31T01:08:29",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] BTCUSDT LONG desde 77543.29 | agora 77170.74 | -0.5%"
-    },
-    {
-     "quando": "2026-10-31T01:08:29",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ETHUSDT LONG desde 2238.72 | agora 2240 | +0.1%"
-    },
-    {
-     "quando": "2026-10-31T01:08:29",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] BNBUSDT LONG desde 701.72 | agora 704.45 | +0.4%"
-    },
-    {
      "quando": "2026-10-31T01:08:29",
      "acao": "MANTER",
      "detalhe": "[veloz_4] SOLUSDT LONG desde 96.82 | agora 96.26 | -0.6%"
@@ -220,6 +190,36 @@
      "quando": "2026-10-31T05:08:39",
      "acao": "MANTER",
      "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1937 | agora 0.1933 | -0.2%"
+    },
+    {
+     "quando": "2026-10-31T09:08:18",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BTCUSDT LONG desde 77543.29 | agora 77618.97 | +0.1%"
+    },
+    {
+     "quando": "2026-10-31T09:08:18",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ETHUSDT LONG desde 2238.72 | agora 2248.64 | +0.4%"
+    },
+    {
+     "quando": "2026-10-31T09:08:18",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BNBUSDT LONG desde 701.72 | agora 705.34 | +0.5%"
+    },
+    {
+     "quando": "2026-10-31T09:08:18",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] SOLUSDT LONG desde 96.82 | agora 95.91 | -0.9%"
+    },
+    {
+     "quando": "2026-10-31T09:08:18",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] XRPUSDT LONG desde 1.2463 | agora 1.2498 | +0.3%"
+    },
+    {
+     "quando": "2026-10-31T09:08:18",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1937 | agora 0.1925 | -0.6%"
     }
    ],
    "ranking": 2
@@ -1371,16 +1371,6 @@
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T09:08:34",
-     "acao": "ORDEM LONG",
-     "detalhe": "[veloz_2] BNBUSDT 0.075 BNB (~56.95 USDT) @ ~759.35 | stop 744.48714 | alvo 801.79214 | risco ~1.24 USDT Ã—0.75 | orderId 3050371"
-    },
-    {
-     "quando": "2026-10-28T09:08:34",
-     "acao": "MANTER",
-     "detalhe": "[veloz_2] XRPUSDT LONG desde 1.3278 | agora 1.3249 | -0.2%"
-    },
     {
      "quando": "2026-10-28T13:08:42",
      "acao": "MANTER",
@@ -2544,7 +2534,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-10-31T08:08:39+00:00",
+  "gerado_em": "2026-10-31T12:08:18+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -4136,7 +4126,7 @@
     "inicial_usdt": 994.5,
     "equity_usdt": 939.65,
     "retorno_pct": -5.5153,
-    "capturado_em": "2026-10-31T08:08:39+00:00",
+    "capturado_em": "2026-10-31T12:08:18+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": -54.85,
     "aberturas": 47,
