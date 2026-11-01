@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-31T20:08:43+00:00",
+ "gerado_em": "2026-11-01T00:08:43+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 1,
  "cemiterio": [],
@@ -14,7 +14,7 @@
    "equity": 349.13,
    "cota_inicial": 331.5,
    "retorno_pct": 5.32,
-   "sharpe": 5.2,
+   "sharpe": 5.04,
    "max_dd": 0.88,
    "status": "confiante",
    "vida": 98.5,
@@ -40,6 +40,7 @@
     348.69,
     349.13,
     349.13,
+    349.13,
     349.13
    ],
    "posicoes": [],
@@ -52,13 +53,13 @@
    "apelido": "Grid 4h",
    "time": "veloz",
    "cor": "#a78bfa",
-   "equity": 340.26,
+   "equity": 339.63,
    "cota_inicial": 331.5,
-   "retorno_pct": 2.64,
-   "sharpe": 1.83,
+   "retorno_pct": 2.45,
+   "sharpe": 1.66,
    "max_dd": 6.06,
    "status": "confiante",
-   "vida": 93.3,
+   "vida": 92.9,
    "morta": false,
    "geracao": 1,
    "aberturas": 47,
@@ -81,7 +82,8 @@
     322.55,
     322.99,
     338.46,
-    340.26
+    340.26,
+    339.63
    ],
    "posicoes": [
     {
@@ -147,36 +149,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-31T09:08:18",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] SOLUSDT LONG desde 96.82 | agora 95.91 | -0.9%"
-    },
-    {
-     "quando": "2026-10-31T09:08:18",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] XRPUSDT LONG desde 1.2463 | agora 1.2498 | +0.3%"
-    },
-    {
-     "quando": "2026-10-31T09:08:18",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1937 | agora 0.1925 | -0.6%"
-    },
-    {
-     "quando": "2026-10-31T13:08:32",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] BTCUSDT LONG desde 77543.29 | agora 77622.01 | +0.1%"
-    },
-    {
-     "quando": "2026-10-31T13:08:32",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ETHUSDT LONG desde 2238.72 | agora 2250.88 | +0.5%"
-    },
-    {
-     "quando": "2026-10-31T13:08:32",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] BNBUSDT LONG desde 701.72 | agora 705.42 | +0.5%"
-    },
-    {
      "quando": "2026-10-31T13:08:32",
      "acao": "MANTER",
      "detalhe": "[veloz_4] SOLUSDT LONG desde 96.82 | agora 95.98 | -0.9%"
@@ -220,6 +192,36 @@
      "quando": "2026-10-31T17:08:43",
      "acao": "MANTER",
      "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1937 | agora 0.1931 | -0.3%"
+    },
+    {
+     "quando": "2026-10-31T21:08:43",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BTCUSDT LONG desde 77543.29 | agora 77582.02 | +0.0%"
+    },
+    {
+     "quando": "2026-10-31T21:08:43",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ETHUSDT LONG desde 2238.72 | agora 2255.66 | +0.8%"
+    },
+    {
+     "quando": "2026-10-31T21:08:43",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BNBUSDT LONG desde 701.72 | agora 703.95 | +0.3%"
+    },
+    {
+     "quando": "2026-10-31T21:08:43",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] SOLUSDT LONG desde 96.82 | agora 95.54 | -1.3%"
+    },
+    {
+     "quando": "2026-10-31T21:08:43",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] XRPUSDT LONG desde 1.2463 | agora 1.2519 | +0.4%"
+    },
+    {
+     "quando": "2026-10-31T21:08:43",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1937 | agora 0.193 | -0.4%"
     }
    ],
    "ranking": 2
@@ -244,6 +246,7 @@
    "derrotas": 0,
    "pnl": 0.0,
    "historico": [
+    331.5,
     331.5,
     331.5,
     331.5,
@@ -300,6 +303,7 @@
     331.5,
     331.5,
     331.5,
+    331.5,
     331.5
    ],
    "posicoes": [],
@@ -326,6 +330,7 @@
    "derrotas": 0,
    "pnl": 0.0,
    "historico": [
+    331.5,
     331.5,
     331.5,
     331.5,
@@ -382,6 +387,7 @@
     331.5,
     331.5,
     331.5,
+    331.5,
     331.5
    ],
    "posicoes": [],
@@ -423,6 +429,7 @@
     331.5,
     331.5,
     331.5,
+    331.5,
     331.5
    ],
    "posicoes": [],
@@ -435,13 +442,13 @@
    "apelido": "Profunda",
    "time": "reversao",
    "cor": "#60a5fa",
-   "equity": 330.72,
+   "equity": 330.57,
    "cota_inicial": 331.5,
-   "retorno_pct": -0.24,
-   "sharpe": -1.71,
+   "retorno_pct": -0.28,
+   "sharpe": -1.98,
    "max_dd": 0.83,
    "status": "confiante",
-   "vida": 98.5,
+   "vida": 98.4,
    "morta": false,
    "geracao": 1,
    "aberturas": 3,
@@ -464,7 +471,8 @@
     330.31,
     330.31,
     329.72,
-    330.72
+    330.72,
+    330.57
    ],
    "posicoes": [
     {
@@ -508,6 +516,16 @@
      "quando": "2026-10-30T21:09:10",
      "acao": "MANTER",
      "detalhe": "[reversao_5] AVAXUSDT LONG desde 8.433 | agora 8.553 | +1.4%"
+    },
+    {
+     "quando": "2026-10-31T21:08:36",
+     "acao": "MANTER",
+     "detalhe": "[reversao_5] ADAUSDT LONG desde 0.1934 | agora 0.193 | -0.2%"
+    },
+    {
+     "quando": "2026-10-31T21:08:36",
+     "acao": "MANTER",
+     "detalhe": "[reversao_5] AVAXUSDT LONG desde 8.433 | agora 8.579 | +1.7%"
     }
    ],
    "ranking": 8
@@ -521,7 +539,7 @@
    "equity": 329.96,
    "cota_inicial": 331.5,
    "retorno_pct": -0.46,
-   "sharpe": -2.0,
+   "sharpe": -1.94,
    "max_dd": 0.98,
    "status": "confiante",
    "vida": 98.1,
@@ -547,6 +565,7 @@
     331.5,
     331.5,
     333.21,
+    329.96,
     329.96
    ],
    "posicoes": [],
@@ -573,7 +592,7 @@
    "equity": 329.96,
    "cota_inicial": 331.5,
    "retorno_pct": -0.46,
-   "sharpe": -2.0,
+   "sharpe": -1.94,
    "max_dd": 0.98,
    "status": "confiante",
    "vida": 98.1,
@@ -599,6 +618,7 @@
     331.5,
     331.5,
     333.21,
+    329.96,
     329.96
    ],
    "posicoes": [],
@@ -625,7 +645,7 @@
    "equity": 329.96,
    "cota_inicial": 331.5,
    "retorno_pct": -0.46,
-   "sharpe": -2.0,
+   "sharpe": -1.94,
    "max_dd": 0.98,
    "status": "confiante",
    "vida": 98.1,
@@ -651,6 +671,7 @@
     331.5,
     331.5,
     333.21,
+    329.96,
     329.96
    ],
    "posicoes": [],
@@ -677,7 +698,7 @@
    "equity": 327.95,
    "cota_inicial": 331.5,
    "retorno_pct": -1.07,
-   "sharpe": -5.44,
+   "sharpe": -5.26,
    "max_dd": 1.07,
    "status": "confiante",
    "vida": 97.9,
@@ -703,15 +724,11 @@
     331.5,
     331.47,
     331.18,
+    327.95,
     327.95
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:37",
-     "acao": "ORDEM LONG",
-     "detalhe": "[rompimento_1] BNBUSDT 0.034 BNB (~25.86 USDT) @ ~760.61 | stop 723.51857 | alvo 850.67857 | risco ~1.24 USDT Ã—0.75 | orderId 3136132"
-    },
     {
      "quando": "2026-10-30T09:09:03",
      "acao": "FECHOU",
@@ -739,7 +756,7 @@
    "equity": 327.95,
    "cota_inicial": 331.5,
    "retorno_pct": -1.07,
-   "sharpe": -5.44,
+   "sharpe": -5.26,
    "max_dd": 1.07,
    "status": "confiante",
    "vida": 97.9,
@@ -765,15 +782,11 @@
     331.5,
     331.47,
     331.18,
+    327.95,
     327.95
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:39",
-     "acao": "ORDEM LONG",
-     "detalhe": "[rompimento_3] BNBUSDT 0.034 BNB (~25.86 USDT) @ ~760.61 | stop 723.51857 | alvo 905.17571 | risco ~1.24 USDT Ã—0.75 | orderId 3136133"
-    },
     {
      "quando": "2026-10-30T09:09:08",
      "acao": "FECHOU",
@@ -801,7 +814,7 @@
    "equity": 327.95,
    "cota_inicial": 331.5,
    "retorno_pct": -1.07,
-   "sharpe": -5.45,
+   "sharpe": -5.28,
    "max_dd": 1.07,
    "status": "confiante",
    "vida": 97.9,
@@ -827,15 +840,11 @@
     331.5,
     331.47,
     331.17,
+    327.95,
     327.95
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:42",
-     "acao": "ORDEM LONG",
-     "detalhe": "[momentum_2] BNBUSDT 0.034 BNB (~25.86 USDT) @ ~760.61 | stop 723.51857 | alvo 832.51286 | risco ~1.24 USDT Ã—0.75 | orderId 3136138"
-    },
     {
      "quando": "2026-10-30T09:09:18",
      "acao": "FECHOU",
@@ -863,7 +872,7 @@
    "equity": 327.91,
    "cota_inicial": 331.5,
    "retorno_pct": -1.08,
-   "sharpe": -5.45,
+   "sharpe": -5.27,
    "max_dd": 1.08,
    "status": "confiante",
    "vida": 97.8,
@@ -889,15 +898,11 @@
     331.5,
     331.47,
     331.17,
+    327.91,
     327.91
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:45",
-     "acao": "ORDEM LONG",
-     "detalhe": "[momentum_3] BNBUSDT 0.034 BNB (~25.86 USDT) @ ~760.61 | stop 723.51857 | alvo 868.84429 | risco ~1.24 USDT Ã—0.75 | orderId 3136139"
-    },
     {
      "quando": "2026-10-30T09:09:22",
      "acao": "FECHOU",
@@ -925,7 +930,7 @@
    "equity": 327.91,
    "cota_inicial": 331.5,
    "retorno_pct": -1.08,
-   "sharpe": -5.45,
+   "sharpe": -5.27,
    "max_dd": 1.08,
    "status": "confiante",
    "vida": 97.8,
@@ -951,15 +956,11 @@
     331.5,
     331.47,
     331.17,
+    327.91,
     327.91
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:49",
-     "acao": "ORDEM LONG",
-     "detalhe": "[momentum_4] BNBUSDT 0.034 BNB (~25.86 USDT) @ ~760.61 | stop 723.51857 | alvo 850.67857 | risco ~1.24 USDT Ã—0.75 | orderId 3136140"
-    },
     {
      "quando": "2026-10-30T09:09:25",
      "acao": "FECHOU",
@@ -987,7 +988,7 @@
    "equity": 327.9,
    "cota_inicial": 331.5,
    "retorno_pct": -1.09,
-   "sharpe": -5.45,
+   "sharpe": -5.27,
    "max_dd": 1.09,
    "status": "confiante",
    "vida": 97.8,
@@ -1013,15 +1014,11 @@
     331.5,
     331.47,
     331.17,
+    327.9,
     327.9
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:52",
-     "acao": "ORDEM LONG",
-     "detalhe": "[momentum_5] BNBUSDT 0.034 BNB (~25.87 USDT) @ ~760.85 | stop 723.51857 | alvo 832.51286 | risco ~1.24 USDT Ã—0.75 | orderId 3136183"
-    },
     {
      "quando": "2026-10-30T09:09:29",
      "acao": "FECHOU",
@@ -1049,7 +1046,7 @@
    "equity": 327.9,
    "cota_inicial": 331.5,
    "retorno_pct": -1.09,
-   "sharpe": -5.45,
+   "sharpe": -5.27,
    "max_dd": 1.09,
    "status": "confiante",
    "vida": 97.8,
@@ -1075,15 +1072,11 @@
     331.5,
     331.47,
     331.17,
+    327.9,
     327.9
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:55",
-     "acao": "ORDEM LONG",
-     "detalhe": "[momentum_6] BNBUSDT 0.034 BNB (~25.87 USDT) @ ~760.85 | stop 723.51857 | alvo 868.84429 | risco ~1.24 USDT Ã—0.75 | orderId 3136187"
-    },
     {
      "quando": "2026-10-30T09:09:32",
      "acao": "FECHOU",
@@ -1111,7 +1104,7 @@
    "equity": 327.6,
    "cota_inicial": 331.5,
    "retorno_pct": -1.18,
-   "sharpe": -5.91,
+   "sharpe": -5.71,
    "max_dd": 1.18,
    "status": "confiante",
    "vida": 97.6,
@@ -1137,15 +1130,11 @@
     331.18,
     331.15,
     330.86,
+    327.6,
     327.6
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:41",
-     "acao": "ORDEM LONG",
-     "detalhe": "[momentum_1] BNBUSDT 0.034 BNB (~25.86 USDT) @ ~760.61 | stop 723.51857 | alvo 814.34714 | risco ~1.24 USDT Ã—0.75 | orderId 3136136"
-    },
     {
      "quando": "2026-10-30T09:09:15",
      "acao": "FECHOU",
@@ -1170,13 +1159,13 @@
    "apelido": "Cirúrgica",
    "time": "reversao",
    "cor": "#60a5fa",
-   "equity": 326.86,
+   "equity": 325.65,
    "cota_inicial": 331.5,
-   "retorno_pct": -1.4,
-   "sharpe": -3.16,
+   "retorno_pct": -1.76,
+   "sharpe": -3.81,
    "max_dd": 2.74,
    "status": "confiante",
-   "vida": 94.7,
+   "vida": 93.9,
    "morta": false,
    "geracao": 1,
    "aberturas": 8,
@@ -1199,7 +1188,8 @@
     328.31,
     329.25,
     323.6,
-    326.86
+    326.86,
+    325.65
    ],
    "posicoes": [
     {
@@ -1255,31 +1245,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-28T21:08:34",
-     "acao": "MANTER",
-     "detalhe": "[reversao_1] DOTUSDT LONG desde 1.03 | agora 1.012 | -1.7%"
-    },
-    {
-     "quando": "2026-10-28T21:08:34",
-     "acao": "MANTER",
-     "detalhe": "[reversao_1] WIFUSDT LONG desde 0.1998 | agora 0.1841 | -7.9%"
-    },
-    {
-     "quando": "2026-10-28T21:08:34",
-     "acao": "MANTER",
-     "detalhe": "[reversao_1] FLOKIUSDT LONG desde 0.00002337 | agora 0.00002403 | +2.8%"
-    },
-    {
-     "quando": "2026-10-30T09:08:23",
-     "acao": "MANTER",
-     "detalhe": "[reversao_1] ADAUSDT LONG desde 0.2082 | agora 0.1904 | -8.5%"
-    },
-    {
-     "quando": "2026-10-30T09:08:23",
-     "acao": "MANTER",
-     "detalhe": "[reversao_1] AVAXUSDT LONG desde 8.946 | agora 8.281 | -7.4%"
-    },
-    {
      "quando": "2026-10-30T09:08:23",
      "acao": "MANTER",
      "detalhe": "[reversao_1] DOTUSDT LONG desde 1.03 | agora 0.909 | -11.7%"
@@ -1328,6 +1293,31 @@
      "quando": "2026-10-30T21:08:22",
      "acao": "FECHOU",
      "detalhe": "[reversao_1] FLOKIUSDT 591784.0 FLOKI @ ~0.00002435 â€” regra de saÃ­da | P&L +0.49 USDT | orderId 308557"
+    },
+    {
+     "quando": "2026-10-31T21:08:21",
+     "acao": "MANTER",
+     "detalhe": "[reversao_1] ADAUSDT LONG desde 0.2082 | agora 0.193 | -7.3%"
+    },
+    {
+     "quando": "2026-10-31T21:08:21",
+     "acao": "MANTER",
+     "detalhe": "[reversao_1] AVAXUSDT LONG desde 8.946 | agora 8.579 | -4.1%"
+    },
+    {
+     "quando": "2026-10-31T21:08:21",
+     "acao": "MANTER",
+     "detalhe": "[reversao_1] DOTUSDT LONG desde 1.03 | agora 0.947 | -8.1%"
+    },
+    {
+     "quando": "2026-10-31T21:08:21",
+     "acao": "MANTER",
+     "detalhe": "[reversao_1] ATOMUSDT LONG desde 1.527 | agora 1.497 | -2.0%"
+    },
+    {
+     "quando": "2026-10-31T21:08:21",
+     "acao": "MANTER",
+     "detalhe": "[reversao_1] DOGSUSDT LONG desde 0.00003298 | agora 0.00003263 | -1.1%"
     }
    ],
    "ranking": 20
@@ -1341,7 +1331,7 @@
    "equity": 323.9,
    "cota_inicial": 331.5,
    "retorno_pct": -2.29,
-   "sharpe": -6.32,
+   "sharpe": -6.11,
    "max_dd": 2.29,
    "status": "confiante",
    "vida": 95.3,
@@ -1367,25 +1357,11 @@
     330.1,
     329.72,
     323.9,
+    323.9,
     323.9
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:57",
-     "acao": "MANTER",
-     "detalhe": "[veloz_2] BNBUSDT LONG desde 759.35 | agora 759.85 | +0.1%"
-    },
-    {
-     "quando": "2026-10-28T21:08:57",
-     "acao": "MANTER",
-     "detalhe": "[veloz_2] XRPUSDT LONG desde 1.3278 | agora 1.326 | -0.1%"
-    },
-    {
-     "quando": "2026-10-28T21:08:57",
-     "acao": "MANTER",
-     "detalhe": "[veloz_2] LTCUSDT LONG desde 59.6 | agora 59.25 | -0.6%"
-    },
     {
      "quando": "2026-10-29T01:08:44",
      "acao": "FECHOU",
@@ -1423,7 +1399,7 @@
    "equity": 320.98,
    "cota_inicial": 331.5,
    "retorno_pct": -3.17,
-   "sharpe": -8.55,
+   "sharpe": -8.24,
    "max_dd": 3.21,
    "status": "confiante",
    "vida": 93.2,
@@ -1449,25 +1425,11 @@
     324.81,
     325.11,
     320.98,
+    320.98,
     320.98
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:57",
-     "acao": "MANTER",
-     "detalhe": "[veloz_5] XRPUSDT LONG desde 1.3304 | agora 1.326 | -0.3%"
-    },
-    {
-     "quando": "2026-10-28T21:08:59",
-     "acao": "ORDEM LONG",
-     "detalhe": "[veloz_5] DOGEUSDT 586.0 DOGE (~46.76 USDT) @ ~0.07979 | stop 0.077691429 | alvo 0.083927143 | risco ~1.22 USDT Ã—0.75 | orderId 948036"
-    },
-    {
-     "quando": "2026-10-28T21:08:59",
-     "acao": "MANTER",
-     "detalhe": "[veloz_5] UNIUSDT LONG desde 7.135 | agora 7.251 | +1.6%"
-    },
     {
      "quando": "2026-10-29T01:09:02",
      "acao": "FECHOU",
@@ -1517,13 +1479,13 @@
    "apelido": "Precisa",
    "time": "reversao",
    "cor": "#60a5fa",
-   "equity": 319.72,
+   "equity": 318.88,
    "cota_inicial": 331.5,
-   "retorno_pct": -3.55,
-   "sharpe": -3.58,
+   "retorno_pct": -3.81,
+   "sharpe": -3.73,
    "max_dd": 5.95,
    "status": "confiante",
-   "vida": 88.0,
+   "vida": 87.5,
    "morta": false,
    "geracao": 1,
    "aberturas": 13,
@@ -1546,7 +1508,8 @@
     325.41,
     327.72,
     315.61,
-    319.72
+    319.72,
+    318.88
    ],
    "posicoes": [
     {
@@ -1602,31 +1565,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-10-30T09:08:58",
-     "acao": "MANTER",
-     "detalhe": "[reversao_6] DOTUSDT LONG desde 1.048 | agora 0.909 | -13.3%"
-    },
-    {
-     "quando": "2026-10-30T09:08:58",
-     "acao": "MANTER",
-     "detalhe": "[reversao_6] LTCUSDT LONG desde 59.68 | agora 54.96 | -7.9%"
-    },
-    {
-     "quando": "2026-10-30T09:09:00",
-     "acao": "ORDEM LONG",
-     "detalhe": "[reversao_6] ATOMUSDT 11.13 ATOM (~17.02 USDT) @ ~1.529 | stop 1.3281429 | saÃ­da por regra | risco ~1.97 USDT Ã—1.25 | orderId 260787"
-    },
-    {
-     "quando": "2026-10-30T09:09:01",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_6] WIFUSDT 66.96 WIF @ ~0.1665 â€” stop atingido (0.17) | P&L -1.71 USDT | orderId 380247"
-    },
-    {
-     "quando": "2026-10-30T09:09:01",
-     "acao": "MANTER",
-     "detalhe": "[reversao_6] FLOKIUSDT LONG desde 0.00002336 | agora 0.00002239 | -4.2%"
-    },
-    {
      "quando": "2026-10-30T21:09:12",
      "acao": "FECHOU",
      "detalhe": "[reversao_6] SOLUSDT 0.215 SOL @ ~96.38 â€” stop atingido (94.80) | P&L -2.03 USDT | orderId 1534355"
@@ -1675,6 +1613,31 @@
      "quando": "2026-10-30T21:09:21",
      "acao": "FECHOU",
      "detalhe": "[reversao_6] FLOKIUSDT 591181.0 FLOKI @ ~0.00002435 â€” regra de saÃ­da | P&L +0.50 USDT | orderId 308574"
+    },
+    {
+     "quando": "2026-10-31T21:08:36",
+     "acao": "MANTER",
+     "detalhe": "[reversao_6] XRPUSDT LONG desde 1.2927 | agora 1.2519 | -3.2%"
+    },
+    {
+     "quando": "2026-10-31T21:08:36",
+     "acao": "MANTER",
+     "detalhe": "[reversao_6] DOGEUSDT LONG desde 0.07967 | agora 0.07563 | -5.1%"
+    },
+    {
+     "quando": "2026-10-31T21:08:36",
+     "acao": "MANTER",
+     "detalhe": "[reversao_6] AVAXUSDT LONG desde 8.951 | agora 8.579 | -4.2%"
+    },
+    {
+     "quando": "2026-10-31T21:08:36",
+     "acao": "MANTER",
+     "detalhe": "[reversao_6] ATOMUSDT LONG desde 1.529 | agora 1.497 | -2.1%"
+    },
+    {
+     "quando": "2026-10-31T21:08:36",
+     "acao": "MANTER",
+     "detalhe": "[reversao_6] DOGSUSDT LONG desde 0.000033 | agora 0.00003263 | -1.1%"
     }
    ],
    "ranking": 23
@@ -1687,8 +1650,8 @@
    "cor": "#a78bfa",
    "equity": 315.44,
    "cota_inicial": 331.5,
-   "retorno_pct": -4.84,
-   "sharpe": -7.39,
+   "retorno_pct": -4.85,
+   "sharpe": -7.14,
    "max_dd": 5.11,
    "status": "confiante",
    "vida": 89.1,
@@ -1714,6 +1677,7 @@
     324.27,
     324.4,
     315.43,
+    315.44,
     315.44
    ],
    "posicoes": [
@@ -1808,169 +1772,21 @@
    "ranking": 24
   },
   {
-   "chave": "reversao_2",
-   "nome": "Reversão à Média Clássica",
-   "apelido": "Clássica",
-   "time": "reversao",
-   "cor": "#60a5fa",
-   "equity": 315.18,
-   "cota_inicial": 331.5,
-   "retorno_pct": -4.92,
-   "sharpe": -3.73,
-   "max_dd": 7.24,
-   "status": "confiante",
-   "vida": 85.7,
-   "morta": false,
-   "geracao": 1,
-   "aberturas": 15,
-   "vitorias": 1,
-   "derrotas": 11,
-   "pnl": -15.7,
-   "historico": [
-    330.51,
-    330.83,
-    330.83,
-    327.85,
-    328.06,
-    329.02,
-    333.71,
-    326.64,
-    324.87,
-    323.3,
-    320.48,
-    321.24,
-    322.5,
-    324.97,
-    309.54,
-    315.18
-   ],
-   "posicoes": [
-    {
-     "simbolo": "AVAXUSDT",
-     "lado": "long",
-     "entrada": 9.073,
-     "stop": 7.81914286,
-     "alvo": null,
-     "quantidade": 1.63,
-     "gasto_usdt": 14.789,
-     "aberta_em": "2026-10-24T00:08:35+00:00"
-    },
-    {
-     "simbolo": "ATOMUSDT",
-     "lado": "long",
-     "entrada": 1.527,
-     "stop": 1.32814286,
-     "alvo": null,
-     "quantidade": 10.95,
-     "gasto_usdt": 16.7206,
-     "aberta_em": "2026-10-30T12:08:29+00:00"
-    },
-    {
-     "simbolo": "NEARUSDT",
-     "lado": "long",
-     "entrada": 4.316,
-     "stop": 3.20371429,
-     "alvo": null,
-     "quantidade": 2.1,
-     "gasto_usdt": 9.0636,
-     "aberta_em": "2026-10-30T12:08:31+00:00"
-    }
-   ],
-   "eventos": [
-    {
-     "quando": "2026-10-30T09:08:32",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_2] WIFUSDT 59.71 WIF @ ~0.1665 â€” stop atingido (0.17) | P&L -1.68 USDT | orderId 380236"
-    },
-    {
-     "quando": "2026-10-30T09:08:32",
-     "acao": "MANTER",
-     "detalhe": "[reversao_2] DOGSUSDT LONG desde 0.00003659 | agora 0.00003161 | -13.6%"
-    },
-    {
-     "quando": "2026-10-30T09:08:32",
-     "acao": "MANTER",
-     "detalhe": "[reversao_2] FLOKIUSDT LONG desde 0.00002336 | agora 0.00002239 | -4.2%"
-    },
-    {
-     "quando": "2026-10-30T21:08:24",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_2] SOLUSDT 0.215 SOL @ ~96.38 â€” stop atingido (94.80) | P&L -2.04 USDT | orderId 1534323"
-    },
-    {
-     "quando": "2026-10-30T21:08:25",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_2] XRPUSDT 17.9 XRP @ ~1.2567 â€” stop atingido (1.22) | P&L -1.61 USDT | orderId 1362403"
-    },
-    {
-     "quando": "2026-10-30T21:08:27",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_2] ADAUSDT 65.3 ADA @ ~0.1952 â€” stop atingido (0.19) | P&L -1.44 USDT | orderId 478031"
-    },
-    {
-     "quando": "2026-10-30T21:08:29",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_2] DOGEUSDT 244.0 DOGE @ ~0.07596 â€” stop atingido (0.07) | P&L -1.34 USDT | orderId 1057052"
-    },
-    {
-     "quando": "2026-10-30T21:08:29",
-     "acao": "MANTER",
-     "detalhe": "[reversao_2] AVAXUSDT LONG desde 9.073 | agora 8.553 | -5.7%"
-    },
-    {
-     "quando": "2026-10-30T21:08:30",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_2] DOTUSDT 11.87 DOT @ ~0.975 â€” stop atingido (0.88) | P&L -0.85 USDT | orderId 403926"
-    },
-    {
-     "quando": "2026-10-30T21:08:32",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_2] LTCUSDT 0.346 LTC @ ~56.02 â€” stop atingido (53.45) | P&L -1.78 USDT | orderId 732301"
-    },
-    {
-     "quando": "2026-10-30T21:08:32",
-     "acao": "MANTER",
-     "detalhe": "[reversao_2] ATOMUSDT LONG desde 1.527 | agora 1.552 | +1.6%"
-    },
-    {
-     "quando": "2026-10-30T21:08:32",
-     "acao": "MANTER",
-     "detalhe": "[reversao_2] NEARUSDT LONG desde 4.316 | agora 4.297 | -0.4%"
-    },
-    {
-     "quando": "2026-10-30T21:08:34",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_2] SHIBUSDT 3815384.0 SHIB @ ~0.00000481 â€” stop atingido (0.00) | P&L -1.53 USDT | orderId 51075"
-    },
-    {
-     "quando": "2026-10-30T21:08:35",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_2] DOGSUSDT 375239.0 DOGS @ ~0.00003291 â€” stop atingido (0.00) | P&L -1.36 USDT | orderId 565960"
-    },
-    {
-     "quando": "2026-10-30T21:08:37",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_2] FLOKIUSDT 586900.0 FLOKI @ ~0.00002435 â€” regra de saÃ­da | P&L +0.50 USDT | orderId 308566"
-    }
-   ],
-   "ranking": 25
-  },
-  {
    "chave": "reversao_4",
    "nome": "Reversão à Média Rápida",
    "apelido": "Rápida",
    "time": "reversao",
    "cor": "#60a5fa",
-   "equity": 315.19,
+   "equity": 314.88,
    "cota_inicial": 331.5,
-   "retorno_pct": -4.92,
-   "sharpe": -3.74,
+   "retorno_pct": -5.01,
+   "sharpe": -3.7,
    "max_dd": 7.24,
    "status": "confiante",
-   "vida": 85.7,
+   "vida": 85.5,
    "morta": false,
    "geracao": 1,
-   "aberturas": 15,
+   "aberturas": 18,
    "vitorias": 1,
    "derrotas": 11,
    "pnl": -15.67,
@@ -1990,7 +1806,8 @@
     322.54,
     325.0,
     309.56,
-    315.19
+    315.19,
+    314.88
    ],
    "posicoes": [
     {
@@ -2022,39 +1839,39 @@
      "quantidade": 2.1,
      "gasto_usdt": 9.0741,
      "aberta_em": "2026-10-30T12:08:50+00:00"
+    },
+    {
+     "simbolo": "ADAUSDT",
+     "lado": "long",
+     "entrada": 0.1932,
+     "stop": 0.17137143,
+     "alvo": null,
+     "quantidade": 90.8,
+     "gasto_usdt": 17.5426,
+     "aberta_em": "2026-11-01T00:08:33+00:00"
+    },
+    {
+     "simbolo": "DOTUSDT",
+     "lado": "long",
+     "entrada": 0.947,
+     "stop": 0.80371429,
+     "alvo": null,
+     "quantidade": 13.73,
+     "gasto_usdt": 13.0023,
+     "aberta_em": "2026-11-01T00:08:35+00:00"
+    },
+    {
+     "simbolo": "DOGSUSDT",
+     "lado": "long",
+     "entrada": 3.27e-05,
+     "stop": 2.769e-05,
+     "alvo": null,
+     "quantidade": 397859.0,
+     "gasto_usdt": 13.01,
+     "aberta_em": "2026-11-01T00:08:36+00:00"
     }
    ],
    "eventos": [
-    {
-     "quando": "2026-10-30T09:08:52",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_4] WIFUSDT 59.76 WIF @ ~0.1665 â€” stop atingido (0.17) | P&L -1.67 USDT | orderId 380246"
-    },
-    {
-     "quando": "2026-10-30T09:08:52",
-     "acao": "MANTER",
-     "detalhe": "[reversao_4] DOGSUSDT LONG desde 0.00003659 | agora 0.00003161 | -13.6%"
-    },
-    {
-     "quando": "2026-10-30T09:08:52",
-     "acao": "MANTER",
-     "detalhe": "[reversao_4] FLOKIUSDT LONG desde 0.00002336 | agora 0.00002239 | -4.2%"
-    },
-    {
-     "quando": "2026-10-30T21:08:57",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_4] SOLUSDT 0.215 SOL @ ~96.38 â€” stop atingido (94.80) | P&L -2.03 USDT | orderId 1534347"
-    },
-    {
-     "quando": "2026-10-30T21:08:58",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_4] XRPUSDT 17.9 XRP @ ~1.2567 â€” stop atingido (1.22) | P&L -1.60 USDT | orderId 1362410"
-    },
-    {
-     "quando": "2026-10-30T21:09:00",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_4] ADAUSDT 65.3 ADA @ ~0.1952 â€” stop atingido (0.19) | P&L -1.44 USDT | orderId 478038"
-    },
     {
      "quando": "2026-10-30T21:09:01",
      "acao": "FECHOU",
@@ -2099,6 +1916,215 @@
      "quando": "2026-10-30T21:09:10",
      "acao": "FECHOU",
      "detalhe": "[reversao_4] FLOKIUSDT 586900.0 FLOKI @ ~0.00002435 â€” regra de saÃ­da | P&L +0.50 USDT | orderId 308573"
+    },
+    {
+     "quando": "2026-10-31T21:08:33",
+     "acao": "ORDEM LONG",
+     "detalhe": "[reversao_4] ADAUSDT 90.8 ADA (~17.54 USDT) @ ~0.1932 | stop 0.17137143 | saÃ­da por regra | risco ~1.97 USDT Ã—1.25 | orderId 487165"
+    },
+    {
+     "quando": "2026-10-31T21:08:33",
+     "acao": "MANTER",
+     "detalhe": "[reversao_4] AVAXUSDT LONG desde 9.069 | agora 8.579 | -5.4%"
+    },
+    {
+     "quando": "2026-10-31T21:08:35",
+     "acao": "ORDEM LONG",
+     "detalhe": "[reversao_4] DOTUSDT 13.73 DOT (~13.00 USDT) @ ~0.947 | stop 0.80371429 | saÃ­da por regra | risco ~1.97 USDT Ã—1.25 | orderId 420294"
+    },
+    {
+     "quando": "2026-10-31T21:08:35",
+     "acao": "MANTER",
+     "detalhe": "[reversao_4] ATOMUSDT LONG desde 1.529 | agora 1.497 | -2.1%"
+    },
+    {
+     "quando": "2026-10-31T21:08:35",
+     "acao": "MANTER",
+     "detalhe": "[reversao_4] NEARUSDT LONG desde 4.321 | agora 4.436 | +2.7%"
+    },
+    {
+     "quando": "2026-10-31T21:08:36",
+     "acao": "ORDEM LONG",
+     "detalhe": "[reversao_4] DOGSUSDT 397859.0 DOGS (~13.01 USDT) @ ~0.0000327 | stop 0.0000276943 | saÃ­da por regra | risco ~1.97 USDT Ã—1.25 | orderId 577239"
+    }
+   ],
+   "ranking": 25
+  },
+  {
+   "chave": "reversao_2",
+   "nome": "Reversão à Média Clássica",
+   "apelido": "Clássica",
+   "time": "reversao",
+   "cor": "#60a5fa",
+   "equity": 314.87,
+   "cota_inicial": 331.5,
+   "retorno_pct": -5.02,
+   "sharpe": -3.7,
+   "max_dd": 7.24,
+   "status": "confiante",
+   "vida": 85.5,
+   "morta": false,
+   "geracao": 1,
+   "aberturas": 18,
+   "vitorias": 1,
+   "derrotas": 11,
+   "pnl": -15.7,
+   "historico": [
+    330.51,
+    330.83,
+    330.83,
+    327.85,
+    328.06,
+    329.02,
+    333.71,
+    326.64,
+    324.87,
+    323.3,
+    320.48,
+    321.24,
+    322.5,
+    324.97,
+    309.54,
+    315.18,
+    314.87
+   ],
+   "posicoes": [
+    {
+     "simbolo": "AVAXUSDT",
+     "lado": "long",
+     "entrada": 9.073,
+     "stop": 7.81914286,
+     "alvo": null,
+     "quantidade": 1.63,
+     "gasto_usdt": 14.789,
+     "aberta_em": "2026-10-24T00:08:35+00:00"
+    },
+    {
+     "simbolo": "ATOMUSDT",
+     "lado": "long",
+     "entrada": 1.527,
+     "stop": 1.32814286,
+     "alvo": null,
+     "quantidade": 10.95,
+     "gasto_usdt": 16.7206,
+     "aberta_em": "2026-10-30T12:08:29+00:00"
+    },
+    {
+     "simbolo": "NEARUSDT",
+     "lado": "long",
+     "entrada": 4.316,
+     "stop": 3.20371429,
+     "alvo": null,
+     "quantidade": 2.1,
+     "gasto_usdt": 9.0636,
+     "aberta_em": "2026-10-30T12:08:31+00:00"
+    },
+    {
+     "simbolo": "ADAUSDT",
+     "lado": "long",
+     "entrada": 0.1932,
+     "stop": 0.17137143,
+     "alvo": null,
+     "quantidade": 90.8,
+     "gasto_usdt": 17.5426,
+     "aberta_em": "2026-11-01T00:08:23+00:00"
+    },
+    {
+     "simbolo": "DOTUSDT",
+     "lado": "long",
+     "entrada": 0.947,
+     "stop": 0.80371429,
+     "alvo": null,
+     "quantidade": 13.73,
+     "gasto_usdt": 13.0023,
+     "aberta_em": "2026-11-01T00:08:25+00:00"
+    },
+    {
+     "simbolo": "DOGSUSDT",
+     "lado": "long",
+     "entrada": 3.27e-05,
+     "stop": 2.769e-05,
+     "alvo": null,
+     "quantidade": 397859.0,
+     "gasto_usdt": 13.01,
+     "aberta_em": "2026-11-01T00:08:26+00:00"
+    }
+   ],
+   "eventos": [
+    {
+     "quando": "2026-10-30T21:08:29",
+     "acao": "FECHOU",
+     "detalhe": "[reversao_2] DOGEUSDT 244.0 DOGE @ ~0.07596 â€” stop atingido (0.07) | P&L -1.34 USDT | orderId 1057052"
+    },
+    {
+     "quando": "2026-10-30T21:08:29",
+     "acao": "MANTER",
+     "detalhe": "[reversao_2] AVAXUSDT LONG desde 9.073 | agora 8.553 | -5.7%"
+    },
+    {
+     "quando": "2026-10-30T21:08:30",
+     "acao": "FECHOU",
+     "detalhe": "[reversao_2] DOTUSDT 11.87 DOT @ ~0.975 â€” stop atingido (0.88) | P&L -0.85 USDT | orderId 403926"
+    },
+    {
+     "quando": "2026-10-30T21:08:32",
+     "acao": "FECHOU",
+     "detalhe": "[reversao_2] LTCUSDT 0.346 LTC @ ~56.02 â€” stop atingido (53.45) | P&L -1.78 USDT | orderId 732301"
+    },
+    {
+     "quando": "2026-10-30T21:08:32",
+     "acao": "MANTER",
+     "detalhe": "[reversao_2] ATOMUSDT LONG desde 1.527 | agora 1.552 | +1.6%"
+    },
+    {
+     "quando": "2026-10-30T21:08:32",
+     "acao": "MANTER",
+     "detalhe": "[reversao_2] NEARUSDT LONG desde 4.316 | agora 4.297 | -0.4%"
+    },
+    {
+     "quando": "2026-10-30T21:08:34",
+     "acao": "FECHOU",
+     "detalhe": "[reversao_2] SHIBUSDT 3815384.0 SHIB @ ~0.00000481 â€” stop atingido (0.00) | P&L -1.53 USDT | orderId 51075"
+    },
+    {
+     "quando": "2026-10-30T21:08:35",
+     "acao": "FECHOU",
+     "detalhe": "[reversao_2] DOGSUSDT 375239.0 DOGS @ ~0.00003291 â€” stop atingido (0.00) | P&L -1.36 USDT | orderId 565960"
+    },
+    {
+     "quando": "2026-10-30T21:08:37",
+     "acao": "FECHOU",
+     "detalhe": "[reversao_2] FLOKIUSDT 586900.0 FLOKI @ ~0.00002435 â€” regra de saÃ­da | P&L +0.50 USDT | orderId 308566"
+    },
+    {
+     "quando": "2026-10-31T21:08:23",
+     "acao": "ORDEM LONG",
+     "detalhe": "[reversao_2] ADAUSDT 90.8 ADA (~17.54 USDT) @ ~0.1932 | stop 0.17137143 | saÃ­da por regra | risco ~1.97 USDT Ã—1.25 | orderId 487162"
+    },
+    {
+     "quando": "2026-10-31T21:08:23",
+     "acao": "MANTER",
+     "detalhe": "[reversao_2] AVAXUSDT LONG desde 9.073 | agora 8.579 | -5.4%"
+    },
+    {
+     "quando": "2026-10-31T21:08:25",
+     "acao": "ORDEM LONG",
+     "detalhe": "[reversao_2] DOTUSDT 13.73 DOT (~13.00 USDT) @ ~0.947 | stop 0.80371429 | saÃ­da por regra | risco ~1.97 USDT Ã—1.25 | orderId 420288"
+    },
+    {
+     "quando": "2026-10-31T21:08:25",
+     "acao": "MANTER",
+     "detalhe": "[reversao_2] ATOMUSDT LONG desde 1.527 | agora 1.497 | -2.0%"
+    },
+    {
+     "quando": "2026-10-31T21:08:25",
+     "acao": "MANTER",
+     "detalhe": "[reversao_2] NEARUSDT LONG desde 4.316 | agora 4.436 | +2.8%"
+    },
+    {
+     "quando": "2026-10-31T21:08:26",
+     "acao": "ORDEM LONG",
+     "detalhe": "[reversao_2] DOGSUSDT 397859.0 DOGS (~13.01 USDT) @ ~0.0000327 | stop 0.0000276943 | saÃ­da por regra | risco ~1.97 USDT Ã—1.25 | orderId 577237"
     }
    ],
    "ranking": 26
@@ -2112,7 +2138,7 @@
    "equity": 314.35,
    "cota_inicial": 331.5,
    "retorno_pct": -5.17,
-   "sharpe": -9.01,
+   "sharpe": -8.68,
    "max_dd": 5.27,
    "status": "confiante",
    "vida": 88.9,
@@ -2138,20 +2164,11 @@
     320.74,
     321.66,
     314.35,
+    314.35,
     314.35
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:57",
-     "acao": "MANTER",
-     "detalhe": "[grid_1] BTCUSDT LONG desde 81737.39 | agora 81343.5 | -0.5%"
-    },
-    {
-     "quando": "2026-10-28T21:08:57",
-     "acao": "MANTER",
-     "detalhe": "[grid_1] ATOMUSDT LONG desde 1.628 | agora 1.646 | +1.1%"
-    },
     {
      "quando": "2026-10-30T09:09:36",
      "acao": "FECHOU",
@@ -2174,7 +2191,7 @@
    "equity": 314.22,
    "cota_inicial": 331.5,
    "retorno_pct": -5.21,
-   "sharpe": -7.0,
+   "sharpe": -6.76,
    "max_dd": 5.18,
    "status": "confiante",
    "vida": 87.2,
@@ -2200,25 +2217,11 @@
     319.96,
     321.63,
     314.22,
+    314.22,
     314.22
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:57",
-     "acao": "MANTER",
-     "detalhe": "[grid_3] LTCUSDT LONG desde 60.78 | agora 59.25 | -2.5%"
-    },
-    {
-     "quando": "2026-10-28T21:08:57",
-     "acao": "MANTER",
-     "detalhe": "[grid_3] ATOMUSDT LONG desde 1.705 | agora 1.646 | -3.5%"
-    },
-    {
-     "quando": "2026-10-28T21:08:57",
-     "acao": "MANTER",
-     "detalhe": "[grid_3] NEARUSDT LONG desde 4.495 | agora 4.734 | +5.3%"
-    },
     {
      "quando": "2026-10-30T09:09:43",
      "acao": "FECHOU",
@@ -2246,7 +2249,7 @@
    "equity": 311.08,
    "cota_inicial": 331.5,
    "retorno_pct": -6.16,
-   "sharpe": -7.34,
+   "sharpe": -7.09,
    "max_dd": 5.88,
    "status": "confiante",
    "vida": 86.2,
@@ -2272,20 +2275,11 @@
     317.4,
     318.32,
     311.08,
+    311.08,
     311.08
    ],
    "posicoes": [],
    "eventos": [
-    {
-     "quando": "2026-10-28T21:08:57",
-     "acao": "MANTER",
-     "detalhe": "[grid_2] BTCUSDT LONG desde 82484.24 | agora 81343.5 | -1.4%"
-    },
-    {
-     "quando": "2026-10-28T21:08:57",
-     "acao": "MANTER",
-     "detalhe": "[grid_2] ATOMUSDT LONG desde 1.628 | agora 1.646 | +1.1%"
-    },
     {
      "quando": "2026-10-30T09:09:39",
      "acao": "FECHOU",
@@ -2305,16 +2299,16 @@
    "apelido": "Agressiva",
    "time": "reversao",
    "cor": "#60a5fa",
-   "equity": 307.65,
+   "equity": 306.82,
    "cota_inicial": 331.5,
-   "retorno_pct": -7.19,
-   "sharpe": -4.52,
+   "retorno_pct": -7.44,
+   "sharpe": -4.57,
    "max_dd": 8.91,
    "status": "confiante",
-   "vida": 82.3,
+   "vida": 81.8,
    "morta": false,
    "geracao": 1,
-   "aberturas": 22,
+   "aberturas": 25,
    "vitorias": 1,
    "derrotas": 14,
    "pnl": -22.8,
@@ -2334,7 +2328,8 @@
     318.12,
     321.21,
     302.7,
-    307.65
+    307.65,
+    306.82
    ],
    "posicoes": [
     {
@@ -2406,59 +2401,39 @@
      "quantidade": 12.43,
      "gasto_usdt": 12.1441,
      "aberta_em": "2026-10-31T00:08:48+00:00"
+    },
+    {
+     "simbolo": "SOLUSDT",
+     "lado": "long",
+     "entrada": 95.56,
+     "stop": 87.63714286,
+     "alvo": null,
+     "quantidade": 0.242,
+     "gasto_usdt": 23.1255,
+     "aberta_em": "2026-11-01T00:08:28+00:00"
+    },
+    {
+     "simbolo": "TRXUSDT",
+     "lado": "long",
+     "entrada": 0.3046,
+     "stop": 0.28515714,
+     "alvo": null,
+     "quantidade": 102.6,
+     "gasto_usdt": 31.252,
+     "aberta_em": "2026-11-01T00:08:30+00:00"
+    },
+    {
+     "simbolo": "DOGSUSDT",
+     "lado": "long",
+     "entrada": 3.27e-05,
+     "stop": 2.769e-05,
+     "alvo": null,
+     "quantidade": 387767.0,
+     "gasto_usdt": 12.68,
+     "aberta_em": "2026-11-01T00:08:31+00:00"
     }
    ],
    "eventos": [
-    {
-     "quando": "2026-10-30T09:08:46",
-     "acao": "MANTER",
-     "detalhe": "[reversao_3] FLOKIUSDT LONG desde 0.00002361 | agora 0.00002239 | -5.2%"
-    },
-    {
-     "quando": "2026-10-30T21:08:39",
-     "acao": "ORDEM LONG",
-     "detalhe": "[reversao_3] ETHUSDT 0.011 ETH (~24.71 USDT) @ ~2246.58 | stop 2070.8357 | saÃ­da por regra | risco ~1.93 USDT Ã—1.25 | orderId 6948405"
-    },
-    {
-     "quando": "2026-10-30T21:08:40",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_3] SOLUSDT 0.214 SOL @ ~96.38 â€” stop atingido (94.80) | P&L -2.02 USDT | orderId 1534337"
-    },
-    {
-     "quando": "2026-10-30T21:08:42",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_3] XRPUSDT 17.9 XRP @ ~1.2567 â€” stop atingido (1.22) | P&L -1.60 USDT | orderId 1362407"
-    },
-    {
-     "quando": "2026-10-30T21:08:43",
-     "acao": "ORDEM LONG",
-     "detalhe": "[reversao_3] ADAUSDT 85.2 ADA (~16.65 USDT) @ ~0.1954 | stop 0.17262857 | saÃ­da por regra | risco ~1.92 USDT Ã—1.25 | orderId 478034"
-    },
-    {
-     "quando": "2026-10-30T21:08:45",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_3] DOGEUSDT 244.0 DOGE @ ~0.07596 â€” stop atingido (0.07) | P&L -1.33 USDT | orderId 1057056"
-    },
-    {
-     "quando": "2026-10-30T21:08:47",
-     "acao": "ORDEM LONG",
-     "detalhe": "[reversao_3] AVAXUSDT 1.94 AVAX (~16.66 USDT) @ ~8.588 | stop 7.5661429 | saÃ­da por regra | risco ~1.92 USDT Ã—1.25 | orderId 1401376"
-    },
-    {
-     "quando": "2026-10-30T21:08:48",
-     "acao": "ORDEM LONG",
-     "detalhe": "[reversao_3] DOTUSDT 12.43 DOT (~12.14 USDT) @ ~0.977 | stop 0.82057143 | saÃ­da por regra | risco ~1.92 USDT Ã—1.25 | orderId 403936"
-    },
-    {
-     "quando": "2026-10-30T21:08:50",
-     "acao": "FECHOU",
-     "detalhe": "[reversao_3] LTCUSDT 0.345 LTC @ ~56.02 â€” stop atingido (53.45) | P&L -1.77 USDT | orderId 732308"
-    },
-    {
-     "quando": "2026-10-30T21:08:50",
-     "acao": "MANTER",
-     "detalhe": "[reversao_3] ATOMUSDT LONG desde 1.64 | agora 1.552 | -5.4%"
-    },
     {
      "quando": "2026-10-30T21:08:50",
      "acao": "MANTER",
@@ -2483,13 +2458,63 @@
      "quando": "2026-10-30T21:08:55",
      "acao": "FECHOU",
      "detalhe": "[reversao_3] FLOKIUSDT 551461.0 FLOKI @ ~0.00002435 â€” regra de saÃ­da | P&L +0.33 USDT | orderId 308570"
+    },
+    {
+     "quando": "2026-10-31T21:08:26",
+     "acao": "MANTER",
+     "detalhe": "[reversao_3] ETHUSDT LONG desde 2246.58 | agora 2255.66 | +0.4%"
+    },
+    {
+     "quando": "2026-10-31T21:08:28",
+     "acao": "ORDEM LONG",
+     "detalhe": "[reversao_3] SOLUSDT 0.242 SOL (~23.13 USDT) @ ~95.56 | stop 87.637143 | saÃ­da por regra | risco ~1.92 USDT Ã—1.25 | orderId 1578345"
+    },
+    {
+     "quando": "2026-10-31T21:08:28",
+     "acao": "MANTER",
+     "detalhe": "[reversao_3] ADAUSDT LONG desde 0.1954 | agora 0.193 | -1.2%"
+    },
+    {
+     "quando": "2026-10-31T21:08:28",
+     "acao": "MANTER",
+     "detalhe": "[reversao_3] AVAXUSDT LONG desde 8.588 | agora 8.579 | -0.1%"
+    },
+    {
+     "quando": "2026-10-31T21:08:28",
+     "acao": "MANTER",
+     "detalhe": "[reversao_3] DOTUSDT LONG desde 0.977 | agora 0.947 | -3.1%"
+    },
+    {
+     "quando": "2026-10-31T21:08:30",
+     "acao": "ORDEM LONG",
+     "detalhe": "[reversao_3] TRXUSDT 102.6 TRX (~31.25 USDT) @ ~0.3046 | stop 0.28515714 | saÃ­da por regra | risco ~1.92 USDT Ã—1.25 | orderId 222429"
+    },
+    {
+     "quando": "2026-10-31T21:08:30",
+     "acao": "MANTER",
+     "detalhe": "[reversao_3] ATOMUSDT LONG desde 1.64 | agora 1.497 | -8.7%"
+    },
+    {
+     "quando": "2026-10-31T21:08:30",
+     "acao": "MANTER",
+     "detalhe": "[reversao_3] NEARUSDT LONG desde 4.604 | agora 4.436 | -3.6%"
+    },
+    {
+     "quando": "2026-10-31T21:08:30",
+     "acao": "MANTER",
+     "detalhe": "[reversao_3] UNIUSDT LONG desde 6.898 | agora 7.103 | +3.0%"
+    },
+    {
+     "quando": "2026-10-31T21:08:31",
+     "acao": "ORDEM LONG",
+     "detalhe": "[reversao_3] DOGSUSDT 387767.0 DOGS (~12.68 USDT) @ ~0.0000327 | stop 0.0000276943 | saÃ­da por regra | risco ~1.92 USDT Ã—1.25 | orderId 577238"
     }
    ],
    "ranking": 30
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-10-31T20:08:43+00:00",
+  "gerado_em": "2026-11-01T00:08:43+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -2497,14 +2522,14 @@
    "amostra_minima_para_hipotese": 5
   },
   "resumo": {
-   "aberturas_registradas": 77,
+   "aberturas_registradas": 86,
    "fechadas": 117,
    "completas": 51,
    "legadas": 66,
    "fechamentos_duplicados": 0,
    "linhas_invalidas": 0,
-   "posicoes_abertas": 32,
-   "abertas_com_memoria": 32,
+   "posicoes_abertas": 41,
+   "abertas_com_memoria": 41,
    "abertas_legadas_sem_memoria": 0,
    "metricas": {
     "trades": 117,
@@ -2520,22 +2545,22 @@
    }
   },
   "pos_saida": {
-   "trades_rastreados": 75,
-   "avaliacoes": 164,
+   "trades_rastreados": 117,
+   "avaliacoes": 207,
    "por_horizonte": [
     {
      "horizonte_barras": 1,
-     "avaliacoes": 75,
-     "mediana_retorno_desde_saida_pct": 0.4115,
-     "pct_acima_saida": 69.33,
-     "pct_recuperou_entrada": 40.0
+     "avaliacoes": 117,
+     "mediana_retorno_desde_saida_pct": -0.1874,
+     "pct_acima_saida": 44.44,
+     "pct_recuperou_entrada": 29.91
     },
     {
      "horizonte_barras": 3,
-     "avaliacoes": 46,
+     "avaliacoes": 47,
      "mediana_retorno_desde_saida_pct": 0.6211,
-     "pct_acima_saida": 63.04,
-     "pct_recuperou_entrada": 73.91
+     "pct_acima_saida": 61.7,
+     "pct_recuperou_entrada": 74.47
     },
     {
      "horizonte_barras": 7,
@@ -3015,38 +3040,6 @@
     },
     "hipoteses": []
    },
-   "reversao_5": {
-    "agente": "reversao_5",
-    "trades": 0,
-    "pos_saida": {
-     "trades_rastreados": 0,
-     "avaliacoes": 0,
-     "por_horizonte": [
-      {
-       "horizonte_barras": 1,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
-      },
-      {
-       "horizonte_barras": 3,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
-      },
-      {
-       "horizonte_barras": 7,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
-      }
-     ]
-    },
-    "hipoteses": []
-   },
    "rompimento_2": {
     "agente": "rompimento_2",
     "agente_nome": "Rompimento Clássica",
@@ -3061,15 +3054,15 @@
     "mae_medio_pct": -3.3718,
     "duracao_mediana_horas": 12.005,
     "pos_saida": {
-     "trades_rastreados": 0,
-     "avaliacoes": 0,
+     "trades_rastreados": 1,
+     "avaliacoes": 1,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
+       "avaliacoes": 1,
+       "mediana_retorno_desde_saida_pct": -6.5806,
+       "pct_acima_saida": 0.0,
+       "pct_recuperou_entrada": 0.0
       },
       {
        "horizonte_barras": 3,
@@ -3103,15 +3096,15 @@
     "mae_medio_pct": -3.3718,
     "duracao_mediana_horas": 12.004,
     "pos_saida": {
-     "trades_rastreados": 0,
-     "avaliacoes": 0,
+     "trades_rastreados": 1,
+     "avaliacoes": 1,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
+       "avaliacoes": 1,
+       "mediana_retorno_desde_saida_pct": -6.5806,
+       "pct_acima_saida": 0.0,
+       "pct_recuperou_entrada": 0.0
       },
       {
        "horizonte_barras": 3,
@@ -3145,6 +3138,38 @@
     "mae_medio_pct": -3.3718,
     "duracao_mediana_horas": 12.004,
     "pos_saida": {
+     "trades_rastreados": 1,
+     "avaliacoes": 1,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 1,
+       "mediana_retorno_desde_saida_pct": -6.5806,
+       "pct_acima_saida": 0.0,
+       "pct_recuperou_entrada": 0.0
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "reversao_5": {
+    "agente": "reversao_5",
+    "trades": 0,
+    "pos_saida": {
      "trades_rastreados": 0,
      "avaliacoes": 0,
      "por_horizonte": [
@@ -3173,103 +3198,6 @@
     },
     "hipoteses": []
    },
-   "reversao_1": {
-    "agente": "reversao_1",
-    "agente_nome": "Reversão à Média Cirúrgica",
-    "trades": 2,
-    "vitorias": 1,
-    "derrotas": 1,
-    "taxa_acerto_pct": 50.0,
-    "pnl_total_usdt": -1.2315,
-    "expectativa_media_usdt": -0.6157,
-    "profit_factor": 0.2827,
-    "mfe_medio_pct": null,
-    "mae_medio_pct": null,
-    "duracao_mediana_horas": 277.998,
-    "pos_saida": {
-     "trades_rastreados": 1,
-     "avaliacoes": 1,
-     "por_horizonte": [
-      {
-       "horizonte_barras": 1,
-       "avaliacoes": 1,
-       "mediana_retorno_desde_saida_pct": 2.2388,
-       "pct_acima_saida": 100.0,
-       "pct_recuperou_entrada": 0.0
-      },
-      {
-       "horizonte_barras": 3,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
-      },
-      {
-       "horizonte_barras": 7,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
-      }
-     ]
-    },
-    "hipoteses": []
-   },
-   "reversao_6": {
-    "agente": "reversao_6",
-    "agente_nome": "Reversão à Média Precisa",
-    "trades": 7,
-    "vitorias": 1,
-    "derrotas": 6,
-    "taxa_acerto_pct": 14.29,
-    "pnl_total_usdt": -8.465,
-    "expectativa_media_usdt": -1.2093,
-    "profit_factor": 0.056,
-    "mfe_medio_pct": null,
-    "mae_medio_pct": null,
-    "duracao_mediana_horas": 272.006,
-    "pos_saida": {
-     "trades_rastreados": 2,
-     "avaliacoes": 2,
-     "por_horizonte": [
-      {
-       "horizonte_barras": 1,
-       "avaliacoes": 2,
-       "mediana_retorno_desde_saida_pct": 2.6877,
-       "pct_acima_saida": 100.0,
-       "pct_recuperou_entrada": 0.0
-      },
-      {
-       "horizonte_barras": 3,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
-      },
-      {
-       "horizonte_barras": 7,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
-      }
-     ]
-    },
-    "hipoteses": [
-     {
-      "tipo": "concentracao_de_stops",
-      "escopo": {
-       "agente": "reversao_6",
-       "agente_nome": "Reversão à Média Precisa"
-      },
-      "amostra": 7,
-      "evidencia": "6 de 7 saídas foram por stop; P&L somado de -8.46 USDT.",
-      "hipotese_para_teste": "Comparar distância do stop, volatilidade e regimes em backtest fora da amostra. Isso ainda não prova que o stop esteja curto ou longo demais.",
-      "status": "exploratoria",
-      "aplicacao_automatica": false
-     }
-    ]
-   },
    "reversao_2": {
     "agente": "reversao_2",
     "agente_nome": "Reversão à Média Clássica",
@@ -3284,15 +3212,15 @@
     "mae_medio_pct": null,
     "duracao_mediana_horas": 349.234,
     "pos_saida": {
-     "trades_rastreados": 2,
-     "avaliacoes": 2,
+     "trades_rastreados": 11,
+     "avaliacoes": 11,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 2,
-       "mediana_retorno_desde_saida_pct": 2.7682,
-       "pct_acima_saida": 100.0,
-       "pct_recuperou_entrada": 0.0
+       "avaliacoes": 11,
+       "mediana_retorno_desde_saida_pct": -0.9024,
+       "pct_acima_saida": 18.18,
+       "pct_recuperou_entrada": 9.09
       },
       {
        "horizonte_barras": 3,
@@ -3339,15 +3267,15 @@
     "mae_medio_pct": null,
     "duracao_mediana_horas": 349.234,
     "pos_saida": {
-     "trades_rastreados": 2,
-     "avaliacoes": 2,
+     "trades_rastreados": 11,
+     "avaliacoes": 11,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 2,
-       "mediana_retorno_desde_saida_pct": 2.6877,
-       "pct_acima_saida": 100.0,
-       "pct_recuperou_entrada": 0.0
+       "avaliacoes": 11,
+       "mediana_retorno_desde_saida_pct": -0.8921,
+       "pct_acima_saida": 18.18,
+       "pct_recuperou_entrada": 9.09
       },
       {
        "horizonte_barras": 3,
@@ -3380,6 +3308,103 @@
      }
     ]
    },
+   "reversao_6": {
+    "agente": "reversao_6",
+    "agente_nome": "Reversão à Média Precisa",
+    "trades": 7,
+    "vitorias": 1,
+    "derrotas": 6,
+    "taxa_acerto_pct": 14.29,
+    "pnl_total_usdt": -8.465,
+    "expectativa_media_usdt": -1.2093,
+    "profit_factor": 0.056,
+    "mfe_medio_pct": null,
+    "mae_medio_pct": null,
+    "duracao_mediana_horas": 272.006,
+    "pos_saida": {
+     "trades_rastreados": 7,
+     "avaliacoes": 7,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 7,
+       "mediana_retorno_desde_saida_pct": -0.9024,
+       "pct_acima_saida": 28.57,
+       "pct_recuperou_entrada": 14.29
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": [
+     {
+      "tipo": "concentracao_de_stops",
+      "escopo": {
+       "agente": "reversao_6",
+       "agente_nome": "Reversão à Média Precisa"
+      },
+      "amostra": 7,
+      "evidencia": "6 de 7 saídas foram por stop; P&L somado de -8.46 USDT.",
+      "hipotese_para_teste": "Comparar distância do stop, volatilidade e regimes em backtest fora da amostra. Isso ainda não prova que o stop esteja curto ou longo demais.",
+      "status": "exploratoria",
+      "aplicacao_automatica": false
+     }
+    ]
+   },
+   "reversao_1": {
+    "agente": "reversao_1",
+    "agente_nome": "Reversão à Média Cirúrgica",
+    "trades": 2,
+    "vitorias": 1,
+    "derrotas": 1,
+    "taxa_acerto_pct": 50.0,
+    "pnl_total_usdt": -1.2315,
+    "expectativa_media_usdt": -0.6157,
+    "profit_factor": 0.2827,
+    "mfe_medio_pct": null,
+    "mae_medio_pct": null,
+    "duracao_mediana_horas": 277.998,
+    "pos_saida": {
+     "trades_rastreados": 2,
+     "avaliacoes": 2,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 2,
+       "mediana_retorno_desde_saida_pct": -0.8649,
+       "pct_acima_saida": 50.0,
+       "pct_recuperou_entrada": 50.0
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
    "reversao_3": {
     "agente": "reversao_3",
     "agente_nome": "Reversão à Média Agressiva",
@@ -3394,22 +3419,22 @@
     "mae_medio_pct": null,
     "duracao_mediana_horas": 349.234,
     "pos_saida": {
-     "trades_rastreados": 7,
-     "avaliacoes": 7,
+     "trades_rastreados": 14,
+     "avaliacoes": 15,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 7,
-       "mediana_retorno_desde_saida_pct": 1.5072,
-       "pct_acima_saida": 85.71,
+       "avaliacoes": 14,
+       "mediana_retorno_desde_saida_pct": -0.2485,
+       "pct_acima_saida": 42.86,
        "pct_recuperou_entrada": 14.29
       },
       {
        "horizonte_barras": 3,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
+       "avaliacoes": 1,
+       "mediana_retorno_desde_saida_pct": -2.4045,
+       "pct_acima_saida": 0.0,
+       "pct_recuperou_entrada": 100.0
       },
       {
        "horizonte_barras": 7,
@@ -3449,14 +3474,14 @@
     "mae_medio_pct": -6.985,
     "duracao_mediana_horas": 24.006,
     "pos_saida": {
-     "trades_rastreados": 1,
-     "avaliacoes": 1,
+     "trades_rastreados": 2,
+     "avaliacoes": 2,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 1,
-       "mediana_retorno_desde_saida_pct": 0.4535,
-       "pct_acima_saida": 100.0,
+       "avaliacoes": 2,
+       "mediana_retorno_desde_saida_pct": -3.0635,
+       "pct_acima_saida": 50.0,
        "pct_recuperou_entrada": 0.0
       },
       {
@@ -3491,56 +3516,14 @@
     "mae_medio_pct": -6.985,
     "duracao_mediana_horas": 24.006,
     "pos_saida": {
-     "trades_rastreados": 1,
-     "avaliacoes": 1,
+     "trades_rastreados": 2,
+     "avaliacoes": 2,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 1,
-       "mediana_retorno_desde_saida_pct": 0.4535,
-       "pct_acima_saida": 100.0,
-       "pct_recuperou_entrada": 0.0
-      },
-      {
-       "horizonte_barras": 3,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
-      },
-      {
-       "horizonte_barras": 7,
-       "avaliacoes": 0,
-       "mediana_retorno_desde_saida_pct": null,
-       "pct_acima_saida": null,
-       "pct_recuperou_entrada": null
-      }
-     ]
-    },
-    "hipoteses": []
-   },
-   "momentum_2": {
-    "agente": "momentum_2",
-    "agente_nome": "Momentum Padrão",
-    "trades": 2,
-    "vitorias": 0,
-    "derrotas": 2,
-    "taxa_acerto_pct": 0.0,
-    "pnl_total_usdt": -3.5541,
-    "expectativa_media_usdt": -1.7771,
-    "profit_factor": 0.0,
-    "mfe_medio_pct": 3.7808,
-    "mae_medio_pct": -6.9992,
-    "duracao_mediana_horas": 24.006,
-    "pos_saida": {
-     "trades_rastreados": 1,
-     "avaliacoes": 1,
-     "por_horizonte": [
-      {
-       "horizonte_barras": 1,
-       "avaliacoes": 1,
-       "mediana_retorno_desde_saida_pct": 0.422,
-       "pct_acima_saida": 100.0,
+       "avaliacoes": 2,
+       "mediana_retorno_desde_saida_pct": -3.0635,
+       "pct_acima_saida": 50.0,
        "pct_recuperou_entrada": 0.0
       },
       {
@@ -3575,14 +3558,14 @@
     "mae_medio_pct": -6.9992,
     "duracao_mediana_horas": 24.006,
     "pos_saida": {
-     "trades_rastreados": 1,
-     "avaliacoes": 1,
+     "trades_rastreados": 2,
+     "avaliacoes": 2,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 1,
-       "mediana_retorno_desde_saida_pct": 0.422,
-       "pct_acima_saida": 100.0,
+       "avaliacoes": 2,
+       "mediana_retorno_desde_saida_pct": -3.0362,
+       "pct_acima_saida": 50.0,
        "pct_recuperou_entrada": 0.0
       },
       {
@@ -3617,14 +3600,14 @@
     "mae_medio_pct": -6.9992,
     "duracao_mediana_horas": 24.007,
     "pos_saida": {
-     "trades_rastreados": 1,
-     "avaliacoes": 1,
+     "trades_rastreados": 2,
+     "avaliacoes": 2,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 1,
-       "mediana_retorno_desde_saida_pct": 0.422,
-       "pct_acima_saida": 100.0,
+       "avaliacoes": 2,
+       "mediana_retorno_desde_saida_pct": -3.0362,
+       "pct_acima_saida": 50.0,
        "pct_recuperou_entrada": 0.0
       },
       {
@@ -3659,14 +3642,14 @@
     "mae_medio_pct": -7.0133,
     "duracao_mediana_horas": 24.006,
     "pos_saida": {
-     "trades_rastreados": 1,
-     "avaliacoes": 1,
+     "trades_rastreados": 2,
+     "avaliacoes": 2,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 1,
-       "mediana_retorno_desde_saida_pct": 0.422,
-       "pct_acima_saida": 100.0,
+       "avaliacoes": 2,
+       "mediana_retorno_desde_saida_pct": -3.0362,
+       "pct_acima_saida": 50.0,
        "pct_recuperou_entrada": 0.0
       },
       {
@@ -3701,14 +3684,56 @@
     "mae_medio_pct": -7.0133,
     "duracao_mediana_horas": 24.006,
     "pos_saida": {
-     "trades_rastreados": 1,
-     "avaliacoes": 1,
+     "trades_rastreados": 2,
+     "avaliacoes": 2,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 1,
-       "mediana_retorno_desde_saida_pct": 0.422,
-       "pct_acima_saida": 100.0,
+       "avaliacoes": 2,
+       "mediana_retorno_desde_saida_pct": -3.0362,
+       "pct_acima_saida": 50.0,
+       "pct_recuperou_entrada": 0.0
+      },
+      {
+       "horizonte_barras": 3,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      },
+      {
+       "horizonte_barras": 7,
+       "avaliacoes": 0,
+       "mediana_retorno_desde_saida_pct": null,
+       "pct_acima_saida": null,
+       "pct_recuperou_entrada": null
+      }
+     ]
+    },
+    "hipoteses": []
+   },
+   "momentum_2": {
+    "agente": "momentum_2",
+    "agente_nome": "Momentum Padrão",
+    "trades": 2,
+    "vitorias": 0,
+    "derrotas": 2,
+    "taxa_acerto_pct": 0.0,
+    "pnl_total_usdt": -3.5541,
+    "expectativa_media_usdt": -1.7771,
+    "profit_factor": 0.0,
+    "mfe_medio_pct": 3.7808,
+    "mae_medio_pct": -6.9992,
+    "duracao_mediana_horas": 24.006,
+    "pos_saida": {
+     "trades_rastreados": 2,
+     "avaliacoes": 2,
+     "por_horizonte": [
+      {
+       "horizonte_barras": 1,
+       "avaliacoes": 2,
+       "mediana_retorno_desde_saida_pct": -3.0793,
+       "pct_acima_saida": 50.0,
        "pct_recuperou_entrada": 0.0
       },
       {
@@ -3743,14 +3768,14 @@
     "mae_medio_pct": -6.985,
     "duracao_mediana_horas": 24.006,
     "pos_saida": {
-     "trades_rastreados": 1,
-     "avaliacoes": 1,
+     "trades_rastreados": 2,
+     "avaliacoes": 2,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 1,
-       "mediana_retorno_desde_saida_pct": 0.4535,
-       "pct_acima_saida": 100.0,
+       "avaliacoes": 2,
+       "mediana_retorno_desde_saida_pct": -3.0635,
+       "pct_acima_saida": 50.0,
        "pct_recuperou_entrada": 0.0
       },
       {
@@ -4137,7 +4162,7 @@
     "inicial_usdt": 994.5,
     "equity_usdt": 939.65,
     "retorno_pct": -5.5153,
-    "capturado_em": "2026-10-31T20:08:43+00:00",
+    "capturado_em": "2026-11-01T00:08:43+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": -54.85,
     "aberturas": 47,
@@ -4146,8 +4171,8 @@
     "posicoes_abertas": 0,
     "fundo": {
      "inicial_usdt": 9945.0,
-     "equity_usdt": 9775.13,
-     "retorno_pct": -1.7081
+     "equity_usdt": 9770.85,
+     "retorno_pct": -1.7511
     }
    },
    "delta": {
@@ -4156,7 +4181,7 @@
     "pnl_realizado_usdt": -22.04,
     "aberturas": 0,
     "posicoes_abertas": -7,
-    "fundo_retorno_pp": -0.7701
+    "fundo_retorno_pp": -0.8131
    }
   }
  }
