@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-07T00:08:22+00:00",
+ "gerado_em": "2026-11-07T04:08:39+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 1,
  "cemiterio": [],
@@ -71,6 +71,11 @@
      "quando": "2026-11-06T21:08:21",
      "acao": "MANTER",
      "detalhe": "[veloz_1] XRPUSDT LONG desde 1.1851 | agora 1.179 | -0.5%"
+    },
+    {
+     "quando": "2026-11-07T01:08:38",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] XRPUSDT LONG desde 1.1851 | agora 1.1603 | -2.1%"
     }
    ],
    "ranking": 1
@@ -193,41 +198,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-11-06T13:08:24",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] WIFUSDT LONG desde 0.1655 | agora 0.1666 | +0.7%"
-    },
-    {
-     "quando": "2026-11-06T17:08:22",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] BTCUSDT LONG desde 75760.01 | agora 75888.01 | +0.2%"
-    },
-    {
-     "quando": "2026-11-06T17:08:22",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ETHUSDT LONG desde 2250.14 | agora 2235.79 | -0.6%"
-    },
-    {
-     "quando": "2026-11-06T17:08:22",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] BNBUSDT LONG desde 690.61 | agora 693.99 | +0.5%"
-    },
-    {
-     "quando": "2026-11-06T17:08:22",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] SOLUSDT LONG desde 90.34 | agora 90.17 | -0.2%"
-    },
-    {
-     "quando": "2026-11-06T17:08:22",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1832 | agora 0.1867 | +1.9%"
-    },
-    {
-     "quando": "2026-11-06T17:08:22",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] DOGEUSDT LONG desde 0.0719 | agora 0.07292 | +1.4%"
-    },
-    {
      "quando": "2026-11-06T17:08:22",
      "acao": "MANTER",
      "detalhe": "[veloz_4] WIFUSDT LONG desde 0.1655 | agora 0.1664 | +0.5%"
@@ -266,6 +236,41 @@
      "quando": "2026-11-06T21:08:22",
      "acao": "MANTER",
      "detalhe": "[veloz_4] WIFUSDT LONG desde 0.1655 | agora 0.164 | -0.9%"
+    },
+    {
+     "quando": "2026-11-07T01:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BTCUSDT LONG desde 75760.01 | agora 75893.66 | +0.2%"
+    },
+    {
+     "quando": "2026-11-07T01:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ETHUSDT LONG desde 2250.14 | agora 2245.11 | -0.2%"
+    },
+    {
+     "quando": "2026-11-07T01:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BNBUSDT LONG desde 690.61 | agora 694.13 | +0.5%"
+    },
+    {
+     "quando": "2026-11-07T01:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] SOLUSDT LONG desde 90.34 | agora 90.06 | -0.3%"
+    },
+    {
+     "quando": "2026-11-07T01:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ADAUSDT LONG desde 0.1832 | agora 0.1843 | +0.6%"
+    },
+    {
+     "quando": "2026-11-07T01:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] DOGEUSDT LONG desde 0.0719 | agora 0.072 | +0.1%"
+    },
+    {
+     "quando": "2026-11-07T01:08:39",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] WIFUSDT LONG desde 0.1655 | agora 0.1619 | -2.2%"
     }
    ],
    "ranking": 2
@@ -2744,7 +2749,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-11-07T00:08:23+00:00",
+  "gerado_em": "2026-11-07T04:08:39+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -4834,7 +4839,7 @@
     "inicial_usdt": 994.5,
     "equity_usdt": 939.65,
     "retorno_pct": -5.5153,
-    "capturado_em": "2026-11-07T00:08:22+00:00",
+    "capturado_em": "2026-11-07T04:08:39+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": -54.85,
     "aberturas": 47,
