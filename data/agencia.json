@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-13T00:08:37+00:00",
+ "gerado_em": "2026-11-13T04:09:03+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 1,
  "cemiterio": [],
@@ -11,19 +11,19 @@
    "apelido": "Reversão 4h",
    "time": "veloz",
    "cor": "#a78bfa",
-   "equity": 349.83,
+   "equity": 356.7,
    "cota_inicial": 331.5,
-   "retorno_pct": 5.53,
+   "retorno_pct": 7.6,
    "sharpe": 3.12,
    "max_dd": 2.27,
    "status": "confiante",
    "vida": 94.7,
    "morta": false,
    "geracao": 1,
-   "aberturas": 35,
+   "aberturas": 41,
    "vitorias": 21,
-   "derrotas": 9,
-   "pnl": 20.84,
+   "derrotas": 13,
+   "pnl": 11.95,
    "historico": [
     331.5,
     331.5,
@@ -57,46 +57,6 @@
    ],
    "posicoes": [
     {
-     "simbolo": "SOLUSDT",
-     "lado": "long",
-     "entrada": 82.34,
-     "stop": 78.46714286,
-     "alvo": null,
-     "quantidade": 0.577,
-     "gasto_usdt": 47.5102,
-     "aberta_em": "2026-11-10T16:08:50+00:00"
-    },
-    {
-     "simbolo": "ETHUSDT",
-     "lado": "long",
-     "entrada": 2041.68,
-     "stop": 1950.06,
-     "alvo": null,
-     "quantidade": 0.0234,
-     "gasto_usdt": 47.7753,
-     "aberta_em": "2026-11-10T20:08:31+00:00"
-    },
-    {
-     "simbolo": "XRPUSDT",
-     "lado": "long",
-     "entrada": 1.0599,
-     "stop": 0.99935714,
-     "alvo": null,
-     "quantidade": 38.2,
-     "gasto_usdt": 40.4882,
-     "aberta_em": "2026-11-11T00:09:00+00:00"
-    },
-    {
-     "simbolo": "UNIUSDT",
-     "lado": "long",
-     "entrada": 6.243,
-     "stop": 5.75514286,
-     "alvo": null,
-     "quantidade": 4.7,
-     "gasto_usdt": 29.3421,
-     "aberta_em": "2026-11-12T04:08:56+00:00"
-    },
-    {
      "simbolo": "PEPEUSDT",
      "lado": "long",
      "entrada": 4.85e-06,
@@ -105,64 +65,69 @@
      "quantidade": 412372.0,
      "gasto_usdt": 2.0,
      "aberta_em": "2026-11-12T04:08:58+00:00"
+    },
+    {
+     "simbolo": "BTCUSDT",
+     "lado": "long",
+     "entrada": 68850.97,
+     "stop": 66917.58428571,
+     "alvo": null,
+     "quantidade": 0.00128,
+     "gasto_usdt": 88.1292,
+     "aberta_em": "2026-11-13T04:08:35+00:00"
+    },
+    {
+     "simbolo": "BNBUSDT",
+     "lado": "long",
+     "entrada": 635.34,
+     "stop": 614.26285714,
+     "alvo": null,
+     "quantidade": 0.136,
+     "gasto_usdt": 86.4062,
+     "aberta_em": "2026-11-13T04:08:38+00:00"
+    },
+    {
+     "simbolo": "DOGEUSDT",
+     "lado": "long",
+     "entrada": 0.06371,
+     "stop": 0.06076714,
+     "alvo": null,
+     "quantidade": 912.0,
+     "gasto_usdt": 58.1035,
+     "aberta_em": "2026-11-13T04:08:43+00:00"
+    },
+    {
+     "simbolo": "LINKUSDT",
+     "lado": "long",
+     "entrada": 9.736,
+     "stop": 9.29171429,
+     "alvo": null,
+     "quantidade": 5.93,
+     "gasto_usdt": 57.7345,
+     "aberta_em": "2026-11-13T04:08:45+00:00"
+    },
+    {
+     "simbolo": "WIFUSDT",
+     "lado": "long",
+     "entrada": 0.1468,
+     "stop": 0.14004286,
+     "alvo": null,
+     "quantidade": 341.0,
+     "gasto_usdt": 50.0588,
+     "aberta_em": "2026-11-13T04:08:48+00:00"
+    },
+    {
+     "simbolo": "FLOKIUSDT",
+     "lado": "long",
+     "entrada": 1.948e-05,
+     "stop": 1.859e-05,
+     "alvo": null,
+     "quantidade": 51334.0,
+     "gasto_usdt": 1.0,
+     "aberta_em": "2026-11-13T04:08:50+00:00"
     }
    ],
    "eventos": [
-    {
-     "quando": "2026-11-12T13:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] ETHUSDT LONG desde 2041.68 | agora 2009.1 | -1.6%"
-    },
-    {
-     "quando": "2026-11-12T13:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] SOLUSDT LONG desde 82.34 | agora 81.71 | -0.8%"
-    },
-    {
-     "quando": "2026-11-12T13:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] XRPUSDT LONG desde 1.0599 | agora 1.0269 | -3.1%"
-    },
-    {
-     "quando": "2026-11-12T13:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] UNIUSDT LONG desde 6.243 | agora 6.015 | -3.7%"
-    },
-    {
-     "quando": "2026-11-12T13:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] PEPEUSDT LONG desde 0.00000485 | agora 0.00000436 | -10.1%"
-    },
-    {
-     "quando": "2026-11-12T17:08:47",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] ETHUSDT LONG desde 2041.68 | agora 2017.64 | -1.2%"
-    },
-    {
-     "quando": "2026-11-12T17:08:47",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] SOLUSDT LONG desde 82.34 | agora 81.64 | -0.9%"
-    },
-    {
-     "quando": "2026-11-12T17:08:47",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] XRPUSDT LONG desde 1.0599 | agora 1.0332 | -2.5%"
-    },
-    {
-     "quando": "2026-11-12T17:08:47",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] UNIUSDT LONG desde 6.243 | agora 6.037 | -3.3%"
-    },
-    {
-     "quando": "2026-11-12T17:08:47",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] PEPEUSDT LONG desde 0.00000485 | agora 0.00000448 | -7.6%"
-    },
-    {
-     "quando": "2026-11-12T21:08:36",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] ETHUSDT LONG desde 2041.68 | agora 2019.74 | -1.1%"
-    },
     {
      "quando": "2026-11-12T21:08:36",
      "acao": "MANTER",
@@ -182,6 +147,61 @@
      "quando": "2026-11-12T21:08:36",
      "acao": "MANTER",
      "detalhe": "[veloz_1] PEPEUSDT LONG desde 0.00000485 | agora 0.00000454 | -6.4%"
+    },
+    {
+     "quando": "2026-11-13T01:08:35",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_1] BTCUSDT 0.00128 BTC (~88.13 USDT) @ ~68850.97 | stop 66917.584 | saÃ­da por regra | risco ~2.62 USDT Ã—1.5 | orderId 13245246"
+    },
+    {
+     "quando": "2026-11-13T01:08:37",
+     "acao": "FECHOU",
+     "detalhe": "[veloz_1] ETHUSDT 0.0234 ETH @ ~1934.57 â€” stop atingido (1950.06) | P&L -2.45 USDT | orderId 9472724"
+    },
+    {
+     "quando": "2026-11-13T01:08:38",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_1] BNBUSDT 0.136 BNB (~86.41 USDT) @ ~635.34 | stop 614.26286 | saÃ­da por regra | risco ~2.63 USDT Ã—1.5 | orderId 5342629"
+    },
+    {
+     "quando": "2026-11-13T01:08:40",
+     "acao": "FECHOU",
+     "detalhe": "[veloz_1] SOLUSDT 0.577 SOL @ ~78.47 â€” stop atingido (78.47) | P&L -2.19 USDT | orderId 2369201"
+    },
+    {
+     "quando": "2026-11-13T01:08:42",
+     "acao": "FECHOU",
+     "detalhe": "[veloz_1] XRPUSDT 38.2 XRP @ ~1.0062 â€” stop atingido (1.00) | P&L -1.96 USDT | orderId 2037569"
+    },
+    {
+     "quando": "2026-11-13T01:08:43",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_1] DOGEUSDT 912.0 DOGE (~58.10 USDT) @ ~0.06371 | stop 0.060767143 | saÃ­da por regra | risco ~2.63 USDT Ã—1.5 | orderId 1521484"
+    },
+    {
+     "quando": "2026-11-13T01:08:45",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_1] LINKUSDT 5.93 LINK (~57.73 USDT) @ ~9.736 | stop 9.2917143 | saÃ­da por regra | risco ~2.65 USDT Ã—1.5 | orderId 2427540"
+    },
+    {
+     "quando": "2026-11-13T01:08:47",
+     "acao": "FECHOU",
+     "detalhe": "[veloz_1] UNIUSDT 4.7 UNI @ ~5.791 â€” stop atingido (5.76) | P&L -2.28 USDT | orderId 2186750"
+    },
+    {
+     "quando": "2026-11-13T01:08:47",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] PEPEUSDT LONG desde 0.00000485 | agora 0.00000456 | -6.0%"
+    },
+    {
+     "quando": "2026-11-13T01:08:48",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_1] WIFUSDT 341.0 WIF (~50.06 USDT) @ ~0.1468 | stop 0.14004286 | saÃ­da por regra | risco ~2.66 USDT Ã—1.5 | orderId 536284"
+    },
+    {
+     "quando": "2026-11-13T01:08:50",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_1] FLOKIUSDT 51334.0 FLOKI (~1.00 USDT) @ ~0.00001948 | stop 0.0000185929 | saÃ­da por regra | risco ~2.67 USDT Ã—1.5 | orderId 437266"
     }
    ],
    "ranking": 1
@@ -1213,19 +1233,19 @@
    "apelido": "Grid 4h",
    "time": "veloz",
    "cor": "#a78bfa",
-   "equity": 320.57,
+   "equity": 319.41,
    "cota_inicial": 331.5,
-   "retorno_pct": -3.3,
+   "retorno_pct": -3.65,
    "sharpe": -0.96,
    "max_dd": 6.61,
    "status": "confiante",
    "vida": 75.4,
    "morta": false,
    "geracao": 1,
-   "aberturas": 96,
+   "aberturas": 98,
    "vitorias": 42,
-   "derrotas": 46,
-   "pnl": -9.68,
+   "derrotas": 50,
+   "pnl": -13.96,
    "historico": [
     331.5,
     331.5,
@@ -1259,16 +1279,6 @@
    ],
    "posicoes": [
     {
-     "simbolo": "SOLUSDT",
-     "lado": "long",
-     "entrada": 83.02,
-     "stop": 79.6992,
-     "alvo": null,
-     "quantidade": 0.734,
-     "gasto_usdt": 60.9367,
-     "aberta_em": "2026-11-12T08:08:20+00:00"
-    },
-    {
      "simbolo": "LTCUSDT",
      "lado": "long",
      "entrada": 49.74,
@@ -1287,26 +1297,6 @@
      "quantidade": 13737668.0,
      "gasto_usdt": 61.27,
      "aberta_em": "2026-11-12T08:08:27+00:00"
-    },
-    {
-     "simbolo": "FLOKIUSDT",
-     "lado": "long",
-     "entrada": 2.051e-05,
-     "stop": 1.964e-05,
-     "alvo": null,
-     "quantidade": 807898.0,
-     "gasto_usdt": 16.57,
-     "aberta_em": "2026-11-12T08:08:28+00:00"
-    },
-    {
-     "simbolo": "WIFUSDT",
-     "lado": "long",
-     "entrada": 0.1529,
-     "stop": 0.146784,
-     "alvo": null,
-     "quantidade": 14.84,
-     "gasto_usdt": 2.269,
-     "aberta_em": "2026-11-12T12:08:32+00:00"
     },
     {
      "simbolo": "LINKUSDT",
@@ -1329,67 +1319,27 @@
      "aberta_em": "2026-11-12T16:08:50+00:00"
     },
     {
-     "simbolo": "DOGEUSDT",
+     "simbolo": "ADAUSDT",
      "lado": "long",
-     "entrada": 0.06589,
-     "stop": 0.063408,
+     "entrada": 0.1686,
+     "stop": 0.161664,
      "alvo": null,
-     "quantidade": 18.0,
-     "gasto_usdt": 1.186,
-     "aberta_em": "2026-11-12T20:08:50+00:00"
+     "quantidade": 176.9,
+     "gasto_usdt": 29.8253,
+     "aberta_em": "2026-11-13T04:08:56+00:00"
+    },
+    {
+     "simbolo": "AVAXUSDT",
+     "lado": "long",
+     "entrada": 8.082,
+     "stop": 7.74624,
+     "alvo": null,
+     "quantidade": 3.51,
+     "gasto_usdt": 28.3678,
+     "aberta_em": "2026-11-13T04:09:00+00:00"
     }
    ],
    "eventos": [
-    {
-     "quando": "2026-11-12T17:08:50",
-     "acao": "ORDEM LONG",
-     "detalhe": "[veloz_4] DOGEUSDT 18.0 DOGE (~1.19 USDT) @ ~0.06589 | stop 0.063408 | saÃ­da por regra | risco ~2.42 USDT Ã—1.5 | orderId 1505094"
-    },
-    {
-     "quando": "2026-11-12T17:08:50",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] LINKUSDT LONG desde 10.025 | agora 10.054 | +0.3%"
-    },
-    {
-     "quando": "2026-11-12T17:08:50",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] LTCUSDT LONG desde 49.74 | agora 50.04 | +0.6%"
-    },
-    {
-     "quando": "2026-11-12T17:08:50",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] SHIBUSDT LONG desde 0.00000446 | agora 0.00000433 | -2.9%"
-    },
-    {
-     "quando": "2026-11-12T17:08:50",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] WIFUSDT LONG desde 0.1529 | agora 0.1525 | -0.3%"
-    },
-    {
-     "quando": "2026-11-12T17:08:50",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] DOGSUSDT LONG desde 0.00003046 | agora 0.0000302 | -0.9%"
-    },
-    {
-     "quando": "2026-11-12T17:08:50",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] FLOKIUSDT LONG desde 0.00002051 | agora 0.00002026 | -1.2%"
-    },
-    {
-     "quando": "2026-11-12T21:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] SOLUSDT LONG desde 83.02 | agora 81.72 | -1.6%"
-    },
-    {
-     "quando": "2026-11-12T21:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] DOGEUSDT LONG desde 0.06589 | agora 0.06651 | +0.9%"
-    },
-    {
-     "quando": "2026-11-12T21:08:37",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] LINKUSDT LONG desde 10.025 | agora 10.149 | +1.2%"
-    },
     {
      "quando": "2026-11-12T21:08:37",
      "acao": "MANTER",
@@ -1414,6 +1364,56 @@
      "quando": "2026-11-12T21:08:37",
      "acao": "MANTER",
      "detalhe": "[veloz_4] FLOKIUSDT LONG desde 0.00002051 | agora 0.00002031 | -1.0%"
+    },
+    {
+     "quando": "2026-11-13T01:08:55",
+     "acao": "FECHOU",
+     "detalhe": "[veloz_4] SOLUSDT 0.734 SOL @ ~78.47 â€” stop atingido (79.70) | P&L -3.31 USDT | orderId 2369218"
+    },
+    {
+     "quando": "2026-11-13T01:08:56",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_4] ADAUSDT 176.9 ADA (~29.83 USDT) @ ~0.1686 | stop 0.161664 | saÃ­da por regra | risco ~1.19 USDT Ã—0.75 | orderId 667011"
+    },
+    {
+     "quando": "2026-11-13T01:08:58",
+     "acao": "FECHOU",
+     "detalhe": "[veloz_4] DOGEUSDT 18.0 DOGE @ ~0.06365 â€” stop atingido (0.06) | P&L -0.04 USDT | orderId 1521493"
+    },
+    {
+     "quando": "2026-11-13T01:09:00",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_4] AVAXUSDT 3.51 AVAX (~28.37 USDT) @ ~8.082 | stop 7.74624 | saÃ­da por regra | risco ~1.20 USDT Ã—0.75 | orderId 2048968"
+    },
+    {
+     "quando": "2026-11-13T01:09:00",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] LINKUSDT LONG desde 10.025 | agora 9.739 | -2.9%"
+    },
+    {
+     "quando": "2026-11-13T01:09:00",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] LTCUSDT LONG desde 49.74 | agora 48.11 | -3.3%"
+    },
+    {
+     "quando": "2026-11-13T01:09:00",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] SHIBUSDT LONG desde 0.00000446 | agora 0.00000421 | -5.6%"
+    },
+    {
+     "quando": "2026-11-13T01:09:01",
+     "acao": "FECHOU",
+     "detalhe": "[veloz_4] WIFUSDT 14.84 WIF @ ~0.1468 â€” stop atingido (0.15) | P&L -0.09 USDT | orderId 536285"
+    },
+    {
+     "quando": "2026-11-13T01:09:01",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] DOGSUSDT LONG desde 0.00003046 | agora 0.00002968 | -2.6%"
+    },
+    {
+     "quando": "2026-11-13T01:09:03",
+     "acao": "FECHOU",
+     "detalhe": "[veloz_4] FLOKIUSDT 807898.0 FLOKI @ ~0.00001946 â€” stop atingido (0.00) | P&L -0.84 USDT | orderId 437267"
     }
    ],
    "ranking": 19
@@ -2097,11 +2097,6 @@
    "eventos": [
     {
      "quando": "2026-11-11T17:08:25",
-     "acao": "ORDEM LONG",
-     "detalhe": "[veloz_5] ATOMUSDT 19.55 ATOM (~27.55 USDT) @ ~1.409 | stop 1.3488571 | alvo 1.5262857 | risco ~1.16 USDT Ã—0.75 | orderId 348903"
-    },
-    {
-     "quando": "2026-11-11T17:08:25",
      "acao": "MANTER",
      "detalhe": "[veloz_5] DOGSUSDT LONG desde 0.00003249 | agora 0.00003108 | -4.3%"
     },
@@ -2169,6 +2164,11 @@
      "quando": "2026-11-12T21:08:37",
      "acao": "MANTER",
      "detalhe": "[veloz_5] ATOMUSDT LONG desde 1.409 | agora 1.435 | +1.8%"
+    },
+    {
+     "quando": "2026-11-13T01:09:03",
+     "acao": "MANTER",
+     "detalhe": "[veloz_5] ATOMUSDT LONG desde 1.409 | agora 1.378 | -2.2%"
     }
    ],
    "ranking": 26
@@ -2892,9 +2892,9 @@
    "apelido": "Momentum 4h",
    "time": "veloz",
    "cor": "#a78bfa",
-   "equity": 283.26,
+   "equity": 282.75,
    "cota_inicial": 331.5,
-   "retorno_pct": -14.55,
+   "retorno_pct": -14.7,
    "sharpe": -7.95,
    "max_dd": 14.78,
    "status": "confiante",
@@ -2903,8 +2903,8 @@
    "geracao": 1,
    "aberturas": 45,
    "vitorias": 3,
-   "derrotas": 39,
-   "pnl": -47.89,
+   "derrotas": 40,
+   "pnl": -48.83,
    "historico": [
     331.5,
     331.53,
@@ -2948,16 +2948,6 @@
      "aberta_em": "2026-10-29T16:08:56+00:00"
     },
     {
-     "simbolo": "AVAXUSDT",
-     "lado": "long",
-     "entrada": 8.602,
-     "stop": 7.99385714,
-     "alvo": 9.76428571,
-     "quantidade": 1.8,
-     "gasto_usdt": 15.4836,
-     "aberta_em": "2026-11-11T08:08:35+00:00"
-    },
-    {
      "simbolo": "ATOMUSDT",
      "lado": "long",
      "entrada": 1.422,
@@ -2969,16 +2959,6 @@
     }
    ],
    "eventos": [
-    {
-     "quando": "2026-11-12T01:08:59",
-     "acao": "MANTER",
-     "detalhe": "[veloz_3] AVAXUSDT LONG desde 8.602 | agora 8.619 | +0.2%"
-    },
-    {
-     "quando": "2026-11-12T01:08:59",
-     "acao": "MANTER",
-     "detalhe": "[veloz_3] NEARUSDT LONG desde 3.758 | agora 3.561 | -5.2%"
-    },
     {
      "quando": "2026-11-12T01:08:59",
      "acao": "MANTER",
@@ -3043,13 +3023,23 @@
      "quando": "2026-11-12T21:08:37",
      "acao": "MANTER",
      "detalhe": "[veloz_3] ATOMUSDT LONG desde 1.422 | agora 1.435 | +0.9%"
+    },
+    {
+     "quando": "2026-11-13T01:08:53",
+     "acao": "FECHOU",
+     "detalhe": "[veloz_3] AVAXUSDT 1.8 AVAX @ ~8.069 â€” regra de saÃ­da | P&L -0.94 USDT | orderId 2048960"
+    },
+    {
+     "quando": "2026-11-13T01:08:53",
+     "acao": "MANTER",
+     "detalhe": "[veloz_3] ATOMUSDT LONG desde 1.422 | agora 1.378 | -3.1%"
     }
    ],
    "ranking": 30
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-11-13T00:08:37+00:00",
+  "gerado_em": "2026-11-13T04:09:03+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -3057,31 +3047,31 @@
    "amostra_minima_para_hipotese": 5
   },
   "resumo": {
-   "aberturas_registradas": 227,
-   "fechadas": 237,
-   "completas": 165,
+   "aberturas_registradas": 235,
+   "fechadas": 246,
+   "completas": 174,
    "legadas": 72,
    "fechamentos_duplicados": 0,
    "linhas_invalidas": 0,
-   "posicoes_abertas": 62,
-   "abertas_com_memoria": 62,
+   "posicoes_abertas": 61,
+   "abertas_com_memoria": 61,
    "abertas_legadas_sem_memoria": 0,
    "metricas": {
-    "trades": 237,
+    "trades": 246,
     "vitorias": 54,
-    "derrotas": 183,
-    "taxa_acerto_pct": 22.78,
-    "pnl_total_usdt": -238.0553,
-    "expectativa_media_usdt": -1.0045,
-    "profit_factor": 0.2324,
-    "mfe_medio_pct": 2.5684,
-    "mae_medio_pct": -5.6731,
-    "duracao_mediana_horas": 39.996
+    "derrotas": 192,
+    "taxa_acerto_pct": 21.95,
+    "pnl_total_usdt": -252.1627,
+    "expectativa_media_usdt": -1.0251,
+    "profit_factor": 0.2223,
+    "mfe_medio_pct": 2.5174,
+    "mae_medio_pct": -5.6951,
+    "duracao_mediana_horas": 39.995
    }
   },
   "pos_saida": {
    "trades_rastreados": 233,
-   "avaliacoes": 661,
+   "avaliacoes": 666,
    "por_horizonte": [
     {
      "horizonte_barras": 1,
@@ -3092,10 +3082,10 @@
     },
     {
      "horizonte_barras": 3,
-     "avaliacoes": 222,
-     "mediana_retorno_desde_saida_pct": -0.1996,
-     "pct_acima_saida": 45.5,
-     "pct_recuperou_entrada": 37.39
+     "avaliacoes": 227,
+     "mediana_retorno_desde_saida_pct": -0.2374,
+     "pct_acima_saida": 44.49,
+     "pct_recuperou_entrada": 36.56
     },
     {
      "horizonte_barras": 7,
@@ -3114,8 +3104,8 @@
      "origem": "veloz",
      "regime_entrada": "lateral"
     },
-    "amostra": 121,
-    "evidencia": "A combinação veloz + lateral acumula -78.85 USDT em 121 trades.",
+    "amostra": 130,
+    "evidencia": "A combinação veloz + lateral acumula -92.96 USDT em 130 trades.",
     "hipotese_para_teste": "Comparar essa combinação com outros períodos e regimes em validação walk-forward. Não reduzir exposição ao vivo apenas por este recorte.",
     "status": "exploratoria",
     "aplicacao_automatica": false
@@ -3140,20 +3130,8 @@
      "agente": "veloz_3",
      "agente_nome": "Veloz (4h) Momentum 4h"
     },
-    "amostra": 32,
-    "evidencia": "24 de 32 saídas foram por stop; P&L somado de -43.04 USDT.",
-    "hipotese_para_teste": "Comparar distância do stop, volatilidade e regimes em backtest fora da amostra. Isso ainda não prova que o stop esteja curto ou longo demais.",
-    "status": "exploratoria",
-    "aplicacao_automatica": false
-   },
-   {
-    "tipo": "concentracao_de_stops",
-    "escopo": {
-     "agente": "reversao_3",
-     "agente_nome": "Reversão à Média Agressiva"
-    },
-    "amostra": 23,
-    "evidencia": "19 de 23 saídas foram por stop; P&L somado de -32.37 USDT.",
+    "amostra": 33,
+    "evidencia": "24 de 33 saídas foram por stop; P&L somado de -43.98 USDT.",
     "hipotese_para_teste": "Comparar distância do stop, volatilidade e regimes em backtest fora da amostra. Isso ainda não prova que o stop esteja curto ou longo demais.",
     "status": "exploratoria",
     "aplicacao_automatica": false
@@ -3166,9 +3144,21 @@
      "tipo_saida": "stop",
      "horizonte_barras": 3
     },
-    "amostra": 23,
-    "evidencia": "18 de 23 operações fecharam acima do preço de saída após 3 candles; mediana de 0.71%.",
+    "amostra": 24,
+    "evidencia": "18 de 24 operações fecharam acima do preço de saída após 3 candles; mediana de 0.67%.",
     "hipotese_para_teste": "Comparar a saída original com uma alternativa em walk-forward. A recuperação posterior é uma pista de possível saída precoce, não prova de erro nem de lucro recuperável.",
+    "status": "exploratoria",
+    "aplicacao_automatica": false
+   },
+   {
+    "tipo": "concentracao_de_stops",
+    "escopo": {
+     "agente": "reversao_3",
+     "agente_nome": "Reversão à Média Agressiva"
+    },
+    "amostra": 23,
+    "evidencia": "19 de 23 saídas foram por stop; P&L somado de -32.37 USDT.",
+    "hipotese_para_teste": "Comparar distância do stop, volatilidade e regimes em backtest fora da amostra. Isso ainda não prova que o stop esteja curto ou longo demais.",
     "status": "exploratoria",
     "aplicacao_automatica": false
    },
@@ -3355,6 +3345,20 @@
     "aplicacao_automatica": false
    },
    {
+    "tipo": "recuperacao_apos_saida",
+    "escopo": {
+     "agente": "veloz_2",
+     "agente_nome": "Veloz (4h) Rompimento 4h",
+     "tipo_saida": "stop",
+     "horizonte_barras": 3
+    },
+    "amostra": 11,
+    "evidencia": "8 de 11 operações fecharam acima do preço de saída após 3 candles; mediana de 0.62%.",
+    "hipotese_para_teste": "Comparar a saída original com uma alternativa em walk-forward. A recuperação posterior é uma pista de possível saída precoce, não prova de erro nem de lucro recuperável.",
+    "status": "exploratoria",
+    "aplicacao_automatica": false
+   },
+   {
     "tipo": "saida_protetora",
     "escopo": {
      "agente": "veloz_5",
@@ -3393,20 +3397,6 @@
     "amostra": 10,
     "evidencia": "10 de 10 operações fecharam abaixo do preço de saída após 7 candles; mediana de -5.75%.",
     "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
-    "status": "exploratoria",
-    "aplicacao_automatica": false
-   },
-   {
-    "tipo": "recuperacao_apos_saida",
-    "escopo": {
-     "agente": "veloz_2",
-     "agente_nome": "Veloz (4h) Rompimento 4h",
-     "tipo_saida": "stop",
-     "horizonte_barras": 3
-    },
-    "amostra": 10,
-    "evidencia": "8 de 10 operações fecharam acima do preço de saída após 3 candles; mediana de 0.75%.",
-    "hipotese_para_teste": "Comparar a saída original com uma alternativa em walk-forward. A recuperação posterior é uma pista de possível saída precoce, não prova de erro nem de lucro recuperável.",
     "status": "exploratoria",
     "aplicacao_automatica": false
    },
@@ -3533,16 +3523,16 @@
    "veloz_1": {
     "agente": "veloz_1",
     "agente_nome": "Veloz (4h) Reversão 4h",
-    "trades": 18,
+    "trades": 22,
     "vitorias": 12,
-    "derrotas": 6,
-    "taxa_acerto_pct": 66.67,
-    "pnl_total_usdt": 6.4953,
-    "expectativa_media_usdt": 0.3608,
-    "profit_factor": 1.6174,
-    "mfe_medio_pct": 4.2823,
-    "mae_medio_pct": -3.0795,
-    "duracao_mediana_horas": 44.003,
+    "derrotas": 10,
+    "taxa_acerto_pct": 54.55,
+    "pnl_total_usdt": -2.3891,
+    "expectativa_media_usdt": -0.1086,
+    "profit_factor": 0.8769,
+    "mfe_medio_pct": 3.7898,
+    "mae_medio_pct": -3.9657,
+    "duracao_mediana_horas": 46.001,
     "pos_saida": {
      "trades_rastreados": 18,
      "avaliacoes": 54,
@@ -3750,19 +3740,19 @@
    "veloz_4": {
     "agente": "veloz_4",
     "agente_nome": "Veloz (4h) Grid 4h",
-    "trades": 61,
+    "trades": 65,
     "vitorias": 30,
-    "derrotas": 31,
-    "taxa_acerto_pct": 49.18,
-    "pnl_total_usdt": -1.4845,
-    "expectativa_media_usdt": -0.0243,
-    "profit_factor": 0.9674,
-    "mfe_medio_pct": 2.4571,
-    "mae_medio_pct": -3.2157,
-    "duracao_mediana_horas": 24.0,
+    "derrotas": 35,
+    "taxa_acerto_pct": 46.15,
+    "pnl_total_usdt": -5.7661,
+    "expectativa_media_usdt": -0.0887,
+    "profit_factor": 0.8844,
+    "mfe_medio_pct": 2.3373,
+    "mae_medio_pct": -3.378,
+    "duracao_mediana_horas": 23.993,
     "pos_saida": {
      "trades_rastreados": 61,
-     "avaliacoes": 176,
+     "avaliacoes": 178,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -3773,10 +3763,10 @@
       },
       {
        "horizonte_barras": 3,
-       "avaliacoes": 59,
-       "mediana_retorno_desde_saida_pct": -0.2374,
-       "pct_acima_saida": 38.98,
-       "pct_recuperou_entrada": 69.49
+       "avaliacoes": 61,
+       "mediana_retorno_desde_saida_pct": -0.2914,
+       "pct_acima_saida": 37.7,
+       "pct_recuperou_entrada": 67.21
       },
       {
        "horizonte_barras": 7,
@@ -4528,7 +4518,7 @@
     "duracao_mediana_horas": 23.999,
     "pos_saida": {
      "trades_rastreados": 11,
-     "avaliacoes": 31,
+     "avaliacoes": 32,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -4539,10 +4529,10 @@
       },
       {
        "horizonte_barras": 3,
-       "avaliacoes": 10,
-       "mediana_retorno_desde_saida_pct": 0.7489,
-       "pct_acima_saida": 80.0,
-       "pct_recuperou_entrada": 10.0
+       "avaliacoes": 11,
+       "mediana_retorno_desde_saida_pct": 0.6211,
+       "pct_acima_saida": 72.73,
+       "pct_recuperou_entrada": 9.09
       },
       {
        "horizonte_barras": 7,
@@ -4574,8 +4564,8 @@
        "tipo_saida": "stop",
        "horizonte_barras": 3
       },
-      "amostra": 10,
-      "evidencia": "8 de 10 operações fecharam acima do preço de saída após 3 candles; mediana de 0.75%.",
+      "amostra": 11,
+      "evidencia": "8 de 11 operações fecharam acima do preço de saída após 3 candles; mediana de 0.62%.",
       "hipotese_para_teste": "Comparar a saída original com uma alternativa em walk-forward. A recuperação posterior é uma pista de possível saída precoce, não prova de erro nem de lucro recuperável.",
       "status": "exploratoria",
       "aplicacao_automatica": false
@@ -4972,7 +4962,7 @@
     "duracao_mediana_horas": 20.012,
     "pos_saida": {
      "trades_rastreados": 13,
-     "avaliacoes": 36,
+     "avaliacoes": 37,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -4983,10 +4973,10 @@
       },
       {
        "horizonte_barras": 3,
-       "avaliacoes": 12,
-       "mediana_retorno_desde_saida_pct": 0.1428,
-       "pct_acima_saida": 58.33,
-       "pct_recuperou_entrada": 33.33
+       "avaliacoes": 13,
+       "mediana_retorno_desde_saida_pct": 0.0959,
+       "pct_acima_saida": 53.85,
+       "pct_recuperou_entrada": 30.77
       },
       {
        "horizonte_barras": 7,
@@ -5029,19 +5019,19 @@
    "veloz_3": {
     "agente": "veloz_3",
     "agente_nome": "Veloz (4h) Momentum 4h",
-    "trades": 32,
+    "trades": 33,
     "vitorias": 1,
-    "derrotas": 31,
-    "taxa_acerto_pct": 3.12,
-    "pnl_total_usdt": -43.0393,
-    "expectativa_media_usdt": -1.345,
-    "profit_factor": 0.0688,
-    "mfe_medio_pct": 0.9007,
-    "mae_medio_pct": -5.3116,
-    "duracao_mediana_horas": 23.999,
+    "derrotas": 32,
+    "taxa_acerto_pct": 3.03,
+    "pnl_total_usdt": -43.9807,
+    "expectativa_media_usdt": -1.3327,
+    "profit_factor": 0.0674,
+    "mfe_medio_pct": 0.9224,
+    "mae_medio_pct": -5.3628,
+    "duracao_mediana_horas": 24.0,
     "pos_saida": {
      "trades_rastreados": 32,
-     "avaliacoes": 93,
+     "avaliacoes": 94,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -5052,10 +5042,10 @@
       },
       {
        "horizonte_barras": 3,
-       "avaliacoes": 31,
-       "mediana_retorno_desde_saida_pct": 0.596,
-       "pct_acima_saida": 67.74,
-       "pct_recuperou_entrada": 25.81
+       "avaliacoes": 32,
+       "mediana_retorno_desde_saida_pct": 0.5255,
+       "pct_acima_saida": 65.62,
+       "pct_recuperou_entrada": 25.0
       },
       {
        "horizonte_barras": 7,
@@ -5073,8 +5063,8 @@
        "agente": "veloz_3",
        "agente_nome": "Veloz (4h) Momentum 4h"
       },
-      "amostra": 32,
-      "evidencia": "24 de 32 saídas foram por stop; P&L somado de -43.04 USDT.",
+      "amostra": 33,
+      "evidencia": "24 de 33 saídas foram por stop; P&L somado de -43.98 USDT.",
       "hipotese_para_teste": "Comparar distância do stop, volatilidade e regimes em backtest fora da amostra. Isso ainda não prova que o stop esteja curto ou longo demais.",
       "status": "exploratoria",
       "aplicacao_automatica": false
@@ -5087,8 +5077,8 @@
        "tipo_saida": "stop",
        "horizonte_barras": 3
       },
-      "amostra": 23,
-      "evidencia": "18 de 23 operações fecharam acima do preço de saída após 3 candles; mediana de 0.71%.",
+      "amostra": 24,
+      "evidencia": "18 de 24 operações fecharam acima do preço de saída após 3 candles; mediana de 0.67%.",
       "hipotese_para_teste": "Comparar a saída original com uma alternativa em walk-forward. A recuperação posterior é uma pista de possível saída precoce, não prova de erro nem de lucro recuperável.",
       "status": "exploratoria",
       "aplicacao_automatica": false
@@ -5154,7 +5144,7 @@
     "inicial_usdt": 994.5,
     "equity_usdt": 939.65,
     "retorno_pct": -5.5153,
-    "capturado_em": "2026-11-13T00:08:37+00:00",
+    "capturado_em": "2026-11-13T04:09:03+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": -54.85,
     "aberturas": 47,
@@ -5163,8 +5153,8 @@
     "posicoes_abertas": 0,
     "fundo": {
      "inicial_usdt": 9945.0,
-     "equity_usdt": 9624.74,
-     "retorno_pct": -3.2203
+     "equity_usdt": 9629.94,
+     "retorno_pct": -3.168
     }
    },
    "delta": {
@@ -5173,7 +5163,7 @@
     "pnl_realizado_usdt": -22.04,
     "aberturas": 0,
     "posicoes_abertas": -7,
-    "fundo_retorno_pp": -2.2823
+    "fundo_retorno_pp": -2.23
    }
   }
  }
