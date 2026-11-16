@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T04:08:38+00:00",
+ "gerado_em": "2026-11-16T08:08:25+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 2,
  "cemiterio": [],
@@ -291,56 +291,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-11-15T21:10:29",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] DOGEUSDT LONG desde 0.0576 | agora 0.05987 | +3.9%"
-    },
-    {
-     "quando": "2026-11-15T21:10:29",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] AVAXUSDT LONG desde 7.124 | agora 7.311 | +2.6%"
-    },
-    {
-     "quando": "2026-11-15T21:10:29",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] LINKUSDT LONG desde 9.041 | agora 9.297 | +2.8%"
-    },
-    {
-     "quando": "2026-11-15T21:10:29",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] DOTUSDT LONG desde 0.714 | agora 0.737 | +3.2%"
-    },
-    {
-     "quando": "2026-11-15T21:10:29",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] LTCUSDT LONG desde 44.74 | agora 45.57 | +1.9%"
-    },
-    {
-     "quando": "2026-11-16T01:08:38",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] BTCUSDT LONG desde 64028.12 | agora 65113.92 | +1.7%"
-    },
-    {
-     "quando": "2026-11-16T01:08:38",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] ETHUSDT LONG desde 1783.71 | agora 1827.77 | +2.5%"
-    },
-    {
-     "quando": "2026-11-16T01:08:38",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] BNBUSDT LONG desde 586.65 | agora 594.14 | +1.3%"
-    },
-    {
-     "quando": "2026-11-16T01:08:38",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] SOLUSDT LONG desde 69.94 | agora 72.17 | +3.2%"
-    },
-    {
-     "quando": "2026-11-16T01:08:38",
-     "acao": "MANTER",
-     "detalhe": "[veloz_1] ADAUSDT LONG desde 0.15 | agora 0.1541 | +2.7%"
-    },
-    {
      "quando": "2026-11-16T01:08:38",
      "acao": "MANTER",
      "detalhe": "[veloz_1] DOGEUSDT LONG desde 0.0576 | agora 0.0591 | +2.6%"
@@ -364,6 +314,56 @@
      "quando": "2026-11-16T01:08:38",
      "acao": "MANTER",
      "detalhe": "[veloz_1] LTCUSDT LONG desde 44.74 | agora 44.92 | +0.4%"
+    },
+    {
+     "quando": "2026-11-16T05:08:25",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] BTCUSDT LONG desde 64028.12 | agora 64995.12 | +1.5%"
+    },
+    {
+     "quando": "2026-11-16T05:08:25",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] ETHUSDT LONG desde 1783.71 | agora 1821.5 | +2.1%"
+    },
+    {
+     "quando": "2026-11-16T05:08:25",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] BNBUSDT LONG desde 586.65 | agora 592.81 | +1.1%"
+    },
+    {
+     "quando": "2026-11-16T05:08:25",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] SOLUSDT LONG desde 69.94 | agora 71.38 | +2.1%"
+    },
+    {
+     "quando": "2026-11-16T05:08:25",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] ADAUSDT LONG desde 0.15 | agora 0.1537 | +2.5%"
+    },
+    {
+     "quando": "2026-11-16T05:08:25",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] DOGEUSDT LONG desde 0.0576 | agora 0.059 | +2.4%"
+    },
+    {
+     "quando": "2026-11-16T05:08:25",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] AVAXUSDT LONG desde 7.124 | agora 7.176 | +0.7%"
+    },
+    {
+     "quando": "2026-11-16T05:08:25",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] LINKUSDT LONG desde 9.041 | agora 9.169 | +1.4%"
+    },
+    {
+     "quando": "2026-11-16T05:08:25",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] DOTUSDT LONG desde 0.714 | agora 0.727 | +1.8%"
+    },
+    {
+     "quando": "2026-11-16T05:08:25",
+     "acao": "MANTER",
+     "detalhe": "[veloz_1] LTCUSDT LONG desde 44.74 | agora 44.89 | +0.3%"
     }
    ],
    "ranking": 1
@@ -1682,11 +1682,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-11-14T13:08:59",
-     "acao": "FECHOU",
-     "detalhe": "[veloz_4] AVAXUSDT 3.57 AVAX @ ~7.68 â€” stop atingido (7.91) | P&L -2.28 USDT | orderId 2143576"
-    },
-    {
      "quando": "2026-11-14T13:09:01",
      "acao": "FECHOU",
      "detalhe": "[veloz_4] LINKUSDT 3.06 LINK @ ~9.279 â€” stop atingido (9.19) | P&L -1.15 USDT | orderId 2534129"
@@ -1755,6 +1750,11 @@
      "quando": "2026-11-16T01:08:38",
      "acao": "MANTER",
      "detalhe": "[veloz_4] TRXUSDT LONG desde 0.3042 | agora 0.3044 | +0.1%"
+    },
+    {
+     "quando": "2026-11-16T05:08:25",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] TRXUSDT LONG desde 0.3042 | agora 0.3033 | -0.3%"
     }
    ],
    "ranking": 8
@@ -2330,11 +2330,6 @@
    "posicoes": [],
    "eventos": [
     {
-     "quando": "2026-11-13T21:09:26",
-     "acao": "MANTER",
-     "detalhe": "[veloz_5] ATOMUSDT LONG desde 1.409 | agora 1.374 | -2.5%"
-    },
-    {
      "quando": "2026-11-14T01:08:52",
      "acao": "FECHOU",
      "detalhe": "[veloz_5] ATOMUSDT 19.55 ATOM @ ~1.341 â€” stop atingido (1.35) | P&L -1.37 USDT | orderId 369566"
@@ -2344,7 +2339,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-11-16T04:08:38+00:00",
+  "gerado_em": "2026-11-16T08:08:26+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -2376,7 +2371,7 @@
   },
   "pos_saida": {
    "trades_rastreados": 348,
-   "avaliacoes": 899,
+   "avaliacoes": 906,
    "por_horizonte": [
     {
      "horizonte_barras": 1,
@@ -2394,10 +2389,10 @@
     },
     {
      "horizonte_barras": 7,
-     "avaliacoes": 265,
-     "mediana_retorno_desde_saida_pct": -2.0314,
-     "pct_acima_saida": 32.45,
-     "pct_recuperou_entrada": 38.49
+     "avaliacoes": 272,
+     "mediana_retorno_desde_saida_pct": -1.8398,
+     "pct_acima_saida": 34.19,
+     "pct_recuperou_entrada": 38.6
     }
    ],
    "linhas_invalidas": 0
@@ -2605,20 +2600,6 @@
     },
     "amostra": 17,
     "evidencia": "16 de 17 operações fecharam abaixo do preço de saída após 7 candles; mediana de -5.73%.",
-    "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
-    "status": "exploratoria",
-    "aplicacao_automatica": false
-   },
-   {
-    "tipo": "saida_protetora",
-    "escopo": {
-     "agente": "veloz_1",
-     "agente_nome": "Veloz (4h) Reversão 4h",
-     "tipo_saida": "stop",
-     "horizonte_barras": 7
-    },
-    "amostra": 16,
-    "evidencia": "10 de 16 operações fecharam abaixo do preço de saída após 7 candles; mediana de -2.29%.",
     "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
     "status": "exploratoria",
     "aplicacao_automatica": false
@@ -2928,7 +2909,7 @@
     "duracao_mediana_horas": 31.998,
     "pos_saida": {
      "trades_rastreados": 41,
-     "avaliacoes": 112,
+     "avaliacoes": 119,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -2946,28 +2927,14 @@
       },
       {
        "horizonte_barras": 7,
-       "avaliacoes": 30,
-       "mediana_retorno_desde_saida_pct": -0.508,
-       "pct_acima_saida": 50.0,
-       "pct_recuperou_entrada": 56.67
+       "avaliacoes": 37,
+       "mediana_retorno_desde_saida_pct": 0.4198,
+       "pct_acima_saida": 59.46,
+       "pct_recuperou_entrada": 54.05
       }
      ]
     },
     "hipoteses": [
-     {
-      "tipo": "saida_protetora",
-      "escopo": {
-       "agente": "veloz_1",
-       "agente_nome": "Veloz (4h) Reversão 4h",
-       "tipo_saida": "stop",
-       "horizonte_barras": 7
-      },
-      "amostra": 16,
-      "evidencia": "10 de 16 operações fecharam abaixo do preço de saída após 7 candles; mediana de -2.29%.",
-      "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
-      "status": "exploratoria",
-      "aplicacao_automatica": false
-     },
      {
       "tipo": "recuperacao_apos_saida",
       "escopo": {
@@ -4600,7 +4567,7 @@
     "inicial_usdt": 1200.0,
     "equity_usdt": 1200.0,
     "retorno_pct": 0.0,
-    "capturado_em": "2026-11-16T04:08:38+00:00",
+    "capturado_em": "2026-11-16T08:08:25+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": 0.0,
     "aberturas": 0,
