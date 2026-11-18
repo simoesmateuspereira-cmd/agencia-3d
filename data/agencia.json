@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18T00:08:58+00:00",
+ "gerado_em": "2026-11-18T04:08:28+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 2,
  "cemiterio": [],
@@ -1556,11 +1556,6 @@
    "posicoes": [],
    "eventos": [
     {
-     "quando": "2026-11-15T17:08:21",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] TRXUSDT LONG desde 0.3042 | agora 0.3053 | +0.4%"
-    },
-    {
      "quando": "2026-11-15T21:10:29",
      "acao": "MANTER",
      "detalhe": "[veloz_4] TRXUSDT LONG desde 0.3042 | agora 0.3054 | +0.4%"
@@ -1669,6 +1664,11 @@
      "quando": "2026-11-17T21:08:56",
      "acao": "ORDEM LONG",
      "detalhe": "[veloz_3] NEARUSDT 4.3 NEAR (~14.56 USDT) @ ~3.385 | stop 3.1647143 | alvo 3.8585714 | risco ~1.00 USDT Ã—0.5 | orderId 1910159"
+    },
+    {
+     "quando": "2026-11-18T01:08:28",
+     "acao": "MANTER",
+     "detalhe": "[veloz_3] NEARUSDT LONG desde 3.385 | agora 3.387 | +0.1%"
     }
    ],
    "ranking": 9
@@ -2263,7 +2263,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-11-18T00:08:58+00:00",
+  "gerado_em": "2026-11-18T04:08:28+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -2294,22 +2294,22 @@
    }
   },
   "pos_saida": {
-   "trades_rastreados": 414,
-   "avaliacoes": 1051,
+   "trades_rastreados": 417,
+   "avaliacoes": 1055,
    "por_horizonte": [
     {
      "horizonte_barras": 1,
-     "avaliacoes": 414,
-     "mediana_retorno_desde_saida_pct": 0.3558,
-     "pct_acima_saida": 58.45,
-     "pct_recuperou_entrada": 34.06
+     "avaliacoes": 417,
+     "mediana_retorno_desde_saida_pct": 0.33,
+     "pct_acima_saida": 58.03,
+     "pct_recuperou_entrada": 34.53
     },
     {
      "horizonte_barras": 3,
-     "avaliacoes": 356,
-     "mediana_retorno_desde_saida_pct": -0.1046,
-     "pct_acima_saida": 48.6,
-     "pct_recuperou_entrada": 29.21
+     "avaliacoes": 357,
+     "mediana_retorno_desde_saida_pct": -0.0987,
+     "pct_acima_saida": 48.46,
+     "pct_recuperou_entrada": 29.41
     },
     {
      "horizonte_barras": 7,
@@ -2404,8 +2404,8 @@
      "tipo_saida": "regra",
      "horizonte_barras": 3
     },
-    "amostra": 40,
-    "evidencia": "27 de 40 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.54%.",
+    "amostra": 41,
+    "evidencia": "28 de 41 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.53%.",
     "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
     "status": "exploratoria",
     "aplicacao_automatica": false
@@ -2818,15 +2818,15 @@
     "mae_medio_pct": -4.3295,
     "duracao_mediana_horas": 36.001,
     "pos_saida": {
-     "trades_rastreados": 49,
-     "avaliacoes": 139,
+     "trades_rastreados": 51,
+     "avaliacoes": 141,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 49,
-       "mediana_retorno_desde_saida_pct": -0.0436,
-       "pct_acima_saida": 48.98,
-       "pct_recuperou_entrada": 53.06
+       "avaliacoes": 51,
+       "mediana_retorno_desde_saida_pct": -0.1109,
+       "pct_acima_saida": 47.06,
+       "pct_recuperou_entrada": 54.9
       },
       {
        "horizonte_barras": 3,
@@ -3327,22 +3327,22 @@
     "mae_medio_pct": -3.7984,
     "duracao_mediana_horas": 20.01,
     "pos_saida": {
-     "trades_rastreados": 85,
-     "avaliacoes": 253,
+     "trades_rastreados": 86,
+     "avaliacoes": 255,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 85,
-       "mediana_retorno_desde_saida_pct": -0.2655,
-       "pct_acima_saida": 45.88,
-       "pct_recuperou_entrada": 48.24
+       "avaliacoes": 86,
+       "mediana_retorno_desde_saida_pct": -0.2787,
+       "pct_acima_saida": 45.35,
+       "pct_recuperou_entrada": 48.84
       },
       {
        "horizonte_barras": 3,
-       "avaliacoes": 84,
-       "mediana_retorno_desde_saida_pct": -0.5648,
-       "pct_acima_saida": 34.52,
-       "pct_recuperou_entrada": 54.76
+       "avaliacoes": 85,
+       "mediana_retorno_desde_saida_pct": -0.5481,
+       "pct_acima_saida": 34.12,
+       "pct_recuperou_entrada": 55.29
       },
       {
        "horizonte_barras": 7,
@@ -3376,8 +3376,8 @@
        "tipo_saida": "regra",
        "horizonte_barras": 3
       },
-      "amostra": 40,
-      "evidencia": "27 de 40 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.54%.",
+      "amostra": 41,
+      "evidencia": "28 de 41 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.53%.",
       "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
       "status": "exploratoria",
       "aplicacao_automatica": false
@@ -4465,7 +4465,7 @@
     "inicial_usdt": 1200.0,
     "equity_usdt": 1200.0,
     "retorno_pct": 0.0,
-    "capturado_em": "2026-11-18T00:08:58+00:00",
+    "capturado_em": "2026-11-18T04:08:28+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": 0.0,
     "aberturas": 0,
