@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19T12:08:38+00:00",
+ "gerado_em": "2026-11-19T16:08:35+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 2,
  "cemiterio": [],
@@ -276,16 +276,16 @@
    "apelido": "Grid 4h",
    "time": "veloz",
    "cor": "#a78bfa",
-   "equity": 404.64,
+   "equity": 406.08,
    "cota_inicial": 400.0,
-   "retorno_pct": 1.16,
+   "retorno_pct": 1.52,
    "sharpe": null,
    "max_dd": 0.01,
    "status": "confiante",
    "vida": 100.0,
    "morta": false,
    "geracao": 1,
-   "aberturas": 11,
+   "aberturas": 13,
    "vitorias": 6,
    "derrotas": 0,
    "pnl": 4.04,
@@ -345,44 +345,29 @@
      "quantidade": 53.95,
      "gasto_usdt": 38.5742,
      "aberta_em": "2026-11-18T20:08:44+00:00"
+    },
+    {
+     "simbolo": "LTCUSDT",
+     "lado": "long",
+     "entrada": 43.37,
+     "stop": 41.6352,
+     "alvo": null,
+     "quantidade": 0.874,
+     "gasto_usdt": 37.9054,
+     "aberta_em": "2026-11-19T16:08:32+00:00"
+    },
+    {
+     "simbolo": "ATOMUSDT",
+     "lado": "long",
+     "entrada": 1.273,
+     "stop": 1.22784,
+     "alvo": null,
+     "quantidade": 29.84,
+     "gasto_usdt": 37.9863,
+     "aberta_em": "2026-11-19T16:08:34+00:00"
     }
    ],
    "eventos": [
-    {
-     "quando": "2026-11-19T05:08:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ETHUSDT LONG desde 1768.97 | agora 1804.28 | +2.0%"
-    },
-    {
-     "quando": "2026-11-19T05:08:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] BNBUSDT LONG desde 579.35 | agora 589.73 | +1.8%"
-    },
-    {
-     "quando": "2026-11-19T05:08:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] AVAXUSDT LONG desde 6.963 | agora 7.076 | +1.6%"
-    },
-    {
-     "quando": "2026-11-19T05:08:43",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] DOTUSDT LONG desde 0.715 | agora 0.72 | +0.7%"
-    },
-    {
-     "quando": "2026-11-19T05:08:44",
-     "acao": "FECHOU",
-     "detalhe": "[veloz_4] LTCUSDT 0.869 LTC @ ~44.67 â€” regra de saÃ­da | P&L +0.72 USDT | orderId 1284904"
-    },
-    {
-     "quando": "2026-11-19T05:08:46",
-     "acao": "FECHOU",
-     "detalhe": "[veloz_4] ATOMUSDT 29.78 ATOM @ ~1.318 â€” regra de saÃ­da | P&L +0.86 USDT | orderId 413551"
-    },
-    {
-     "quando": "2026-11-19T05:08:46",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] UNIUSDT LONG desde 5.127 | agora 5.214 | +1.7%"
-    },
     {
      "quando": "2026-11-19T05:08:46",
      "acao": "MANTER",
@@ -422,6 +407,41 @@
      "quando": "2026-11-19T09:08:36",
      "acao": "MANTER",
      "detalhe": "[veloz_4] FLOKIUSDT LONG desde 0.0000179 | agora 0.00001783 | -0.4%"
+    },
+    {
+     "quando": "2026-11-19T13:08:31",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BTCUSDT LONG desde 63003.82 | agora 63103.3 | +0.2%"
+    },
+    {
+     "quando": "2026-11-19T13:08:31",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] AVAXUSDT LONG desde 6.963 | agora 6.965 | +0.0%"
+    },
+    {
+     "quando": "2026-11-19T13:08:31",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] DOTUSDT LONG desde 0.715 | agora 0.711 | -0.6%"
+    },
+    {
+     "quando": "2026-11-19T13:08:32",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_4] LTCUSDT 0.874 LTC (~37.91 USDT) @ ~43.37 | stop 41.6352 | saÃ­da por regra | risco ~1.52 USDT Ã—0.75 | orderId 1292858"
+    },
+    {
+     "quando": "2026-11-19T13:08:34",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_4] ATOMUSDT 29.84 ATOM (~37.99 USDT) @ ~1.273 | stop 1.22784 | saÃ­da por regra | risco ~1.52 USDT Ã—0.75 | orderId 415390"
+    },
+    {
+     "quando": "2026-11-19T13:08:34",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] UNIUSDT LONG desde 5.127 | agora 4.946 | -3.5%"
+    },
+    {
+     "quando": "2026-11-19T13:08:34",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] FLOKIUSDT LONG desde 0.0000179 | agora 0.00001749 | -2.3%"
     }
    ],
    "ranking": 2
@@ -1259,6 +1279,11 @@
      "quando": "2026-11-19T09:08:33",
      "acao": "MANTER",
      "detalhe": "[veloz_3] NEARUSDT LONG desde 3.385 | agora 3.406 | +0.6%"
+    },
+    {
+     "quando": "2026-11-19T13:08:31",
+     "acao": "MANTER",
+     "detalhe": "[veloz_3] NEARUSDT LONG desde 3.385 | agora 3.274 | -3.3%"
     }
    ],
    "ranking": 24
@@ -1269,9 +1294,9 @@
    "apelido": "Tendência 4h",
    "time": "veloz",
    "cor": "#a78bfa",
-   "equity": 399.61,
+   "equity": 399.2,
    "cota_inicial": 400.0,
-   "retorno_pct": -0.1,
+   "retorno_pct": -0.2,
    "sharpe": null,
    "max_dd": 0.0,
    "status": "confiante",
@@ -1280,31 +1305,25 @@
    "geracao": 1,
    "aberturas": 1,
    "vitorias": 0,
-   "derrotas": 0,
-   "pnl": 0.0,
+   "derrotas": 1,
+   "pnl": -0.8,
    "historico": [
     400.0,
     400.0,
     400.0,
     400.0
    ],
-   "posicoes": [
-    {
-     "simbolo": "NEARUSDT",
-     "lado": "long",
-     "entrada": 3.397,
-     "stop": 3.16685714,
-     "alvo": 3.88428571,
-     "quantidade": 4.1,
-     "gasto_usdt": 13.9277,
-     "aberta_em": "2026-11-19T12:08:38+00:00"
-    }
-   ],
+   "posicoes": [],
    "eventos": [
     {
      "quando": "2026-11-19T09:08:38",
      "acao": "ORDEM LONG",
      "detalhe": "[veloz_5] NEARUSDT 4.1 NEAR (~13.93 USDT) @ ~3.397 | stop 3.1668571 | alvo 3.8842857 | risco ~1.00 USDT Ã—0.5 | orderId 1964742"
+    },
+    {
+     "quando": "2026-11-19T13:08:35",
+     "acao": "FECHOU",
+     "detalhe": "[veloz_5] NEARUSDT 4.1 NEAR @ ~3.274 â€” regra de saÃ­da | P&L -0.80 USDT | orderId 1970765"
     }
    ],
    "ranking": 25
@@ -2571,7 +2590,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-11-19T12:08:39+00:00",
+  "gerado_em": "2026-11-19T16:08:36+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -2579,38 +2598,38 @@
    "amostra_minima_para_hipotese": 5
   },
   "resumo": {
-   "aberturas_registradas": 464,
-   "fechadas": 421,
-   "completas": 349,
+   "aberturas_registradas": 466,
+   "fechadas": 422,
+   "completas": 350,
    "legadas": 72,
    "fechamentos_duplicados": 56,
    "linhas_invalidas": 0,
-   "posicoes_abertas": 88,
-   "abertas_com_memoria": 88,
+   "posicoes_abertas": 89,
+   "abertas_com_memoria": 89,
    "abertas_legadas_sem_memoria": 0,
    "metricas": {
-    "trades": 421,
+    "trades": 422,
     "vitorias": 103,
-    "derrotas": 318,
-    "taxa_acerto_pct": 24.47,
-    "pnl_total_usdt": -444.019,
-    "expectativa_media_usdt": -1.0547,
-    "profit_factor": 0.163,
-    "mfe_medio_pct": 1.9606,
-    "mae_medio_pct": -6.6792,
+    "derrotas": 319,
+    "taxa_acerto_pct": 24.41,
+    "pnl_total_usdt": -444.8227,
+    "expectativa_media_usdt": -1.0541,
+    "profit_factor": 0.1627,
+    "mfe_medio_pct": 1.9568,
+    "mae_medio_pct": -6.6722,
     "duracao_mediana_horas": 28.028
    }
   },
   "pos_saida": {
-   "trades_rastreados": 419,
-   "avaliacoes": 1130,
+   "trades_rastreados": 421,
+   "avaliacoes": 1132,
    "por_horizonte": [
     {
      "horizonte_barras": 1,
-     "avaliacoes": 419,
-     "mediana_retorno_desde_saida_pct": 0.3246,
-     "pct_acima_saida": 58.0,
-     "pct_recuperou_entrada": 34.84
+     "avaliacoes": 421,
+     "mediana_retorno_desde_saida_pct": 0.3182,
+     "pct_acima_saida": 57.72,
+     "pct_recuperou_entrada": 35.15
     },
     {
      "horizonte_barras": 3,
@@ -2672,8 +2691,8 @@
      "origem": "veloz",
      "regime_entrada": "queda"
     },
-    "amostra": 49,
-    "evidencia": "A combinação veloz + queda acumula -39.30 USDT em 49 trades.",
+    "amostra": 50,
+    "evidencia": "A combinação veloz + queda acumula -40.10 USDT em 50 trades.",
     "hipotese_para_teste": "Comparar essa combinação com outros períodos e regimes em validação walk-forward. Não reduzir exposição ao vivo apenas por este recorte.",
     "status": "exploratoria",
     "aplicacao_automatica": false
@@ -2828,8 +2847,8 @@
      "agente": "veloz_5",
      "agente_nome": "Veloz (4h) Tendência 4h"
     },
-    "amostra": 14,
-    "evidencia": "14 de 14 saídas foram por stop; P&L somado de -18.38 USDT.",
+    "amostra": 15,
+    "evidencia": "14 de 15 saídas foram por stop; P&L somado de -19.19 USDT.",
     "hipotese_para_teste": "Comparar distância do stop, volatilidade e regimes em backtest fora da amostra. Isso ainda não prova que o stop esteja curto ou longo demais.",
     "status": "exploratoria",
     "aplicacao_automatica": false
@@ -3167,15 +3186,15 @@
     "mae_medio_pct": -3.6749,
     "duracao_mediana_horas": 20.007,
     "pos_saida": {
-     "trades_rastreados": 88,
-     "avaliacoes": 260,
+     "trades_rastreados": 90,
+     "avaliacoes": 262,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 88,
-       "mediana_retorno_desde_saida_pct": -0.1949,
-       "pct_acima_saida": 45.45,
-       "pct_recuperou_entrada": 50.0
+       "avaliacoes": 90,
+       "mediana_retorno_desde_saida_pct": -0.2787,
+       "pct_acima_saida": 44.44,
+       "pct_recuperou_entrada": 51.11
       },
       {
        "horizonte_barras": 3,
@@ -4251,16 +4270,16 @@
    "veloz_5": {
     "agente": "veloz_5",
     "agente_nome": "Veloz (4h) Tendência 4h",
-    "trades": 14,
+    "trades": 15,
     "vitorias": 2,
-    "derrotas": 12,
-    "taxa_acerto_pct": 14.29,
-    "pnl_total_usdt": -18.3818,
-    "expectativa_media_usdt": -1.313,
-    "profit_factor": 0.0821,
-    "mfe_medio_pct": 1.5126,
-    "mae_medio_pct": -4.5689,
-    "duracao_mediana_horas": 20.014,
+    "derrotas": 13,
+    "taxa_acerto_pct": 13.33,
+    "pnl_total_usdt": -19.1855,
+    "expectativa_media_usdt": -1.279,
+    "profit_factor": 0.079,
+    "mfe_medio_pct": 1.4549,
+    "mae_medio_pct": -4.5449,
+    "duracao_mediana_horas": 20.012,
     "pos_saida": {
      "trades_rastreados": 14,
      "avaliacoes": 42,
@@ -4295,8 +4314,8 @@
        "agente": "veloz_5",
        "agente_nome": "Veloz (4h) Tendência 4h"
       },
-      "amostra": 14,
-      "evidencia": "14 de 14 saídas foram por stop; P&L somado de -18.38 USDT.",
+      "amostra": 15,
+      "evidencia": "14 de 15 saídas foram por stop; P&L somado de -19.19 USDT.",
       "hipotese_para_teste": "Comparar distância do stop, volatilidade e regimes em backtest fora da amostra. Isso ainda não prova que o stop esteja curto ou longo demais.",
       "status": "exploratoria",
       "aplicacao_automatica": false
@@ -4717,7 +4736,7 @@
     "inicial_usdt": 1200.0,
     "equity_usdt": 1200.0,
     "retorno_pct": 0.0,
-    "capturado_em": "2026-11-19T12:08:38+00:00",
+    "capturado_em": "2026-11-19T16:08:35+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": 0.0,
     "aberturas": 0,
@@ -4726,8 +4745,8 @@
     "posicoes_abertas": 0,
     "fundo": {
      "inicial_usdt": 12500.0,
-     "equity_usdt": 12487.39,
-     "retorno_pct": -0.1009
+     "equity_usdt": 12488.42,
+     "retorno_pct": -0.0926
     }
    },
    "delta": {
@@ -4736,7 +4755,7 @@
     "pnl_realizado_usdt": 32.81,
     "aberturas": -47,
     "posicoes_abertas": -7,
-    "fundo_retorno_pp": 0.8371
+    "fundo_retorno_pp": 0.8454
    }
   }
  }
