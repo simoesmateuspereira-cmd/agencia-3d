@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19T00:09:27+00:00",
+ "gerado_em": "2026-11-19T04:08:27+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 2,
  "cemiterio": [],
@@ -389,51 +389,6 @@
    ],
    "eventos": [
     {
-     "quando": "2026-11-18T17:08:42",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] AVAXUSDT LONG desde 6.963 | agora 6.953 | -0.1%"
-    },
-    {
-     "quando": "2026-11-18T17:08:44",
-     "acao": "ORDEM LONG",
-     "detalhe": "[veloz_4] DOTUSDT 53.95 DOT (~38.57 USDT) @ ~0.715 | stop 0.68448 | saÃ­da por regra | risco ~1.54 USDT Ã—0.75 | orderId 747036"
-    },
-    {
-     "quando": "2026-11-18T17:08:44",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] LTCUSDT LONG desde 43.76 | agora 43.71 | -0.1%"
-    },
-    {
-     "quando": "2026-11-18T17:08:44",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ATOMUSDT LONG desde 1.282 | agora 1.284 | +0.2%"
-    },
-    {
-     "quando": "2026-11-18T17:08:44",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] UNIUSDT LONG desde 5.127 | agora 5.156 | +0.6%"
-    },
-    {
-     "quando": "2026-11-18T17:08:47",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] FLOKIUSDT LONG desde 0.0000179 | agora 0.00001755 | -2.0%"
-    },
-    {
-     "quando": "2026-11-18T21:09:27",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] BTCUSDT LONG desde 63003.82 | agora 63068.22 | +0.1%"
-    },
-    {
-     "quando": "2026-11-18T21:09:27",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] ETHUSDT LONG desde 1768.97 | agora 1777.19 | +0.5%"
-    },
-    {
-     "quando": "2026-11-18T21:09:27",
-     "acao": "MANTER",
-     "detalhe": "[veloz_4] BNBUSDT LONG desde 579.35 | agora 582.71 | +0.6%"
-    },
-    {
      "quando": "2026-11-18T21:09:27",
      "acao": "MANTER",
      "detalhe": "[veloz_4] AVAXUSDT LONG desde 6.963 | agora 7.033 | +1.0%"
@@ -462,6 +417,51 @@
      "quando": "2026-11-18T21:09:27",
      "acao": "MANTER",
      "detalhe": "[veloz_4] FLOKIUSDT LONG desde 0.0000179 | agora 0.00001767 | -1.3%"
+    },
+    {
+     "quando": "2026-11-19T01:08:27",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BTCUSDT LONG desde 63003.82 | agora 63205.64 | +0.3%"
+    },
+    {
+     "quando": "2026-11-19T01:08:27",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ETHUSDT LONG desde 1768.97 | agora 1793.88 | +1.4%"
+    },
+    {
+     "quando": "2026-11-19T01:08:27",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] BNBUSDT LONG desde 579.35 | agora 584.05 | +0.8%"
+    },
+    {
+     "quando": "2026-11-19T01:08:27",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] AVAXUSDT LONG desde 6.963 | agora 7.068 | +1.5%"
+    },
+    {
+     "quando": "2026-11-19T01:08:27",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] DOTUSDT LONG desde 0.715 | agora 0.722 | +1.0%"
+    },
+    {
+     "quando": "2026-11-19T01:08:27",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] LTCUSDT LONG desde 43.76 | agora 44.45 | +1.6%"
+    },
+    {
+     "quando": "2026-11-19T01:08:27",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] ATOMUSDT LONG desde 1.282 | agora 1.311 | +2.3%"
+    },
+    {
+     "quando": "2026-11-19T01:08:27",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] UNIUSDT LONG desde 5.127 | agora 5.21 | +1.6%"
+    },
+    {
+     "quando": "2026-11-19T01:08:27",
+     "acao": "MANTER",
+     "detalhe": "[veloz_4] FLOKIUSDT LONG desde 0.0000179 | agora 0.00001783 | -0.4%"
     }
    ],
    "ranking": 2
@@ -1328,6 +1328,11 @@
      "quando": "2026-11-18T21:09:27",
      "acao": "MANTER",
      "detalhe": "[veloz_3] NEARUSDT LONG desde 3.385 | agora 3.303 | -2.4%"
+    },
+    {
+     "quando": "2026-11-19T01:08:27",
+     "acao": "MANTER",
+     "detalhe": "[veloz_3] NEARUSDT LONG desde 3.385 | agora 3.386 | +0.0%"
     }
    ],
    "ranking": 25
@@ -2594,7 +2599,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-11-19T00:09:27+00:00",
+  "gerado_em": "2026-11-19T04:08:27+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -2626,7 +2631,7 @@
   },
   "pos_saida": {
    "trades_rastreados": 417,
-   "avaliacoes": 1125,
+   "avaliacoes": 1128,
    "por_horizonte": [
     {
      "horizonte_barras": 1,
@@ -2644,10 +2649,10 @@
     },
     {
      "horizonte_barras": 7,
-     "avaliacoes": 291,
-     "mediana_retorno_desde_saida_pct": -1.7508,
-     "pct_acima_saida": 34.02,
-     "pct_recuperou_entrada": 40.55
+     "avaliacoes": 294,
+     "mediana_retorno_desde_saida_pct": -1.779,
+     "pct_acima_saida": 33.67,
+     "pct_recuperou_entrada": 41.16
     }
    ],
    "linhas_invalidas": 0
@@ -3122,7 +3127,7 @@
     "duracao_mediana_horas": 36.001,
     "pos_saida": {
      "trades_rastreados": 51,
-     "avaliacoes": 151,
+     "avaliacoes": 153,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -3140,10 +3145,10 @@
       },
       {
        "horizonte_barras": 7,
-       "avaliacoes": 49,
-       "mediana_retorno_desde_saida_pct": 0.3656,
-       "pct_acima_saida": 55.1,
-       "pct_recuperou_entrada": 65.31
+       "avaliacoes": 51,
+       "mediana_retorno_desde_saida_pct": 0.2418,
+       "pct_acima_saida": 52.94,
+       "pct_recuperou_entrada": 66.67
       }
      ]
     },
@@ -3191,7 +3196,7 @@
     "duracao_mediana_horas": 20.01,
     "pos_saida": {
      "trades_rastreados": 86,
-     "avaliacoes": 257,
+     "avaliacoes": 258,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -3209,10 +3214,10 @@
       },
       {
        "horizonte_barras": 7,
-       "avaliacoes": 85,
-       "mediana_retorno_desde_saida_pct": -0.9603,
-       "pct_acima_saida": 38.82,
-       "pct_recuperou_entrada": 61.18
+       "avaliacoes": 86,
+       "mediana_retorno_desde_saida_pct": -1.0141,
+       "pct_acima_saida": 38.37,
+       "pct_recuperou_entrada": 61.63
       }
      ]
     },
@@ -4740,7 +4745,7 @@
     "inicial_usdt": 1200.0,
     "equity_usdt": 1200.0,
     "retorno_pct": 0.0,
-    "capturado_em": "2026-11-19T00:09:27+00:00",
+    "capturado_em": "2026-11-19T04:08:27+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": 0.0,
     "aberturas": 0,
