@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-23T08:08:38+00:00",
+ "gerado_em": "2026-11-23T12:08:17+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 2,
  "cemiterio": [],
@@ -2621,7 +2621,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-11-23T08:08:38+00:00",
+  "gerado_em": "2026-11-23T12:08:18+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -2652,22 +2652,22 @@
    }
   },
   "pos_saida": {
-   "trades_rastreados": 516,
-   "avaliacoes": 1437,
+   "trades_rastreados": 517,
+   "avaliacoes": 1440,
    "por_horizonte": [
     {
      "horizonte_barras": 1,
-     "avaliacoes": 516,
+     "avaliacoes": 517,
      "mediana_retorno_desde_saida_pct": 0.3997,
-     "pct_acima_saida": 60.66,
-     "pct_recuperou_entrada": 32.36
+     "pct_acima_saida": 60.74,
+     "pct_recuperou_entrada": 32.5
     },
     {
      "horizonte_barras": 3,
-     "avaliacoes": 465,
-     "mediana_retorno_desde_saida_pct": 0.0549,
-     "pct_acima_saida": 50.11,
-     "pct_recuperou_entrada": 40.22
+     "avaliacoes": 467,
+     "mediana_retorno_desde_saida_pct": 0.0618,
+     "pct_acima_saida": 50.32,
+     "pct_recuperou_entrada": 40.47
     },
     {
      "horizonte_barras": 7,
@@ -2762,8 +2762,8 @@
      "tipo_saida": "regra",
      "horizonte_barras": 3
     },
-    "amostra": 49,
-    "evidencia": "34 de 49 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.58%.",
+    "amostra": 50,
+    "evidencia": "34 de 50 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.56%.",
     "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
     "status": "exploratoria",
     "aplicacao_automatica": false
@@ -2866,8 +2866,8 @@
      "tipo_saida": "regra",
      "horizonte_barras": 3
     },
-    "amostra": 30,
-    "evidencia": "21 de 30 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.37%.",
+    "amostra": 31,
+    "evidencia": "21 de 31 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.34%.",
     "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
     "status": "exploratoria",
     "aplicacao_automatica": false
@@ -4110,22 +4110,22 @@
     "mae_medio_pct": -4.1007,
     "duracao_mediana_horas": 32.004,
     "pos_saida": {
-     "trades_rastreados": 69,
-     "avaliacoes": 195,
+     "trades_rastreados": 70,
+     "avaliacoes": 197,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 69,
-       "mediana_retorno_desde_saida_pct": 0.1352,
-       "pct_acima_saida": 52.17,
-       "pct_recuperou_entrada": 56.52
+       "avaliacoes": 70,
+       "mediana_retorno_desde_saida_pct": 0.1484,
+       "pct_acima_saida": 52.86,
+       "pct_recuperou_entrada": 57.14
       },
       {
        "horizonte_barras": 3,
-       "avaliacoes": 66,
-       "mediana_retorno_desde_saida_pct": -0.1237,
-       "pct_acima_saida": 45.45,
-       "pct_recuperou_entrada": 63.64
+       "avaliacoes": 67,
+       "mediana_retorno_desde_saida_pct": -0.1105,
+       "pct_acima_saida": 46.27,
+       "pct_recuperou_entrada": 64.18
       },
       {
        "horizonte_barras": 7,
@@ -4159,8 +4159,8 @@
        "tipo_saida": "regra",
        "horizonte_barras": 3
       },
-      "amostra": 30,
-      "evidencia": "21 de 30 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.37%.",
+      "amostra": 31,
+      "evidencia": "21 de 31 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.34%.",
       "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
       "status": "exploratoria",
       "aplicacao_automatica": false
@@ -4696,7 +4696,7 @@
     "duracao_mediana_horas": 19.999,
     "pos_saida": {
      "trades_rastreados": 117,
-     "avaliacoes": 346,
+     "avaliacoes": 347,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -4707,10 +4707,10 @@
       },
       {
        "horizonte_barras": 3,
-       "avaliacoes": 116,
-       "mediana_retorno_desde_saida_pct": -0.8041,
-       "pct_acima_saida": 32.76,
-       "pct_recuperou_entrada": 54.31
+       "avaliacoes": 117,
+       "mediana_retorno_desde_saida_pct": -0.7863,
+       "pct_acima_saida": 33.33,
+       "pct_recuperou_entrada": 54.7
       },
       {
        "horizonte_barras": 7,
@@ -4744,8 +4744,8 @@
        "tipo_saida": "regra",
        "horizonte_barras": 3
       },
-      "amostra": 49,
-      "evidencia": "34 de 49 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.58%.",
+      "amostra": 50,
+      "evidencia": "34 de 50 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.56%.",
       "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
       "status": "exploratoria",
       "aplicacao_automatica": false
@@ -4975,7 +4975,7 @@
     "inicial_usdt": 1200.0,
     "equity_usdt": 1200.0,
     "retorno_pct": 0.0,
-    "capturado_em": "2026-11-23T08:08:38+00:00",
+    "capturado_em": "2026-11-23T12:08:17+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": 0.0,
     "aberturas": 0,
