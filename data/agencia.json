@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-23T12:08:17+00:00",
+ "gerado_em": "2026-11-23T16:08:38+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 2,
  "cemiterio": [],
@@ -902,39 +902,6 @@
    "ranking": 20
   },
   {
-   "chave": "veloz_2",
-   "nome": "Veloz (4h) Rompimento 4h",
-   "apelido": "Rompimento 4h",
-   "time": "veloz",
-   "cor": "#a78bfa",
-   "equity": 400.0,
-   "cota_inicial": 400.0,
-   "retorno_pct": 0.0,
-   "sharpe": null,
-   "max_dd": 0.0,
-   "status": "confiante",
-   "vida": 100.0,
-   "morta": false,
-   "geracao": 1,
-   "aberturas": 0,
-   "vitorias": 0,
-   "derrotas": 0,
-   "pnl": 0.0,
-   "historico": [
-    400.0,
-    400.0,
-    400.0,
-    400.0,
-    400.0,
-    400.0,
-    400.0,
-    400.0
-   ],
-   "posicoes": [],
-   "eventos": [],
-   "ranking": 21
-  },
-  {
    "chave": "veloz_3",
    "nome": "Veloz (4h) Momentum 4h",
    "apelido": "Momentum 4h",
@@ -965,6 +932,56 @@
    ],
    "posicoes": [],
    "eventos": [],
+   "ranking": 21
+  },
+  {
+   "chave": "veloz_2",
+   "nome": "Veloz (4h) Rompimento 4h",
+   "apelido": "Rompimento 4h",
+   "time": "veloz",
+   "cor": "#a78bfa",
+   "equity": 398.62,
+   "cota_inicial": 400.0,
+   "retorno_pct": -0.34,
+   "sharpe": null,
+   "max_dd": 0.0,
+   "status": "confiante",
+   "vida": 100.0,
+   "morta": false,
+   "geracao": 1,
+   "aberturas": 1,
+   "vitorias": 0,
+   "derrotas": 0,
+   "pnl": 0.0,
+   "historico": [
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0,
+    400.0
+   ],
+   "posicoes": [
+    {
+     "simbolo": "SOLUSDT",
+     "lado": "long",
+     "entrada": 75.59,
+     "stop": 72.12857143,
+     "alvo": 84.48857143,
+     "quantidade": 0.283,
+     "gasto_usdt": 21.392,
+     "aberta_em": "2026-11-23T16:08:38+00:00"
+    }
+   ],
+   "eventos": [
+    {
+     "quando": "2026-11-23T13:08:38",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_2] SOLUSDT 0.283 SOL (~21.39 USDT) @ ~75.59 | stop 72.128571 | alvo 84.488571 | risco ~1.00 USDT Ã—0.5 | orderId 3114389"
+    }
+   ],
    "ranking": 22
   },
   {
@@ -2621,7 +2638,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-11-23T12:08:18+00:00",
+  "gerado_em": "2026-11-23T16:08:39+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -2629,14 +2646,14 @@
    "amostra_minima_para_hipotese": 5
   },
   "resumo": {
-   "aberturas_registradas": 557,
+   "aberturas_registradas": 558,
    "fechadas": 517,
    "completas": 445,
    "legadas": 72,
    "fechamentos_duplicados": 56,
    "linhas_invalidas": 0,
-   "posicoes_abertas": 85,
-   "abertas_com_memoria": 85,
+   "posicoes_abertas": 86,
+   "abertas_com_memoria": 86,
    "abertas_legadas_sem_memoria": 0,
    "metricas": {
     "trades": 517,
@@ -2653,7 +2670,7 @@
   },
   "pos_saida": {
    "trades_rastreados": 517,
-   "avaliacoes": 1440,
+   "avaliacoes": 1447,
    "por_horizonte": [
     {
      "horizonte_barras": 1,
@@ -2664,17 +2681,17 @@
     },
     {
      "horizonte_barras": 3,
-     "avaliacoes": 467,
-     "mediana_retorno_desde_saida_pct": 0.0618,
-     "pct_acima_saida": 50.32,
-     "pct_recuperou_entrada": 40.47
+     "avaliacoes": 469,
+     "mediana_retorno_desde_saida_pct": 0.077,
+     "pct_acima_saida": 50.53,
+     "pct_recuperou_entrada": 40.72
     },
     {
      "horizonte_barras": 7,
-     "avaliacoes": 456,
-     "mediana_retorno_desde_saida_pct": -3.1639,
-     "pct_acima_saida": 28.07,
-     "pct_recuperou_entrada": 42.32
+     "avaliacoes": 461,
+     "mediana_retorno_desde_saida_pct": -3.0478,
+     "pct_acima_saida": 28.85,
+     "pct_recuperou_entrada": 42.95
     }
    ],
    "linhas_invalidas": 0
@@ -2776,8 +2793,8 @@
      "tipo_saida": "regra",
      "horizonte_barras": 7
     },
-    "amostra": 46,
-    "evidencia": "29 de 46 operações fecharam abaixo do preço de saída após 7 candles; mediana de -1.81%.",
+    "amostra": 47,
+    "evidencia": "29 de 47 operações fecharam abaixo do preço de saída após 7 candles; mediana de -1.78%.",
     "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
     "status": "exploratoria",
     "aplicacao_automatica": false
@@ -2845,6 +2862,20 @@
     "aplicacao_automatica": false
    },
    {
+    "tipo": "saida_protetora",
+    "escopo": {
+     "agente": "veloz_1",
+     "agente_nome": "Veloz (4h) Reversão 4h",
+     "tipo_saida": "regra",
+     "horizonte_barras": 3
+    },
+    "amostra": 33,
+    "evidencia": "21 de 33 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.21%.",
+    "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
+    "status": "exploratoria",
+    "aplicacao_automatica": false
+   },
+   {
     "tipo": "recuperacao_apos_saida",
     "escopo": {
      "agente": "veloz_1",
@@ -2855,20 +2886,6 @@
     "amostra": 32,
     "evidencia": "21 de 32 operações fecharam acima do preço de saída após 7 candles; mediana de 0.46%.",
     "hipotese_para_teste": "Comparar a saída original com uma alternativa em walk-forward. A recuperação posterior é uma pista de possível saída precoce, não prova de erro nem de lucro recuperável.",
-    "status": "exploratoria",
-    "aplicacao_automatica": false
-   },
-   {
-    "tipo": "saida_protetora",
-    "escopo": {
-     "agente": "veloz_1",
-     "agente_nome": "Veloz (4h) Reversão 4h",
-     "tipo_saida": "regra",
-     "horizonte_barras": 3
-    },
-    "amostra": 31,
-    "evidencia": "21 de 31 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.34%.",
-    "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
     "status": "exploratoria",
     "aplicacao_automatica": false
    },
@@ -4111,7 +4128,7 @@
     "duracao_mediana_horas": 32.004,
     "pos_saida": {
      "trades_rastreados": 70,
-     "avaliacoes": 197,
+     "avaliacoes": 203,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -4122,21 +4139,35 @@
       },
       {
        "horizonte_barras": 3,
-       "avaliacoes": 67,
-       "mediana_retorno_desde_saida_pct": -0.1105,
-       "pct_acima_saida": 46.27,
-       "pct_recuperou_entrada": 64.18
+       "avaliacoes": 69,
+       "mediana_retorno_desde_saida_pct": -0.0987,
+       "pct_acima_saida": 47.83,
+       "pct_recuperou_entrada": 65.22
       },
       {
        "horizonte_barras": 7,
-       "avaliacoes": 60,
-       "mediana_retorno_desde_saida_pct": 0.4216,
-       "pct_acima_saida": 58.33,
-       "pct_recuperou_entrada": 66.67
+       "avaliacoes": 64,
+       "mediana_retorno_desde_saida_pct": 0.4576,
+       "pct_acima_saida": 60.94,
+       "pct_recuperou_entrada": 68.75
       }
      ]
     },
     "hipoteses": [
+     {
+      "tipo": "saida_protetora",
+      "escopo": {
+       "agente": "veloz_1",
+       "agente_nome": "Veloz (4h) Reversão 4h",
+       "tipo_saida": "regra",
+       "horizonte_barras": 3
+      },
+      "amostra": 33,
+      "evidencia": "21 de 33 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.21%.",
+      "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
+      "status": "exploratoria",
+      "aplicacao_automatica": false
+     },
      {
       "tipo": "recuperacao_apos_saida",
       "escopo": {
@@ -4148,20 +4179,6 @@
       "amostra": 32,
       "evidencia": "21 de 32 operações fecharam acima do preço de saída após 7 candles; mediana de 0.46%.",
       "hipotese_para_teste": "Comparar a saída original com uma alternativa em walk-forward. A recuperação posterior é uma pista de possível saída precoce, não prova de erro nem de lucro recuperável.",
-      "status": "exploratoria",
-      "aplicacao_automatica": false
-     },
-     {
-      "tipo": "saida_protetora",
-      "escopo": {
-       "agente": "veloz_1",
-       "agente_nome": "Veloz (4h) Reversão 4h",
-       "tipo_saida": "regra",
-       "horizonte_barras": 3
-      },
-      "amostra": 31,
-      "evidencia": "21 de 31 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.34%.",
-      "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
       "status": "exploratoria",
       "aplicacao_automatica": false
      },
@@ -4696,7 +4713,7 @@
     "duracao_mediana_horas": 19.999,
     "pos_saida": {
      "trades_rastreados": 117,
-     "avaliacoes": 347,
+     "avaliacoes": 348,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -4714,10 +4731,10 @@
       },
       {
        "horizonte_barras": 7,
-       "avaliacoes": 113,
-       "mediana_retorno_desde_saida_pct": -0.9409,
-       "pct_acima_saida": 43.36,
-       "pct_recuperou_entrada": 58.41
+       "avaliacoes": 114,
+       "mediana_retorno_desde_saida_pct": -0.8776,
+       "pct_acima_saida": 43.86,
+       "pct_recuperou_entrada": 58.77
       }
      ]
     },
@@ -4758,8 +4775,8 @@
        "tipo_saida": "regra",
        "horizonte_barras": 7
       },
-      "amostra": 46,
-      "evidencia": "29 de 46 operações fecharam abaixo do preço de saída após 7 candles; mediana de -1.81%.",
+      "amostra": 47,
+      "evidencia": "29 de 47 operações fecharam abaixo do preço de saída após 7 candles; mediana de -1.78%.",
       "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
       "status": "exploratoria",
       "aplicacao_automatica": false
@@ -4975,7 +4992,7 @@
     "inicial_usdt": 1200.0,
     "equity_usdt": 1200.0,
     "retorno_pct": 0.0,
-    "capturado_em": "2026-11-23T12:08:17+00:00",
+    "capturado_em": "2026-11-23T16:08:38+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": 0.0,
     "aberturas": 0,
@@ -4984,8 +5001,8 @@
     "posicoes_abertas": 0,
     "fundo": {
      "inicial_usdt": 12500.0,
-     "equity_usdt": 12337.03,
-     "retorno_pct": -1.3038
+     "equity_usdt": 12335.65,
+     "retorno_pct": -1.3148
     }
    },
    "delta": {
@@ -4994,7 +5011,7 @@
     "pnl_realizado_usdt": 32.81,
     "aberturas": -47,
     "posicoes_abertas": -7,
-    "fundo_retorno_pp": -0.3658
+    "fundo_retorno_pp": -0.3768
    }
   }
  }
