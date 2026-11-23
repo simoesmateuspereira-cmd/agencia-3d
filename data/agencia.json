@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-23T16:08:38+00:00",
+ "gerado_em": "2026-11-23T20:08:30+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 2,
  "cemiterio": [],
@@ -980,6 +980,11 @@
      "quando": "2026-11-23T13:08:38",
      "acao": "ORDEM LONG",
      "detalhe": "[veloz_2] SOLUSDT 0.283 SOL (~21.39 USDT) @ ~75.59 | stop 72.128571 | alvo 84.488571 | risco ~1.00 USDT Ã—0.5 | orderId 3114389"
+    },
+    {
+     "quando": "2026-11-23T17:08:30",
+     "acao": "MANTER",
+     "detalhe": "[veloz_2] SOLUSDT LONG desde 75.59 | agora 73.1 | -3.3%"
     }
    ],
    "ranking": 22
@@ -2638,7 +2643,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-11-23T16:08:39+00:00",
+  "gerado_em": "2026-11-23T20:08:30+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -2670,7 +2675,7 @@
   },
   "pos_saida": {
    "trades_rastreados": 517,
-   "avaliacoes": 1447,
+   "avaliacoes": 1449,
    "por_horizonte": [
     {
      "horizonte_barras": 1,
@@ -2681,17 +2686,17 @@
     },
     {
      "horizonte_barras": 3,
-     "avaliacoes": 469,
-     "mediana_retorno_desde_saida_pct": 0.077,
-     "pct_acima_saida": 50.53,
-     "pct_recuperou_entrada": 40.72
+     "avaliacoes": 470,
+     "mediana_retorno_desde_saida_pct": 0.0864,
+     "pct_acima_saida": 50.64,
+     "pct_recuperou_entrada": 40.85
     },
     {
      "horizonte_barras": 7,
-     "avaliacoes": 461,
-     "mediana_retorno_desde_saida_pct": -3.0478,
-     "pct_acima_saida": 28.85,
-     "pct_recuperou_entrada": 42.95
+     "avaliacoes": 462,
+     "mediana_retorno_desde_saida_pct": -3.0234,
+     "pct_acima_saida": 29.0,
+     "pct_recuperou_entrada": 43.07
     }
    ],
    "linhas_invalidas": 0
@@ -2869,8 +2874,8 @@
      "tipo_saida": "regra",
      "horizonte_barras": 3
     },
-    "amostra": 33,
-    "evidencia": "21 de 33 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.21%.",
+    "amostra": 34,
+    "evidencia": "21 de 34 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.21%.",
     "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
     "status": "exploratoria",
     "aplicacao_automatica": false
@@ -4128,7 +4133,7 @@
     "duracao_mediana_horas": 32.004,
     "pos_saida": {
      "trades_rastreados": 70,
-     "avaliacoes": 203,
+     "avaliacoes": 205,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -4139,17 +4144,17 @@
       },
       {
        "horizonte_barras": 3,
-       "avaliacoes": 69,
-       "mediana_retorno_desde_saida_pct": -0.0987,
-       "pct_acima_saida": 47.83,
-       "pct_recuperou_entrada": 65.22
+       "avaliacoes": 70,
+       "mediana_retorno_desde_saida_pct": -0.0776,
+       "pct_acima_saida": 48.57,
+       "pct_recuperou_entrada": 65.71
       },
       {
        "horizonte_barras": 7,
-       "avaliacoes": 64,
-       "mediana_retorno_desde_saida_pct": 0.4576,
-       "pct_acima_saida": 60.94,
-       "pct_recuperou_entrada": 68.75
+       "avaliacoes": 65,
+       "mediana_retorno_desde_saida_pct": 0.4585,
+       "pct_acima_saida": 61.54,
+       "pct_recuperou_entrada": 69.23
       }
      ]
     },
@@ -4162,8 +4167,8 @@
        "tipo_saida": "regra",
        "horizonte_barras": 3
       },
-      "amostra": 33,
-      "evidencia": "21 de 33 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.21%.",
+      "amostra": 34,
+      "evidencia": "21 de 34 operações fecharam abaixo do preço de saída após 3 candles; mediana de -0.21%.",
       "hipotese_para_teste": "Confirmar em dados fora da amostra se a saída ajudou a limitar perdas. Não aumentar risco nem preservar uma regra apenas por este recorte.",
       "status": "exploratoria",
       "aplicacao_automatica": false
@@ -4992,7 +4997,7 @@
     "inicial_usdt": 1200.0,
     "equity_usdt": 1200.0,
     "retorno_pct": 0.0,
-    "capturado_em": "2026-11-23T16:08:38+00:00",
+    "capturado_em": "2026-11-23T20:08:30+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": 0.0,
     "aberturas": 0,
