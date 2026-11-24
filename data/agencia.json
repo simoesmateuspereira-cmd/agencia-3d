@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24T00:09:03+00:00",
+ "gerado_em": "2026-11-24T04:08:22+00:00",
  "inicio": "2026-10-15T22:54:07+00:00",
  "temporada": 2,
  "cemiterio": [],
@@ -1011,16 +1011,16 @@
    "apelido": "Tendência 4h",
    "time": "veloz",
    "cor": "#a78bfa",
-   "equity": 397.4,
+   "equity": 397.5,
    "cota_inicial": 400.0,
-   "retorno_pct": -0.65,
+   "retorno_pct": -0.62,
    "sharpe": -9.52,
    "max_dd": 0.65,
    "status": "confiante",
    "vida": 98.7,
    "morta": false,
    "geracao": 1,
-   "aberturas": 3,
+   "aberturas": 5,
    "vitorias": 0,
    "derrotas": 2,
    "pnl": -2.6,
@@ -1045,6 +1045,26 @@
      "quantidade": 287.3,
      "gasto_usdt": 89.0917,
      "aberta_em": "2026-11-24T00:09:03+00:00"
+    },
+    {
+     "simbolo": "SOLUSDT",
+     "lado": "long",
+     "entrada": 71.45,
+     "stop": 67.59142857,
+     "alvo": 79.01714286,
+     "quantidade": 0.26,
+     "gasto_usdt": 18.577,
+     "aberta_em": "2026-11-24T04:08:20+00:00"
+    },
+    {
+     "simbolo": "LINKUSDT",
+     "lado": "long",
+     "entrada": 9.035,
+     "stop": 8.63871429,
+     "alvo": 9.83657143,
+     "quantidade": 2.49,
+     "gasto_usdt": 22.4972,
+     "aberta_em": "2026-11-24T04:08:22+00:00"
     }
    ],
    "eventos": [
@@ -1052,6 +1072,21 @@
      "quando": "2026-11-23T21:09:03",
      "acao": "ORDEM LONG",
      "detalhe": "[veloz_5] TRXUSDT 287.3 TRX (~89.09 USDT) @ ~0.3101 | stop 0.30664286 | alvo 0.31701429 | risco ~0.99 USDT Ã—0.5 | orderId 442673"
+    },
+    {
+     "quando": "2026-11-24T01:08:20",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_5] SOLUSDT 0.26 SOL (~18.58 USDT) @ ~71.45 | stop 67.591429 | alvo 79.017143 | risco ~0.99 USDT Ã—0.5 | orderId 3151766"
+    },
+    {
+     "quando": "2026-11-24T01:08:22",
+     "acao": "ORDEM LONG",
+     "detalhe": "[veloz_5] LINKUSDT 2.49 LINK (~22.50 USDT) @ ~9.035 | stop 8.6387143 | alvo 9.8365714 | risco ~0.99 USDT Ã—0.5 | orderId 3121039"
+    },
+    {
+     "quando": "2026-11-24T01:08:22",
+     "acao": "MANTER",
+     "detalhe": "[veloz_5] TRXUSDT LONG desde 0.3101 | agora 0.3094 | -0.2%"
     }
    ],
    "ranking": 23
@@ -2704,7 +2739,7 @@
   }
  ],
  "aprendizado": {
-  "gerado_em": "2026-11-24T00:09:03+00:00",
+  "gerado_em": "2026-11-24T04:08:23+00:00",
   "politica": {
    "modo": "observar_e_diagnosticar",
    "mudancas_de_regras_aplicadas": 0,
@@ -2712,14 +2747,14 @@
    "amostra_minima_para_hipotese": 5
   },
   "resumo": {
-   "aberturas_registradas": 561,
+   "aberturas_registradas": 563,
    "fechadas": 518,
    "completas": 446,
    "legadas": 72,
    "fechamentos_duplicados": 56,
    "linhas_invalidas": 0,
-   "posicoes_abertas": 88,
-   "abertas_com_memoria": 88,
+   "posicoes_abertas": 90,
+   "abertas_com_memoria": 90,
    "abertas_legadas_sem_memoria": 0,
    "metricas": {
     "trades": 518,
@@ -2735,15 +2770,15 @@
    }
   },
   "pos_saida": {
-   "trades_rastreados": 517,
-   "avaliacoes": 1474,
+   "trades_rastreados": 518,
+   "avaliacoes": 1477,
    "por_horizonte": [
     {
      "horizonte_barras": 1,
-     "avaliacoes": 517,
+     "avaliacoes": 518,
      "mediana_retorno_desde_saida_pct": 0.3997,
-     "pct_acima_saida": 60.74,
-     "pct_recuperou_entrada": 32.5
+     "pct_acima_saida": 60.62,
+     "pct_recuperou_entrada": 32.43
     },
     {
      "horizonte_barras": 3,
@@ -2754,10 +2789,10 @@
     },
     {
      "horizonte_barras": 7,
-     "avaliacoes": 465,
-     "mediana_retorno_desde_saida_pct": -2.9907,
-     "pct_acima_saida": 29.46,
-     "pct_recuperou_entrada": 43.44
+     "avaliacoes": 467,
+     "mediana_retorno_desde_saida_pct": -2.9818,
+     "pct_acima_saida": 29.76,
+     "pct_recuperou_entrada": 43.68
     }
    ],
    "linhas_invalidas": 0
@@ -2977,8 +3012,8 @@
      "tipo_saida": "regra",
      "horizonte_barras": 7
     },
-    "amostra": 30,
-    "evidencia": "18 de 30 operações fecharam acima do preço de saída após 7 candles; mediana de 0.60%.",
+    "amostra": 31,
+    "evidencia": "19 de 31 operações fecharam acima do preço de saída após 7 candles; mediana de 0.71%.",
     "hipotese_para_teste": "Comparar a saída original com uma alternativa em walk-forward. A recuperação posterior é uma pista de possível saída precoce, não prova de erro nem de lucro recuperável.",
     "status": "exploratoria",
     "aplicacao_automatica": false
@@ -4167,7 +4202,7 @@
     "duracao_mediana_horas": 32.004,
     "pos_saida": {
      "trades_rastreados": 70,
-     "avaliacoes": 206,
+     "avaliacoes": 207,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -4185,10 +4220,10 @@
       },
       {
        "horizonte_barras": 7,
-       "avaliacoes": 66,
-       "mediana_retorno_desde_saida_pct": 0.476,
-       "pct_acima_saida": 62.12,
-       "pct_recuperou_entrada": 69.7
+       "avaliacoes": 67,
+       "mediana_retorno_desde_saida_pct": 0.4936,
+       "pct_acima_saida": 62.69,
+       "pct_recuperou_entrada": 70.15
       }
      ]
     },
@@ -4229,8 +4264,8 @@
        "tipo_saida": "regra",
        "horizonte_barras": 7
       },
-      "amostra": 30,
-      "evidencia": "18 de 30 operações fecharam acima do preço de saída após 7 candles; mediana de 0.60%.",
+      "amostra": 31,
+      "evidencia": "19 de 31 operações fecharam acima do preço de saída após 7 candles; mediana de 0.71%.",
       "hipotese_para_teste": "Comparar a saída original com uma alternativa em walk-forward. A recuperação posterior é uma pista de possível saída precoce, não prova de erro nem de lucro recuperável.",
       "status": "exploratoria",
       "aplicacao_automatica": false
@@ -4807,15 +4842,15 @@
     "mae_medio_pct": -6.6311,
     "duracao_mediana_horas": 23.999,
     "pos_saida": {
-     "trades_rastreados": 11,
-     "avaliacoes": 33,
+     "trades_rastreados": 12,
+     "avaliacoes": 34,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
-       "avaliacoes": 11,
-       "mediana_retorno_desde_saida_pct": 0.5637,
-       "pct_acima_saida": 81.82,
-       "pct_recuperou_entrada": 9.09
+       "avaliacoes": 12,
+       "mediana_retorno_desde_saida_pct": 0.4817,
+       "pct_acima_saida": 75.0,
+       "pct_recuperou_entrada": 8.33
       },
       {
        "horizonte_barras": 3,
@@ -4877,7 +4912,7 @@
     "duracao_mediana_horas": 19.999,
     "pos_saida": {
      "trades_rastreados": 117,
-     "avaliacoes": 350,
+     "avaliacoes": 351,
      "por_horizonte": [
       {
        "horizonte_barras": 1,
@@ -4895,10 +4930,10 @@
       },
       {
        "horizonte_barras": 7,
-       "avaliacoes": 116,
-       "mediana_retorno_desde_saida_pct": -0.8044,
-       "pct_acima_saida": 44.83,
-       "pct_recuperou_entrada": 59.48
+       "avaliacoes": 117,
+       "mediana_retorno_desde_saida_pct": -0.7946,
+       "pct_acima_saida": 45.3,
+       "pct_recuperou_entrada": 59.83
       }
      ]
     },
@@ -5142,7 +5177,7 @@
     "inicial_usdt": 1200.0,
     "equity_usdt": 1200.0,
     "retorno_pct": 0.0,
-    "capturado_em": "2026-11-24T00:09:03+00:00",
+    "capturado_em": "2026-11-24T04:08:22+00:00",
     "agentes": 3,
     "pnl_realizado_usdt": 0.0,
     "aberturas": 0,
@@ -5151,8 +5186,8 @@
     "posicoes_abertas": 0,
     "fundo": {
      "inicial_usdt": 12500.0,
-     "equity_usdt": 12362.57,
-     "retorno_pct": -1.0994
+     "equity_usdt": 12362.67,
+     "retorno_pct": -1.0986
     }
    },
    "delta": {
@@ -5161,7 +5196,7 @@
     "pnl_realizado_usdt": 32.81,
     "aberturas": -47,
     "posicoes_abertas": -7,
-    "fundo_retorno_pp": -0.1614
+    "fundo_retorno_pp": -0.1606
    }
   }
  }
